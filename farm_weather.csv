@@ -1,4 +1,4 @@
-weather _id,district_id,MaxT,MinT,WindSpeed,Humidity ,Precipitation
+weather_id,district_id,maxT,minT,windspeed,humidity,precipitation
 1,1,29.5,21.8,1.6,70.2,0
 2,2,30.1,21,1.6,67.4,0
 3,3,29.9,21.1,1.7,65.2,0
