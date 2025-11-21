@@ -1,0 +1,3441 @@
+﻿crop_id,crop_name,crop_group
+1,Ambada Seed,Vegetables
+2,Ambada Seed,Vegetables
+3,Ambada Seed,Vegetables
+4,Ambada Seed,Vegetables
+5,Wool,Vegetables
+6,Wool,Vegetables
+7,Wool,Vegetables
+8,Wool,Vegetables
+9,Pointed gourd (Parval),Vegetables
+10,Pointed gourd (Parval),Vegetables
+11,Pointed gourd (Parval),Vegetables
+12,Pointed gourd (Parval),Vegetables
+13,Gladiolus Bulb,Vegetables
+14,Gladiolus Bulb,Vegetables
+15,Gladiolus Bulb,Vegetables
+16,Gladiolus Bulb,Vegetables
+17,Thogrikai,Vegetables
+18,Thogrikai,Vegetables
+19,Thogrikai,Vegetables
+20,Thogrikai,Vegetables
+21,Coconut Oil,Vegetables
+22,Coconut Oil,Vegetables
+23,Coconut Oil,Vegetables
+24,Coconut Oil,Vegetables
+25,Ajwan,Vegetables
+26,Ajwan,Vegetables
+27,Ajwan,Vegetables
+28,Ajwan,Vegetables
+29,Linseed,Vegetables
+30,Linseed,Vegetables
+31,Linseed,Vegetables
+32,Linseed,Vegetables
+33,Pepper ungarbled,Vegetables
+34,Pepper ungarbled,Vegetables
+35,Pepper ungarbled,Vegetables
+36,Pepper ungarbled,Vegetables
+37,Green Chilli,Vegetables
+38,Green Chilli,Vegetables
+39,Green Chilli,Vegetables
+40,Green Chilli,Vegetables
+41,Soapnut(AntawalaRetha),Vegetables
+42,Soapnut(AntawalaRetha),Vegetables
+43,Soapnut(AntawalaRetha),Vegetables
+44,Soapnut(AntawalaRetha),Vegetables
+45,Duck,Vegetables
+46,Duck,Vegetables
+47,Duck,Vegetables
+48,Duck,Vegetables
+49,BOP,Vegetables
+50,BOP,Vegetables
+51,BOP,Vegetables
+52,BOP,Vegetables
+53,Sugar,Vegetables
+54,Sugar,Vegetables
+55,Sugar,Vegetables
+56,Sugar,Vegetables
+57,Jowar(Sorghum),Vegetables
+58,Jowar(Sorghum),Vegetables
+59,Jowar(Sorghum),Vegetables
+60,Jowar(Sorghum),Vegetables
+61,Resinwood,Vegetables
+62,Resinwood,Vegetables
+63,Resinwood,Vegetables
+64,Resinwood,Vegetables
+65,Drumstick,Vegetables
+66,Drumstick,Vegetables
+67,Drumstick,Vegetables
+68,Drumstick,Vegetables
+69,Ground Nut Oil,Vegetables
+70,Ground Nut Oil,Vegetables
+71,Ground Nut Oil,Vegetables
+72,Ground Nut Oil,Vegetables
+73,He Buffalo,Vegetables
+74,He Buffalo,Vegetables
+75,He Buffalo,Vegetables
+76,He Buffalo,Vegetables
+77,Chow Chow,Vegetables
+78,Chow Chow,Vegetables
+79,Chow Chow,Vegetables
+80,Chow Chow,Vegetables
+81,Egypian Clover(Barseem),Vegetables
+82,Egypian Clover(Barseem),Vegetables
+83,Egypian Clover(Barseem),Vegetables
+84,Egypian Clover(Barseem),Vegetables
+85,Gram Raw(Chholia),Vegetables
+86,Gram Raw(Chholia),Vegetables
+87,Gram Raw(Chholia),Vegetables
+88,Gram Raw(Chholia),Vegetables
+89,Raya,Vegetables
+90,Raya,Vegetables
+91,Raya,Vegetables
+92,Raya,Vegetables
+93,Bottle gourd,Vegetables
+94,Bottle gourd,Vegetables
+95,Bottle gourd,Vegetables
+96,Bottle gourd,Vegetables
+97,Arhar Dal(Tur Dal),Vegetables
+98,Arhar Dal(Tur Dal),Vegetables
+99,Arhar Dal(Tur Dal),Vegetables
+100,Arhar Dal(Tur Dal),Vegetables
+101,Jaffri,Vegetables
+102,Jaffri,Vegetables
+103,Jaffri,Vegetables
+104,Jaffri,Vegetables
+105,Mango (Raw-Ripe),Vegetables
+106,Mango (Raw-Ripe),Vegetables
+107,Mango (Raw-Ripe),Vegetables
+108,Mango (Raw-Ripe),Vegetables
+109,Soyabean,Vegetables
+110,Soyabean,Vegetables
+111,Soyabean,Vegetables
+112,Soyabean,Vegetables
+113,Bengal Gram Dal (Chana Dal),Vegetables
+114,Bengal Gram Dal (Chana Dal),Vegetables
+115,Bengal Gram Dal (Chana Dal),Vegetables
+116,Bengal Gram Dal (Chana Dal),Vegetables
+117,Onion,Vegetables
+118,Onion,Vegetables
+119,Onion,Vegetables
+120,Onion,Vegetables
+121,Potato,Vegetables
+122,Potato,Vegetables
+123,Potato,Vegetables
+124,Potato,Vegetables
+125,Green Gram Dal (Moong Dal),Vegetables
+126,Green Gram Dal (Moong Dal),Vegetables
+127,Green Gram Dal (Moong Dal),Vegetables
+128,Green Gram Dal (Moong Dal),Vegetables
+129,Borehannu,Vegetables
+130,Borehannu,Vegetables
+131,Borehannu,Vegetables
+132,Borehannu,Vegetables
+133,Almond(Badam),Vegetables
+134,Almond(Badam),Vegetables
+135,Almond(Badam),Vegetables
+136,Almond(Badam),Vegetables
+137,Peas cod,Vegetables
+138,Peas cod,Vegetables
+139,Peas cod,Vegetables
+140,Peas cod,Vegetables
+141,Peas(Dry),Vegetables
+142,Peas(Dry),Vegetables
+143,Peas(Dry),Vegetables
+144,Peas(Dry),Vegetables
+145,Peach,Vegetables
+146,Peach,Vegetables
+147,Peach,Vegetables
+148,Peach,Vegetables
+149,Sompu,Vegetables
+150,Sompu,Vegetables
+151,Sompu,Vegetables
+152,Sompu,Vegetables
+153,Papaya,Vegetables
+154,Papaya,Vegetables
+155,Papaya,Vegetables
+156,Papaya,Vegetables
+157,Green Fodder,Vegetables
+158,Green Fodder,Vegetables
+159,Green Fodder,Vegetables
+160,Green Fodder,Vegetables
+161,Sheep,Vegetables
+162,Sheep,Vegetables
+163,Sheep,Vegetables
+164,Sheep,Vegetables
+165,Round gourd,Vegetables
+166,Round gourd,Vegetables
+167,Round gourd,Vegetables
+168,Round gourd,Vegetables
+169,Suvarna Gadde,Vegetables
+170,Suvarna Gadde,Vegetables
+171,Suvarna Gadde,Vegetables
+172,Suvarna Gadde,Vegetables
+173,Chrysanthemum,Vegetables
+174,Chrysanthemum,Vegetables
+175,Chrysanthemum,Vegetables
+176,Chrysanthemum,Vegetables
+177,Groundnut (Split),Vegetables
+178,Groundnut (Split),Vegetables
+179,Groundnut (Split),Vegetables
+180,Groundnut (Split),Vegetables
+181,Lotus,Vegetables
+182,Lotus,Vegetables
+183,Lotus,Vegetables
+184,Lotus,Vegetables
+185,Gramflour,Vegetables
+186,Gramflour,Vegetables
+187,Gramflour,Vegetables
+188,Gramflour,Vegetables
+189,Tamarind Fruit,Vegetables
+190,Tamarind Fruit,Vegetables
+191,Tamarind Fruit,Vegetables
+192,Tamarind Fruit,Vegetables
+193,Rice,Vegetables
+194,Rice,Vegetables
+195,Rice,Vegetables
+196,Rice,Vegetables
+197,Javi,Vegetables
+198,Javi,Vegetables
+199,Javi,Vegetables
+200,Javi,Vegetables
+201,Daila(Chandni),Vegetables
+202,Daila(Chandni),Vegetables
+203,Daila(Chandni),Vegetables
+204,Daila(Chandni),Vegetables
+205,Nelli Kai,Vegetables
+206,Nelli Kai,Vegetables
+207,Nelli Kai,Vegetables
+208,Nelli Kai,Vegetables
+209,Cucumbar(Kheera),Vegetables
+210,Cucumbar(Kheera),Vegetables
+211,Cucumbar(Kheera),Vegetables
+212,Cucumbar(Kheera),Vegetables
+213,Isabgul (Psyllium),Vegetables
+214,Isabgul (Psyllium),Vegetables
+215,Isabgul (Psyllium),Vegetables
+216,Isabgul (Psyllium),Vegetables
+217,Jamamkhan,Vegetables
+218,Jamamkhan,Vegetables
+219,Jamamkhan,Vegetables
+220,Jamamkhan,Vegetables
+221,Beetroot,Vegetables
+222,Beetroot,Vegetables
+223,Beetroot,Vegetables
+224,Beetroot,Vegetables
+225,Green Avare (W),Vegetables
+226,Green Avare (W),Vegetables
+227,Green Avare (W),Vegetables
+228,Green Avare (W),Vegetables
+229,Cloves,Vegetables
+230,Cloves,Vegetables
+231,Cloves,Vegetables
+232,Cloves,Vegetables
+233,Polherb,Vegetables
+234,Polherb,Vegetables
+235,Polherb,Vegetables
+236,Polherb,Vegetables
+237,Tamarind Seed,Vegetables
+238,Tamarind Seed,Vegetables
+239,Tamarind Seed,Vegetables
+240,Tamarind Seed,Vegetables
+241,Ragi (Finger Millet),Vegetables
+242,Ragi (Finger Millet),Vegetables
+243,Ragi (Finger Millet),Vegetables
+244,Ragi (Finger Millet),Vegetables
+245,Beaten Rice,Vegetables
+246,Beaten Rice,Vegetables
+247,Beaten Rice,Vegetables
+248,Beaten Rice,Vegetables
+249,Dal (Avare),Vegetables
+250,Dal (Avare),Vegetables
+251,Dal (Avare),Vegetables
+252,Dal (Avare),Vegetables
+253,Taramira,Vegetables
+254,Taramira,Vegetables
+255,Taramira,Vegetables
+256,Taramira,Vegetables
+257,Dry Fodder,Vegetables
+258,Dry Fodder,Vegetables
+259,Dry Fodder,Vegetables
+260,Dry Fodder,Vegetables
+261,Yam,Vegetables
+262,Yam,Vegetables
+263,Yam,Vegetables
+264,Yam,Vegetables
+265,Sunflower Seed,Vegetables
+266,Sunflower Seed,Vegetables
+267,Sunflower Seed,Vegetables
+268,Sunflower Seed,Vegetables
+269,Arhar (TurRed Gram)(Whole),Vegetables
+270,Arhar (TurRed Gram)(Whole),Vegetables
+271,Arhar (TurRed Gram)(Whole),Vegetables
+272,Arhar (TurRed Gram)(Whole),Vegetables
+273,Carrot,Vegetables
+274,Carrot,Vegetables
+275,Carrot,Vegetables
+276,Carrot,Vegetables
+277,Hippe Seed,Vegetables
+278,Hippe Seed,Vegetables
+279,Hippe Seed,Vegetables
+280,Hippe Seed,Vegetables
+281,Orange,Vegetables
+282,Orange,Vegetables
+283,Orange,Vegetables
+284,Orange,Vegetables
+285,Sunflower,Vegetables
+286,Sunflower,Vegetables
+287,Sunflower,Vegetables
+288,Sunflower,Vegetables
+289,Broomstick(Flower Broom),Vegetables
+290,Broomstick(Flower Broom),Vegetables
+291,Broomstick(Flower Broom),Vegetables
+292,Broomstick(Flower Broom),Vegetables
+293,Bunch Beans,Vegetables
+294,Bunch Beans,Vegetables
+295,Bunch Beans,Vegetables
+296,Bunch Beans,Vegetables
+297,Cocoa,Vegetables
+298,Cocoa,Vegetables
+299,Cocoa,Vegetables
+300,Cocoa,Vegetables
+301,Anthorium,Vegetables
+302,Anthorium,Vegetables
+303,Anthorium,Vegetables
+304,Anthorium,Vegetables
+305,Cashewnuts,Vegetables
+306,Cashewnuts,Vegetables
+307,Cashewnuts,Vegetables
+308,Cashewnuts,Vegetables
+309,Camel Hair,Vegetables
+310,Camel Hair,Vegetables
+311,Camel Hair,Vegetables
+312,Camel Hair,Vegetables
+313,Lemon,Vegetables
+314,Lemon,Vegetables
+315,Lemon,Vegetables
+316,Lemon,Vegetables
+317,Bajra(Pearl MilletCumbu),Vegetables
+318,Bajra(Pearl MilletCumbu),Vegetables
+319,Bajra(Pearl MilletCumbu),Vegetables
+320,Bajra(Pearl MilletCumbu),Vegetables
+321,Snake gourd,Vegetables
+322,Snake gourd,Vegetables
+323,Snake gourd,Vegetables
+324,Snake gourd,Vegetables
+325,Gur(Jaggery),Vegetables
+326,Gur(Jaggery),Vegetables
+327,Gur(Jaggery),Vegetables
+328,Gur(Jaggery),Vegetables
+329,Mahua Seed(Hippe seed),Vegetables
+330,Mahua Seed(Hippe seed),Vegetables
+331,Mahua Seed(Hippe seed),Vegetables
+332,Mahua Seed(Hippe seed),Vegetables
+333,Chili Red,Vegetables
+334,Chili Red,Vegetables
+335,Chili Red,Vegetables
+336,Chili Red,Vegetables
+337,Kakada,Vegetables
+338,Kakada,Vegetables
+339,Kakada,Vegetables
+340,Kakada,Vegetables
+341,Cock,Vegetables
+342,Cock,Vegetables
+343,Cock,Vegetables
+344,Cock,Vegetables
+345,Hybrid Cumbu,Vegetables
+346,Hybrid Cumbu,Vegetables
+347,Hybrid Cumbu,Vegetables
+348,Hybrid Cumbu,Vegetables
+349,Ground Nut Seed,Vegetables
+350,Ground Nut Seed,Vegetables
+351,Ground Nut Seed,Vegetables
+352,Ground Nut Seed,Vegetables
+353,Sweet Potato,Vegetables
+354,Sweet Potato,Vegetables
+355,Sweet Potato,Vegetables
+356,Sweet Potato,Vegetables
+357,SameSavi,Vegetables
+358,SameSavi,Vegetables
+359,SameSavi,Vegetables
+360,SameSavi,Vegetables
+361,Banana,Vegetables
+362,Banana,Vegetables
+363,Banana,Vegetables
+364,Banana,Vegetables
+365,Orchid,Vegetables
+366,Orchid,Vegetables
+367,Orchid,Vegetables
+368,Orchid,Vegetables
+369,Litchi,Vegetables
+370,Litchi,Vegetables
+371,Litchi,Vegetables
+372,Litchi,Vegetables
+373,Calf,Vegetables
+374,Calf,Vegetables
+375,Calf,Vegetables
+376,Calf,Vegetables
+377,Kulthi(Horse Gram),Vegetables
+378,Kulthi(Horse Gram),Vegetables
+379,Kulthi(Horse Gram),Vegetables
+380,Kulthi(Horse Gram),Vegetables
+381,Balekai,Vegetables
+382,Balekai,Vegetables
+383,Balekai,Vegetables
+384,Balekai,Vegetables
+385,Mace,Vegetables
+386,Mace,Vegetables
+387,Mace,Vegetables
+388,Mace,Vegetables
+389,Groundnut,Vegetables
+390,Groundnut,Vegetables
+391,Groundnut,Vegetables
+392,Groundnut,Vegetables
+393,Black Gram (Urd Beans)(Whole),Vegetables
+394,Black Gram (Urd Beans)(Whole),Vegetables
+395,Black Gram (Urd Beans)(Whole),Vegetables
+396,Black Gram (Urd Beans)(Whole),Vegetables
+397,Black Gram Dal (Urd Dal),Vegetables
+398,Black Gram Dal (Urd Dal),Vegetables
+399,Black Gram Dal (Urd Dal),Vegetables
+400,Black Gram Dal (Urd Dal),Vegetables
+401,Castor Seed,Vegetables
+402,Castor Seed,Vegetables
+403,Castor Seed,Vegetables
+404,Castor Seed,Vegetables
+405,Black pepper,Vegetables
+406,Black pepper,Vegetables
+407,Black pepper,Vegetables
+408,Black pepper,Vegetables
+409,Lilly,Vegetables
+410,Lilly,Vegetables
+411,Lilly,Vegetables
+412,Lilly,Vegetables
+413,Wood,Vegetables
+414,Wood,Vegetables
+415,Wood,Vegetables
+416,Wood,Vegetables
+417,Torchwood,Vegetables
+418,Torchwood,Vegetables
+419,Torchwood,Vegetables
+420,Torchwood,Vegetables
+421,Mashrooms,Vegetables
+422,Mashrooms,Vegetables
+423,Mashrooms,Vegetables
+424,Mashrooms,Vegetables
+425,Thinai (Italian Millet),Vegetables
+426,Thinai (Italian Millet),Vegetables
+427,Thinai (Italian Millet),Vegetables
+428,Thinai (Italian Millet),Vegetables
+429,Indian Beans (Seam),Vegetables
+430,Indian Beans (Seam),Vegetables
+431,Indian Beans (Seam),Vegetables
+432,Indian Beans (Seam),Vegetables
+433,Pundi Seed,Vegetables
+434,Pundi Seed,Vegetables
+435,Pundi Seed,Vegetables
+436,Pundi Seed,Vegetables
+437,Guar,Vegetables
+438,Guar,Vegetables
+439,Guar,Vegetables
+440,Guar,Vegetables
+441,Duster Beans,Vegetables
+442,Duster Beans,Vegetables
+443,Duster Beans,Vegetables
+444,Duster Beans,Vegetables
+445,Skin And Hide,Vegetables
+446,Skin And Hide,Vegetables
+447,Skin And Hide,Vegetables
+448,Skin And Hide,Vegetables
+449,Sugarcane,Vegetables
+450,Sugarcane,Vegetables
+451,Sugarcane,Vegetables
+452,Sugarcane,Vegetables
+453,Red Gram,Vegetables
+454,Red Gram,Vegetables
+455,Red Gram,Vegetables
+456,Red Gram,Vegetables
+457,Peas Wet,Vegetables
+458,Peas Wet,Vegetables
+459,Peas Wet,Vegetables
+460,Peas Wet,Vegetables
+461,Tea,Vegetables
+462,Tea,Vegetables
+463,Tea,Vegetables
+464,Tea,Vegetables
+465,Chennangi (Whole),Vegetables
+466,Chennangi (Whole),Vegetables
+467,Chennangi (Whole),Vegetables
+468,Chennangi (Whole),Vegetables
+469,Lime,Vegetables
+470,Lime,Vegetables
+471,Lime,Vegetables
+472,Lime,Vegetables
+473,Rose(Tata),Vegetables
+474,Rose(Tata),Vegetables
+475,Rose(Tata),Vegetables
+476,Rose(Tata),Vegetables
+477,White Peas,Vegetables
+478,White Peas,Vegetables
+479,White Peas,Vegetables
+480,White Peas,Vegetables
+481,She Buffalo,Vegetables
+482,She Buffalo,Vegetables
+483,She Buffalo,Vegetables
+484,She Buffalo,Vegetables
+485,Jute,Vegetables
+486,Jute,Vegetables
+487,Jute,Vegetables
+488,Jute,Vegetables
+489,Bitter gourd,Vegetables
+490,Bitter gourd,Vegetables
+491,Bitter gourd,Vegetables
+492,Bitter gourd,Vegetables
+493,Chikoos(Sapota),Vegetables
+494,Chikoos(Sapota),Vegetables
+495,Chikoos(Sapota),Vegetables
+496,Chikoos(Sapota),Vegetables
+497,Coconut,Vegetables
+498,Coconut,Vegetables
+499,Coconut,Vegetables
+500,Coconut,Vegetables
+501,Millets,Vegetables
+502,Millets,Vegetables
+503,Millets,Vegetables
+504,Millets,Vegetables
+505,Custard Apple (Sharifa),Vegetables
+506,Custard Apple (Sharifa),Vegetables
+507,Custard Apple (Sharifa),Vegetables
+508,Custard Apple (Sharifa),Vegetables
+509,Masur Dal,Vegetables
+510,Masur Dal,Vegetables
+511,Masur Dal,Vegetables
+512,Masur Dal,Vegetables
+513,Cowpea(Veg),Vegetables
+514,Cowpea(Veg),Vegetables
+515,Cowpea(Veg),Vegetables
+516,Cowpea(Veg),Vegetables
+517,Barley (Jau),Vegetables
+518,Barley (Jau),Vegetables
+519,Barley (Jau),Vegetables
+520,Barley (Jau),Vegetables
+521,Rose(Loose),Vegetables
+522,Rose(Loose),Vegetables
+523,Rose(Loose),Vegetables
+524,Rose(Loose),Vegetables
+525,Jaggery,Vegetables
+526,Jaggery,Vegetables
+527,Jaggery,Vegetables
+528,Jaggery,Vegetables
+529,Jasmine,Vegetables
+530,Jasmine,Vegetables
+531,Jasmine,Vegetables
+532,Jasmine,Vegetables
+533,Little gourd (Kundru),Vegetables
+534,Little gourd (Kundru),Vegetables
+535,Little gourd (Kundru),Vegetables
+536,Little gourd (Kundru),Vegetables
+537,Paddy(Dhan)(Common),Vegetables
+538,Paddy(Dhan)(Common),Vegetables
+539,Paddy(Dhan)(Common),Vegetables
+540,Paddy(Dhan)(Common),Vegetables
+541,Bull,Vegetables
+542,Bull,Vegetables
+543,Bull,Vegetables
+544,Bull,Vegetables
+545,Methi Seeds,Vegetables
+546,Methi Seeds,Vegetables
+547,Methi Seeds,Vegetables
+548,Methi Seeds,Vegetables
+549,Bamboo,Vegetables
+550,Bamboo,Vegetables
+551,Bamboo,Vegetables
+552,Bamboo,Vegetables
+553,Raibel,Vegetables
+554,Raibel,Vegetables
+555,Raibel,Vegetables
+556,Raibel,Vegetables
+557,Kankambra,Vegetables
+558,Kankambra,Vegetables
+559,Kankambra,Vegetables
+560,Kankambra,Vegetables
+561,Ridge gourd(Tori),Vegetables
+562,Ridge gourd(Tori),Vegetables
+563,Ridge gourd(Tori),Vegetables
+564,Ridge gourd(Tori),Vegetables
+565,Sunhemp,Vegetables
+566,Sunhemp,Vegetables
+567,Sunhemp,Vegetables
+568,Sunhemp,Vegetables
+569,Fig(AnjuraAnjeer),Vegetables
+570,Fig(AnjuraAnjeer),Vegetables
+571,Fig(AnjuraAnjeer),Vegetables
+572,Fig(AnjuraAnjeer),Vegetables
+573,"Sesamum(Sesame,Gingelly,Til)",Vegetables
+574,"Sesamum(Sesame,Gingelly,Til)",Vegetables
+575,"Sesamum(Sesame,Gingelly,Til)",Vegetables
+576,"Sesamum(Sesame,Gingelly,Til)",Vegetables
+577,Haralekai,Vegetables
+578,Haralekai,Vegetables
+579,Haralekai,Vegetables
+580,Haralekai,Vegetables
+581,Carnation,Vegetables
+582,Carnation,Vegetables
+583,Carnation,Vegetables
+584,Carnation,Vegetables
+585,Bran,Vegetables
+586,Bran,Vegetables
+587,Bran,Vegetables
+588,Bran,Vegetables
+589,Gurellu,Vegetables
+590,Gurellu,Vegetables
+591,Gurellu,Vegetables
+592,Gurellu,Vegetables
+593,Honge seed,Vegetables
+594,Honge seed,Vegetables
+595,Honge seed,Vegetables
+596,Honge seed,Vegetables
+597,Ghee,Vegetables
+598,Ghee,Vegetables
+599,Ghee,Vegetables
+600,Ghee,Vegetables
+601,Cotton,Vegetables
+602,Cotton,Vegetables
+603,Cotton,Vegetables
+604,Cotton,Vegetables
+605,Broken Rice,Vegetables
+606,Broken Rice,Vegetables
+607,Broken Rice,Vegetables
+608,Broken Rice,Vegetables
+609,Rat Tail Radish (Mogari),Vegetables
+610,Rat Tail Radish (Mogari),Vegetables
+611,Rat Tail Radish (Mogari),Vegetables
+612,Rat Tail Radish (Mogari),Vegetables
+613,Groundnut pods (raw),Vegetables
+614,Groundnut pods (raw),Vegetables
+615,Groundnut pods (raw),Vegetables
+616,Groundnut pods (raw),Vegetables
+617,Turnip,Vegetables
+618,Turnip,Vegetables
+619,Turnip,Vegetables
+620,Turnip,Vegetables
+621,Indian Colza(Sarson),Vegetables
+622,Indian Colza(Sarson),Vegetables
+623,Indian Colza(Sarson),Vegetables
+624,Indian Colza(Sarson),Vegetables
+625,Ber(ZizyphusBorehannu),Vegetables
+626,Ber(ZizyphusBorehannu),Vegetables
+627,Ber(ZizyphusBorehannu),Vegetables
+628,Ber(ZizyphusBorehannu),Vegetables
+629,Mataki,Vegetables
+630,Mataki,Vegetables
+631,Mataki,Vegetables
+632,Mataki,Vegetables
+633,Chilly Capsicum,Vegetables
+634,Chilly Capsicum,Vegetables
+635,Chilly Capsicum,Vegetables
+636,Chilly Capsicum,Vegetables
+637,Onion Green,Vegetables
+638,Onion Green,Vegetables
+639,Onion Green,Vegetables
+640,Onion Green,Vegetables
+641,Myrobolan(Harad),Vegetables
+642,Myrobolan(Harad),Vegetables
+643,Myrobolan(Harad),Vegetables
+644,Myrobolan(Harad),Vegetables
+645,Surat Beans (Papadi),Vegetables
+646,Surat Beans (Papadi),Vegetables
+647,Surat Beans (Papadi),Vegetables
+648,Surat Beans (Papadi),Vegetables
+649,Dry Chillies,Vegetables
+650,Dry Chillies,Vegetables
+651,Dry Chillies,Vegetables
+652,Dry Chillies,Vegetables
+653,Sweet Pumpkin,Vegetables
+654,Sweet Pumpkin,Vegetables
+655,Sweet Pumpkin,Vegetables
+656,Sweet Pumpkin,Vegetables
+657,Guar Seed(Cluster Beans Seed),Vegetables
+658,Guar Seed(Cluster Beans Seed),Vegetables
+659,Guar Seed(Cluster Beans Seed),Vegetables
+660,Guar Seed(Cluster Beans Seed),Vegetables
+661,Plum,Vegetables
+662,Plum,Vegetables
+663,Plum,Vegetables
+664,Plum,Vegetables
+665,Cotton Seed,Vegetables
+666,Cotton Seed,Vegetables
+667,Cotton Seed,Vegetables
+668,Cotton Seed,Vegetables
+669,French Beans (Frasbean),Vegetables
+670,French Beans (Frasbean),Vegetables
+671,French Beans (Frasbean),Vegetables
+672,French Beans (Frasbean),Vegetables
+673,Pigs,Vegetables
+674,Pigs,Vegetables
+675,Pigs,Vegetables
+676,Pigs,Vegetables
+677,Methi(Leaves),Vegetables
+678,Methi(Leaves),Vegetables
+679,Methi(Leaves),Vegetables
+680,Methi(Leaves),Vegetables
+681,Tube Rose(Loose),Vegetables
+682,Tube Rose(Loose),Vegetables
+683,Tube Rose(Loose),Vegetables
+684,Tube Rose(Loose),Vegetables
+685,Toria,Vegetables
+686,Toria,Vegetables
+687,Toria,Vegetables
+688,Toria,Vegetables
+689,Cashew Kernnel,Vegetables
+690,Cashew Kernnel,Vegetables
+691,Cashew Kernnel,Vegetables
+692,Cashew Kernnel,Vegetables
+693,Cluster beans,Vegetables
+694,Cluster beans,Vegetables
+695,Cluster beans,Vegetables
+696,Cluster beans,Vegetables
+697,Long Melon(Kakri),Vegetables
+698,Long Melon(Kakri),Vegetables
+699,Long Melon(Kakri),Vegetables
+700,Long Melon(Kakri),Vegetables
+701,Copra,Vegetables
+702,Copra,Vegetables
+703,Copra,Vegetables
+704,Copra,Vegetables
+705,Kinnow,Vegetables
+706,Kinnow,Vegetables
+707,Kinnow,Vegetables
+708,Kinnow,Vegetables
+709,Cauliflower,Vegetables
+710,Cauliflower,Vegetables
+711,Cauliflower,Vegetables
+712,Cauliflower,Vegetables
+713,Alasande Gram,Vegetables
+714,Alasande Gram,Vegetables
+715,Alasande Gram,Vegetables
+716,Alasande Gram,Vegetables
+717,Maize,Vegetables
+718,Maize,Vegetables
+719,Maize,Vegetables
+720,Maize,Vegetables
+721,Amaranthus,Vegetables
+722,Amaranthus,Vegetables
+723,Amaranthus,Vegetables
+724,Amaranthus,Vegetables
+725,Seetafal,Vegetables
+726,Seetafal,Vegetables
+727,Seetafal,Vegetables
+728,Seetafal,Vegetables
+729,Tobacco,Vegetables
+730,Tobacco,Vegetables
+731,Tobacco,Vegetables
+732,Tobacco,Vegetables
+733,Castor Oil,Vegetables
+734,Castor Oil,Vegetables
+735,Castor Oil,Vegetables
+736,Castor Oil,Vegetables
+737,Gingelly Oil,Vegetables
+738,Gingelly Oil,Vegetables
+739,Gingelly Oil,Vegetables
+740,Gingelly Oil,Vegetables
+741,Tube Rose(Double),Vegetables
+742,Tube Rose(Double),Vegetables
+743,Tube Rose(Double),Vegetables
+744,Tube Rose(Double),Vegetables
+745,White Pumpkin,Vegetables
+746,White Pumpkin,Vegetables
+747,White Pumpkin,Vegetables
+748,White Pumpkin,Vegetables
+749,Cowpea (LobiaKaramani),Vegetables
+750,Cowpea (LobiaKaramani),Vegetables
+751,Cowpea (LobiaKaramani),Vegetables
+752,Cowpea (LobiaKaramani),Vegetables
+753,Butter,Vegetables
+754,Butter,Vegetables
+755,Butter,Vegetables
+756,Butter,Vegetables
+757,Tapioca,Vegetables
+758,Tapioca,Vegetables
+759,Tapioca,Vegetables
+760,Tapioca,Vegetables
+761,Mustard,Vegetables
+762,Mustard,Vegetables
+763,Mustard,Vegetables
+764,Mustard,Vegetables
+765,Cummin Seed(Jeera),Vegetables
+766,Cummin Seed(Jeera),Vegetables
+767,Cummin Seed(Jeera),Vegetables
+768,Cummin Seed(Jeera),Vegetables
+769,Chapparad Avare,Vegetables
+770,Chapparad Avare,Vegetables
+771,Chapparad Avare,Vegetables
+772,Chapparad Avare,Vegetables
+773,Wheat,Vegetables
+774,Wheat,Vegetables
+775,Wheat,Vegetables
+776,Wheat,Vegetables
+777,Thondekai,Vegetables
+778,Thondekai,Vegetables
+779,Thondekai,Vegetables
+780,Thondekai,Vegetables
+781,Kacholam,Vegetables
+782,Kacholam,Vegetables
+783,Kacholam,Vegetables
+784,Kacholam,Vegetables
+785,Goat,Vegetables
+786,Goat,Vegetables
+787,Goat,Vegetables
+788,Goat,Vegetables
+789,Coca,Vegetables
+790,Coca,Vegetables
+791,Coca,Vegetables
+792,Coca,Vegetables
+793,Marigold(Calcutta),Vegetables
+794,Marigold(Calcutta),Vegetables
+795,Marigold(Calcutta),Vegetables
+796,Marigold(Calcutta),Vegetables
+797,Flower Broom,Vegetables
+798,Flower Broom,Vegetables
+799,Flower Broom,Vegetables
+800,Flower Broom,Vegetables
+801,Seegu,Vegetables
+802,Seegu,Vegetables
+803,Seegu,Vegetables
+804,Seegu,Vegetables
+805,Leafy Vegetable,Vegetables
+806,Leafy Vegetable,Vegetables
+807,Leafy Vegetable,Vegetables
+808,Leafy Vegetable,Vegetables
+809,Fish,Vegetables
+810,Fish,Vegetables
+811,Fish,Vegetables
+812,Fish,Vegetables
+813,Tinda,Vegetables
+814,Tinda,Vegetables
+815,Tinda,Vegetables
+816,Tinda,Vegetables
+817,Ashgourd,Vegetables
+818,Ashgourd,Vegetables
+819,Ashgourd,Vegetables
+820,Ashgourd,Vegetables
+821,Egg,Vegetables
+822,Egg,Vegetables
+823,Egg,Vegetables
+824,Egg,Vegetables
+825,Mahua,Vegetables
+826,Mahua,Vegetables
+827,Mahua,Vegetables
+828,Mahua,Vegetables
+829,Delha,Vegetables
+830,Delha,Vegetables
+831,Delha,Vegetables
+832,Delha,Vegetables
+833,Pear(Marasebu),Vegetables
+834,Pear(Marasebu),Vegetables
+835,Pear(Marasebu),Vegetables
+836,Pear(Marasebu),Vegetables
+837,She Goat,Vegetables
+838,She Goat,Vegetables
+839,She Goat,Vegetables
+840,She Goat,Vegetables
+841,Cinamon(Dalchini),Vegetables
+842,Cinamon(Dalchini),Vegetables
+843,Cinamon(Dalchini),Vegetables
+844,Cinamon(Dalchini),Vegetables
+845,Lint,Vegetables
+846,Lint,Vegetables
+847,Lint,Vegetables
+848,Lint,Vegetables
+849,Jarbara,Vegetables
+850,Jarbara,Vegetables
+851,Jarbara,Vegetables
+852,Jarbara,Vegetables
+853,Dhaincha,Vegetables
+854,Dhaincha,Vegetables
+855,Dhaincha,Vegetables
+856,Dhaincha,Vegetables
+857,Corriander seed,Vegetables
+858,Corriander seed,Vegetables
+859,Corriander seed,Vegetables
+860,Corriander seed,Vegetables
+861,Marasebu,Vegetables
+862,Marasebu,Vegetables
+863,Marasebu,Vegetables
+864,Marasebu,Vegetables
+865,Garlic,Vegetables
+866,Garlic,Vegetables
+867,Garlic,Vegetables
+868,Garlic,Vegetables
+869,Other Pulses,Vegetables
+870,Other Pulses,Vegetables
+871,Other Pulses,Vegetables
+872,Other Pulses,Vegetables
+873,Ram,Vegetables
+874,Ram,Vegetables
+875,Ram,Vegetables
+876,Ram,Vegetables
+877,Squash(Chappal Kadoo),Vegetables
+878,Squash(Chappal Kadoo),Vegetables
+879,Squash(Chappal Kadoo),Vegetables
+880,Squash(Chappal Kadoo),Vegetables
+881,Bengal Gram(Gram)(Whole),Vegetables
+882,Bengal Gram(Gram)(Whole),Vegetables
+883,Bengal Gram(Gram)(Whole),Vegetables
+884,Bengal Gram(Gram)(Whole),Vegetables
+885,Pineapple,Vegetables
+886,Pineapple,Vegetables
+887,Pineapple,Vegetables
+888,Pineapple,Vegetables
+889,Nutmeg,Vegetables
+890,Nutmeg,Vegetables
+891,Nutmeg,Vegetables
+892,Nutmeg,Vegetables
+893,Cane,Vegetables
+894,Cane,Vegetables
+895,Cane,Vegetables
+896,Cane,Vegetables
+897,Mango,Vegetables
+898,Mango,Vegetables
+899,Mango,Vegetables
+900,Mango,Vegetables
+901,Pumpkin,Vegetables
+902,Pumpkin,Vegetables
+903,Pumpkin,Vegetables
+904,Pumpkin,Vegetables
+905,Green Gram (Moong)(Whole),Vegetables
+906,Green Gram (Moong)(Whole),Vegetables
+907,Green Gram (Moong)(Whole),Vegetables
+908,Green Gram (Moong)(Whole),Vegetables
+909,Ginger(Dry),Vegetables
+910,Ginger(Dry),Vegetables
+911,Ginger(Dry),Vegetables
+912,Ginger(Dry),Vegetables
+913,Cow,Vegetables
+914,Cow,Vegetables
+915,Cow,Vegetables
+916,Cow,Vegetables
+917,Gladiolus Cut Flower,Vegetables
+918,Gladiolus Cut Flower,Vegetables
+919,Gladiolus Cut Flower,Vegetables
+920,Gladiolus Cut Flower,Vegetables
+921,Pomegranate,Vegetables
+922,Pomegranate,Vegetables
+923,Pomegranate,Vegetables
+924,Pomegranate,Vegetables
+925,Grapes,Vegetables
+926,Grapes,Vegetables
+927,Grapes,Vegetables
+928,Grapes,Vegetables
+929,Sarasum,Vegetables
+930,Sarasum,Vegetables
+931,Sarasum,Vegetables
+932,Sarasum,Vegetables
+933,Siddota,Vegetables
+934,Siddota,Vegetables
+935,Siddota,Vegetables
+936,Siddota,Vegetables
+937,Nargasi,Vegetables
+938,Nargasi,Vegetables
+939,Nargasi,Vegetables
+940,Nargasi,Vegetables
+941,Arecanut(BetelnutSupari),Vegetables
+942,Arecanut(BetelnutSupari),Vegetables
+943,Arecanut(BetelnutSupari),Vegetables
+944,Arecanut(BetelnutSupari),Vegetables
+945,Yam (Ratalu),Vegetables
+946,Yam (Ratalu),Vegetables
+947,Yam (Ratalu),Vegetables
+948,Yam (Ratalu),Vegetables
+949,Suva (Dill Seed),Vegetables
+950,Suva (Dill Seed),Vegetables
+951,Suva (Dill Seed),Vegetables
+952,Suva (Dill Seed),Vegetables
+953,Paddy(Dhan)(Basmati),Vegetables
+954,Paddy(Dhan)(Basmati),Vegetables
+955,Paddy(Dhan)(Basmati),Vegetables
+956,Paddy(Dhan)(Basmati),Vegetables
+957,Green Peas,Vegetables
+958,Green Peas,Vegetables
+959,Green Peas,Vegetables
+960,Green Peas,Vegetables
+961,Bullar,Vegetables
+962,Bullar,Vegetables
+963,Bullar,Vegetables
+964,Bullar,Vegetables
+965,Seemebadnekai,Vegetables
+966,Seemebadnekai,Vegetables
+967,Seemebadnekai,Vegetables
+968,Seemebadnekai,Vegetables
+969,Lukad,Vegetables
+970,Lukad,Vegetables
+971,Lukad,Vegetables
+972,Lukad,Vegetables
+973,Honey,Vegetables
+974,Honey,Vegetables
+975,Honey,Vegetables
+976,Honey,Vegetables
+977,Papaya (Raw),Vegetables
+978,Papaya (Raw),Vegetables
+979,Papaya (Raw),Vegetables
+980,Papaya (Raw),Vegetables
+981,Pundi,Vegetables
+982,Pundi,Vegetables
+983,Pundi,Vegetables
+984,Pundi,Vegetables
+985,Betal Leaves,Vegetables
+986,Betal Leaves,Vegetables
+987,Betal Leaves,Vegetables
+988,Betal Leaves,Vegetables
+989,Apple,Vegetables
+990,Apple,Vegetables
+991,Apple,Vegetables
+992,Apple,Vegetables
+993,Soanf,Vegetables
+994,Soanf,Vegetables
+995,Soanf,Vegetables
+996,Soanf,Vegetables
+997,Mahedi,Vegetables
+998,Mahedi,Vegetables
+999,Mahedi,Vegetables
+1000,Mahedi,Vegetables
+1001,Turmeric (raw),Vegetables
+1002,Turmeric (raw),Vegetables
+1003,Turmeric (raw),Vegetables
+1004,Turmeric (raw),Vegetables
+1005,Lotus Sticks,Vegetables
+1006,Lotus Sticks,Vegetables
+1007,Lotus Sticks,Vegetables
+1008,Lotus Sticks,Vegetables
+1009,Ox,Vegetables
+1010,Ox,Vegetables
+1011,Ox,Vegetables
+1012,Ox,Vegetables
+1013,Hen,Vegetables
+1014,Hen,Vegetables
+1015,Hen,Vegetables
+1016,Hen,Vegetables
+1017,Field Pea,Vegetables
+1018,Field Pea,Vegetables
+1019,Field Pea,Vegetables
+1020,Field Pea,Vegetables
+1021,Rubber,Vegetables
+1022,Rubber,Vegetables
+1023,Rubber,Vegetables
+1024,Rubber,Vegetables
+1025,Karbuja(Musk Melon),Vegetables
+1026,Karbuja(Musk Melon),Vegetables
+1027,Karbuja(Musk Melon),Vegetables
+1028,Karbuja(Musk Melon),Vegetables
+1029,T.V. Cumbu,Vegetables
+1030,T.V. Cumbu,Vegetables
+1031,T.V. Cumbu,Vegetables
+1032,T.V. Cumbu,Vegetables
+1033,Chrysanthemum(Loose),Vegetables
+1034,Chrysanthemum(Loose),Vegetables
+1035,Chrysanthemum(Loose),Vegetables
+1036,Chrysanthemum(Loose),Vegetables
+1037,Elephant Yam (Suran),Vegetables
+1038,Elephant Yam (Suran),Vegetables
+1039,Elephant Yam (Suran),Vegetables
+1040,Elephant Yam (Suran),Vegetables
+1041,Coffee,Vegetables
+1042,Coffee,Vegetables
+1043,Coffee,Vegetables
+1044,Coffee,Vegetables
+1045,Bay leaf (Tejpatta),Vegetables
+1046,Bay leaf (Tejpatta),Vegetables
+1047,Bay leaf (Tejpatta),Vegetables
+1048,Bay leaf (Tejpatta),Vegetables
+1049,Tube Flower,Vegetables
+1050,Tube Flower,Vegetables
+1051,Tube Flower,Vegetables
+1052,Tube Flower,Vegetables
+1053,Cardamoms,Vegetables
+1054,Cardamoms,Vegetables
+1055,Cardamoms,Vegetables
+1056,Cardamoms,Vegetables
+1057,Cabbage,Vegetables
+1058,Cabbage,Vegetables
+1059,Cabbage,Vegetables
+1060,Cabbage,Vegetables
+1061,Karamani,Vegetables
+1062,Karamani,Vegetables
+1063,Karamani,Vegetables
+1064,Karamani,Vegetables
+1065,Apricot(JardaluKhumani),Vegetables
+1066,Apricot(JardaluKhumani),Vegetables
+1067,Apricot(JardaluKhumani),Vegetables
+1068,Apricot(JardaluKhumani),Vegetables
+1069,Binoula,Vegetables
+1070,Binoula,Vegetables
+1071,Binoula,Vegetables
+1072,Binoula,Vegetables
+1073,Dry Grapes,Vegetables
+1074,Dry Grapes,Vegetables
+1075,Dry Grapes,Vegetables
+1076,Dry Grapes,Vegetables
+1077,Cherry,Vegetables
+1078,Cherry,Vegetables
+1079,Cherry,Vegetables
+1080,Cherry,Vegetables
+1081,Water Melon,Vegetables
+1082,Water Melon,Vegetables
+1083,Water Melon,Vegetables
+1084,Water Melon,Vegetables
+1085,Kodo Millet(Varagu),Vegetables
+1086,Kodo Millet(Varagu),Vegetables
+1087,Kodo Millet(Varagu),Vegetables
+1088,Kodo Millet(Varagu),Vegetables
+1089,Antawala,Vegetables
+1090,Antawala,Vegetables
+1091,Antawala,Vegetables
+1092,Antawala,Vegetables
+1093,Kharif Mash,Vegetables
+1094,Kharif Mash,Vegetables
+1095,Kharif Mash,Vegetables
+1096,Kharif Mash,Vegetables
+1097,Dalda,Vegetables
+1098,Dalda,Vegetables
+1099,Dalda,Vegetables
+1100,Dalda,Vegetables
+1101,Chennangi Dal,Vegetables
+1102,Chennangi Dal,Vegetables
+1103,Chennangi Dal,Vegetables
+1104,Chennangi Dal,Vegetables
+1105,Niger Seed (Ramtil),Vegetables
+1106,Niger Seed (Ramtil),Vegetables
+1107,Niger Seed (Ramtil),Vegetables
+1108,Niger Seed (Ramtil),Vegetables
+1109,Banana - Green,Vegetables
+1110,Banana - Green,Vegetables
+1111,Banana - Green,Vegetables
+1112,Banana - Green,Vegetables
+1113,Avare Dal,Vegetables
+1114,Avare Dal,Vegetables
+1115,Avare Dal,Vegetables
+1116,Avare Dal,Vegetables
+1117,Rajgir,Vegetables
+1118,Rajgir,Vegetables
+1119,Rajgir,Vegetables
+1120,Rajgir,Vegetables
+1121,Jute Seed,Vegetables
+1122,Jute Seed,Vegetables
+1123,Jute Seed,Vegetables
+1124,Jute Seed,Vegetables
+1125,Kuchur,Vegetables
+1126,Kuchur,Vegetables
+1127,Kuchur,Vegetables
+1128,Kuchur,Vegetables
+1129,Soji,Vegetables
+1130,Soji,Vegetables
+1131,Soji,Vegetables
+1132,Soji,Vegetables
+1133,Lak(Teora),Vegetables
+1134,Lak(Teora),Vegetables
+1135,Lak(Teora),Vegetables
+1136,Lak(Teora),Vegetables
+1137,Saffron,Vegetables
+1138,Saffron,Vegetables
+1139,Saffron,Vegetables
+1140,Saffron,Vegetables
+1141,Tender Coconut,Vegetables
+1142,Tender Coconut,Vegetables
+1143,Tender Coconut,Vegetables
+1144,Tender Coconut,Vegetables
+1145,Firewood,Vegetables
+1146,Firewood,Vegetables
+1147,Firewood,Vegetables
+1148,Firewood,Vegetables
+1149,Wheat Atta,Vegetables
+1150,Wheat Atta,Vegetables
+1151,Wheat Atta,Vegetables
+1152,Wheat Atta,Vegetables
+1153,Kartali (Kantola),Vegetables
+1154,Kartali (Kantola),Vegetables
+1155,Kartali (Kantola),Vegetables
+1156,Kartali (Kantola),Vegetables
+1157,Jamun(Narale Hannu),Vegetables
+1158,Jamun(Narale Hannu),Vegetables
+1159,Jamun(Narale Hannu),Vegetables
+1160,Jamun(Narale Hannu),Vegetables
+1161,Amla(Nelli Kai),Vegetables
+1162,Amla(Nelli Kai),Vegetables
+1163,Amla(Nelli Kai),Vegetables
+1164,Amla(Nelli Kai),Vegetables
+1165,Mustard Oil,Vegetables
+1166,Mustard Oil,Vegetables
+1167,Mustard Oil,Vegetables
+1168,Mustard Oil,Vegetables
+1169,Coriander(Leaves),Vegetables
+1170,Coriander(Leaves),Vegetables
+1171,Coriander(Leaves),Vegetables
+1172,Coriander(Leaves),Vegetables
+1173,Mash,Vegetables
+1174,Mash,Vegetables
+1175,Mash,Vegetables
+1176,Mash,Vegetables
+1177,Persimon(Japani Fal),Vegetables
+1178,Persimon(Japani Fal),Vegetables
+1179,Persimon(Japani Fal),Vegetables
+1180,Persimon(Japani Fal),Vegetables
+1181,Ginger(Green),Vegetables
+1182,Ginger(Green),Vegetables
+1183,Ginger(Green),Vegetables
+1184,Ginger(Green),Vegetables
+1185,Foxtail Millet(Navane),Vegetables
+1186,Foxtail Millet(Navane),Vegetables
+1187,Foxtail Millet(Navane),Vegetables
+1188,Foxtail Millet(Navane),Vegetables
+1189,Patti Calcutta,Vegetables
+1190,Patti Calcutta,Vegetables
+1191,Patti Calcutta,Vegetables
+1192,Patti Calcutta,Vegetables
+1193,Coconut Seed,Vegetables
+1194,Coconut Seed,Vegetables
+1195,Coconut Seed,Vegetables
+1196,Coconut Seed,Vegetables
+1197,Maragensu,Vegetables
+1198,Maragensu,Vegetables
+1199,Maragensu,Vegetables
+1200,Maragensu,Vegetables
+1201,Amphophalus,Vegetables
+1202,Amphophalus,Vegetables
+1203,Amphophalus,Vegetables
+1204,Amphophalus,Vegetables
+1205,Colacasia,Vegetables
+1206,Colacasia,Vegetables
+1207,Colacasia,Vegetables
+1208,Colacasia,Vegetables
+1209,Jack Fruit,Vegetables
+1210,Jack Fruit,Vegetables
+1211,Jack Fruit,Vegetables
+1212,Jack Fruit,Vegetables
+1213,Astera,Vegetables
+1214,Astera,Vegetables
+1215,Astera,Vegetables
+1216,Astera,Vegetables
+1217,Moath Dal,Vegetables
+1218,Moath Dal,Vegetables
+1219,Moath Dal,Vegetables
+1220,Moath Dal,Vegetables
+1221,Neem Seed,Vegetables
+1222,Neem Seed,Vegetables
+1223,Neem Seed,Vegetables
+1224,Neem Seed,Vegetables
+1225,Ladies Finger,Vegetables
+1226,Ladies Finger,Vegetables
+1227,Ladies Finger,Vegetables
+1228,Ladies Finger,Vegetables
+1229,Galgal(Lemon),Vegetables
+1230,Galgal(Lemon),Vegetables
+1231,Galgal(Lemon),Vegetables
+1232,Galgal(Lemon),Vegetables
+1233,Tomato,Vegetables
+1234,Tomato,Vegetables
+1235,Tomato,Vegetables
+1236,Tomato,Vegetables
+1237,Beans,Vegetables
+1238,Beans,Vegetables
+1239,Beans,Vegetables
+1240,Beans,Vegetables
+1241,Kabuli Chana(Chickpeas-White),Vegetables
+1242,Kabuli Chana(Chickpeas-White),Vegetables
+1243,Kabuli Chana(Chickpeas-White),Vegetables
+1244,Kabuli Chana(Chickpeas-White),Vegetables
+1245,Pepper garbled,Vegetables
+1246,Pepper garbled,Vegetables
+1247,Pepper garbled,Vegetables
+1248,Pepper garbled,Vegetables
+1249,Chakotha,Vegetables
+1250,Chakotha,Vegetables
+1251,Chakotha,Vegetables
+1252,Chakotha,Vegetables
+1253,Riccbcan,Vegetables
+1254,Riccbcan,Vegetables
+1255,Riccbcan,Vegetables
+1256,Riccbcan,Vegetables
+1257,Mousambi(Sweet Lime),Vegetables
+1258,Mousambi(Sweet Lime),Vegetables
+1259,Mousambi(Sweet Lime),Vegetables
+1260,Mousambi(Sweet Lime),Vegetables
+1261,Betelnuts,Vegetables
+1262,Betelnuts,Vegetables
+1263,Betelnuts,Vegetables
+1264,Betelnuts,Vegetables
+1265,Tube Rose(Single),Vegetables
+1266,Tube Rose(Single),Vegetables
+1267,Tube Rose(Single),Vegetables
+1268,Tube Rose(Single),Vegetables
+1269,Safflower,Vegetables
+1270,Safflower,Vegetables
+1271,Safflower,Vegetables
+1272,Safflower,Vegetables
+1273,Maida Atta,Vegetables
+1274,Maida Atta,Vegetables
+1275,Maida Atta,Vegetables
+1276,Maida Atta,Vegetables
+1277,Spinach,Vegetables
+1278,Spinach,Vegetables
+1279,Spinach,Vegetables
+1280,Spinach,Vegetables
+1281,Khoya,Vegetables
+1282,Khoya,Vegetables
+1283,Khoya,Vegetables
+1284,Khoya,Vegetables
+1285,Sabu Dana,Vegetables
+1286,Sabu Dana,Vegetables
+1287,Sabu Dana,Vegetables
+1288,Sabu Dana,Vegetables
+1289,Pegeon Pea (Arhar Fali),Vegetables
+1290,Pegeon Pea (Arhar Fali),Vegetables
+1291,Pegeon Pea (Arhar Fali),Vegetables
+1292,Pegeon Pea (Arhar Fali),Vegetables
+1293,Marigold(loose),Vegetables
+1294,Marigold(loose),Vegetables
+1295,Marigold(loose),Vegetables
+1296,Marigold(loose),Vegetables
+1297,Rose(Local),Vegetables
+1298,Rose(Local),Vegetables
+1299,Rose(Local),Vegetables
+1300,Rose(Local),Vegetables
+1301,Sponge gourd,Vegetables
+1302,Sponge gourd,Vegetables
+1303,Sponge gourd,Vegetables
+1304,Sponge gourd,Vegetables
+1305,Goat Hair,Vegetables
+1306,Goat Hair,Vegetables
+1307,Goat Hair,Vegetables
+1308,Goat Hair,Vegetables
+1309,Walnut,Vegetables
+1310,Walnut,Vegetables
+1311,Walnut,Vegetables
+1312,Walnut,Vegetables
+1313,Mint(Pudina),Vegetables
+1314,Mint(Pudina),Vegetables
+1315,Mint(Pudina),Vegetables
+1316,Mint(Pudina),Vegetables
+1317,Turmeric,Vegetables
+1318,Turmeric,Vegetables
+1319,Turmeric,Vegetables
+1320,Turmeric,Vegetables
+1321,Alsandikai,Vegetables
+1322,Alsandikai,Vegetables
+1323,Alsandikai,Vegetables
+1324,Alsandikai,Vegetables
+1325,Suram,Vegetables
+1326,Suram,Vegetables
+1327,Suram,Vegetables
+1328,Suram,Vegetables
+1329,Raddish,Vegetables
+1330,Raddish,Vegetables
+1331,Raddish,Vegetables
+1332,Raddish,Vegetables
+1333,Sajje,Vegetables
+1334,Sajje,Vegetables
+1335,Sajje,Vegetables
+1336,Sajje,Vegetables
+1337,Season Leaves,Vegetables
+1338,Season Leaves,Vegetables
+1339,Season Leaves,Vegetables
+1340,Season Leaves,Vegetables
+1341,Lentil (Masur)(Whole),Vegetables
+1342,Lentil (Masur)(Whole),Vegetables
+1343,Lentil (Masur)(Whole),Vegetables
+1344,Lentil (Masur)(Whole),Vegetables
+1345,Capsicum,Vegetables
+1346,Capsicum,Vegetables
+1347,Capsicum,Vegetables
+1348,Capsicum,Vegetables
+1349,Brinjal,Vegetables
+1350,Brinjal,Vegetables
+1351,Brinjal,Vegetables
+1352,Brinjal,Vegetables
+1353,Big Gram,Vegetables
+1354,Big Gram,Vegetables
+1355,Big Gram,Vegetables
+1356,Big Gram,Vegetables
+1357,Guava,Vegetables
+1358,Guava,Vegetables
+1359,Guava,Vegetables
+1360,Guava,Vegetables
+1361,Marget,Vegetables
+1362,Marget,Vegetables
+1363,Marget,Vegetables
+1364,Marget,Vegetables
+1365,Bhindi(Ladies Finger),Vegetables
+1366,Bhindi(Ladies Finger),Vegetables
+1367,Bhindi(Ladies Finger),Vegetables
+1368,Bhindi(Ladies Finger),Vegetables
+1369,Nearle Hannu,Vegetables
+1370,Nearle Hannu,Vegetables
+1371,Nearle Hannu,Vegetables
+1372,Nearle Hannu,Vegetables
+1373,Knool Khol,Vegetables
+1374,Knool Khol,Vegetables
+1375,Knool Khol,Vegetables
+1376,Knool Khol,Vegetables
+1377,Little gourd (Kundru),Vegetables
+1378,Little gourd (Kundru),Vegetables
+1379,Little gourd (Kundru),Vegetables
+1380,Little gourd (Kundru),Vegetables
+1381,Little gourd (Kundru),Vegetables
+1382,Little gourd (Kundru),Vegetables
+1383,Long Melon(Kakri),Vegetables
+1384,Long Melon(Kakri),Vegetables
+1385,Long Melon(Kakri),Vegetables
+1386,Long Melon(Kakri),Vegetables
+1387,Long Melon(Kakri),Vegetables
+1388,Long Melon(Kakri),Vegetables
+1389,Rose(Tata),Vegetables
+1390,Rose(Tata),Vegetables
+1391,Rose(Tata),Vegetables
+1392,Rose(Tata),Vegetables
+1393,Rose(Tata),Vegetables
+1394,Rose(Tata),Vegetables
+1395,Kodo Millet(Varagu),Vegetables
+1396,Kodo Millet(Varagu),Vegetables
+1397,Kodo Millet(Varagu),Vegetables
+1398,Kodo Millet(Varagu),Vegetables
+1399,Kodo Millet(Varagu),Vegetables
+1400,Kodo Millet(Varagu),Vegetables
+1401,Groundnut pods (raw),Vegetables
+1402,Groundnut pods (raw),Vegetables
+1403,Groundnut pods (raw),Vegetables
+1404,Groundnut pods (raw),Vegetables
+1405,Groundnut pods (raw),Vegetables
+1406,Groundnut pods (raw),Vegetables
+1407,Hippe Seed,Vegetables
+1408,Hippe Seed,Vegetables
+1409,Hippe Seed,Vegetables
+1410,Hippe Seed,Vegetables
+1411,Hippe Seed,Vegetables
+1412,Hippe Seed,Vegetables
+1413,Mahedi,Vegetables
+1414,Mahedi,Vegetables
+1415,Mahedi,Vegetables
+1416,Mahedi,Vegetables
+1417,Mahedi,Vegetables
+1418,Mahedi,Vegetables
+1419,Tube Rose(Double),Vegetables
+1420,Tube Rose(Double),Vegetables
+1421,Tube Rose(Double),Vegetables
+1422,Tube Rose(Double),Vegetables
+1423,Tube Rose(Double),Vegetables
+1424,Tube Rose(Double),Vegetables
+1425,Duster Beans,Vegetables
+1426,Duster Beans,Vegetables
+1427,Duster Beans,Vegetables
+1428,Duster Beans,Vegetables
+1429,Duster Beans,Vegetables
+1430,Duster Beans,Vegetables
+1431,Peas cod,Vegetables
+1432,Peas cod,Vegetables
+1433,Peas cod,Vegetables
+1434,Peas cod,Vegetables
+1435,Peas cod,Vegetables
+1436,Peas cod,Vegetables
+1437,Patti Calcutta,Vegetables
+1438,Patti Calcutta,Vegetables
+1439,Patti Calcutta,Vegetables
+1440,Patti Calcutta,Vegetables
+1441,Patti Calcutta,Vegetables
+1442,Patti Calcutta,Vegetables
+1443,Cashew Kernnel,Vegetables
+1444,Cashew Kernnel,Vegetables
+1445,Cashew Kernnel,Vegetables
+1446,Cashew Kernnel,Vegetables
+1447,Cashew Kernnel,Vegetables
+1448,Cashew Kernnel,Vegetables
+1449,Tinda,Vegetables
+1450,Tinda,Vegetables
+1451,Tinda,Vegetables
+1452,Tinda,Vegetables
+1453,Tinda,Vegetables
+1454,Tinda,Vegetables
+1455,Dalda,Vegetables
+1456,Dalda,Vegetables
+1457,Dalda,Vegetables
+1458,Dalda,Vegetables
+1459,Dalda,Vegetables
+1460,Dalda,Vegetables
+1461,Broken Rice,Vegetables
+1462,Broken Rice,Vegetables
+1463,Broken Rice,Vegetables
+1464,Broken Rice,Vegetables
+1465,Broken Rice,Vegetables
+1466,Broken Rice,Vegetables
+1467,Borehannu,Vegetables
+1468,Borehannu,Vegetables
+1469,Borehannu,Vegetables
+1470,Borehannu,Vegetables
+1471,Borehannu,Vegetables
+1472,Borehannu,Vegetables
+1473,Jaggery,Vegetables
+1474,Jaggery,Vegetables
+1475,Jaggery,Vegetables
+1476,Jaggery,Vegetables
+1477,Jaggery,Vegetables
+1478,Jaggery,Vegetables
+1479,Thinai (Italian Millet),Vegetables
+1480,Thinai (Italian Millet),Vegetables
+1481,Thinai (Italian Millet),Vegetables
+1482,Thinai (Italian Millet),Vegetables
+1483,Thinai (Italian Millet),Vegetables
+1484,Thinai (Italian Millet),Vegetables
+1485,Chakotha,Vegetables
+1486,Chakotha,Vegetables
+1487,Chakotha,Vegetables
+1488,Chakotha,Vegetables
+1489,Chakotha,Vegetables
+1490,Chakotha,Vegetables
+1491,Apple,Vegetables
+1492,Apple,Vegetables
+1493,Apple,Vegetables
+1494,Apple,Vegetables
+1495,Apple,Vegetables
+1496,Apple,Vegetables
+1497,Broomstick(Flower Broom),Vegetables
+1498,Broomstick(Flower Broom),Vegetables
+1499,Broomstick(Flower Broom),Vegetables
+1500,Broomstick(Flower Broom),Vegetables
+1501,Broomstick(Flower Broom),Vegetables
+1502,Broomstick(Flower Broom),Vegetables
+1503,Cowpea(Veg),Vegetables
+1504,Cowpea(Veg),Vegetables
+1505,Cowpea(Veg),Vegetables
+1506,Cowpea(Veg),Vegetables
+1507,Cowpea(Veg),Vegetables
+1508,Cowpea(Veg),Vegetables
+1509,French Beans (Frasbean),Vegetables
+1510,French Beans (Frasbean),Vegetables
+1511,French Beans (Frasbean),Vegetables
+1512,French Beans (Frasbean),Vegetables
+1513,French Beans (Frasbean),Vegetables
+1514,French Beans (Frasbean),Vegetables
+1515,Papaya (Raw),Vegetables
+1516,Papaya (Raw),Vegetables
+1517,Papaya (Raw),Vegetables
+1518,Papaya (Raw),Vegetables
+1519,Papaya (Raw),Vegetables
+1520,Papaya (Raw),Vegetables
+1521,Bitter gourd,Vegetables
+1522,Bitter gourd,Vegetables
+1523,Bitter gourd,Vegetables
+1524,Bitter gourd,Vegetables
+1525,Bitter gourd,Vegetables
+1526,Bitter gourd,Vegetables
+1527,Seetafal,Vegetables
+1528,Seetafal,Vegetables
+1529,Seetafal,Vegetables
+1530,Seetafal,Vegetables
+1531,Seetafal,Vegetables
+1532,Seetafal,Vegetables
+1533,Soji,Vegetables
+1534,Soji,Vegetables
+1535,Soji,Vegetables
+1536,Soji,Vegetables
+1537,Soji,Vegetables
+1538,Soji,Vegetables
+1539,Water Melon,Vegetables
+1540,Water Melon,Vegetables
+1541,Water Melon,Vegetables
+1542,Water Melon,Vegetables
+1543,Water Melon,Vegetables
+1544,Water Melon,Vegetables
+1545,Peach,Vegetables
+1546,Peach,Vegetables
+1547,Peach,Vegetables
+1548,Peach,Vegetables
+1549,Peach,Vegetables
+1550,Peach,Vegetables
+1551,Gur(Jaggery),Vegetables
+1552,Gur(Jaggery),Vegetables
+1553,Gur(Jaggery),Vegetables
+1554,Gur(Jaggery),Vegetables
+1555,Gur(Jaggery),Vegetables
+1556,Gur(Jaggery),Vegetables
+1557,Dal (Avare),Vegetables
+1558,Dal (Avare),Vegetables
+1559,Dal (Avare),Vegetables
+1560,Dal (Avare),Vegetables
+1561,Dal (Avare),Vegetables
+1562,Dal (Avare),Vegetables
+1563,Walnut,Vegetables
+1564,Walnut,Vegetables
+1565,Walnut,Vegetables
+1566,Walnut,Vegetables
+1567,Walnut,Vegetables
+1568,Walnut,Vegetables
+1569,Taramira,Vegetables
+1570,Taramira,Vegetables
+1571,Taramira,Vegetables
+1572,Taramira,Vegetables
+1573,Taramira,Vegetables
+1574,Taramira,Vegetables
+1575,Thondekai,Vegetables
+1576,Thondekai,Vegetables
+1577,Thondekai,Vegetables
+1578,Thondekai,Vegetables
+1579,Thondekai,Vegetables
+1580,Thondekai,Vegetables
+1581,Lotus Sticks,Vegetables
+1582,Lotus Sticks,Vegetables
+1583,Lotus Sticks,Vegetables
+1584,Lotus Sticks,Vegetables
+1585,Lotus Sticks,Vegetables
+1586,Lotus Sticks,Vegetables
+1587,Tamarind Seed,Vegetables
+1588,Tamarind Seed,Vegetables
+1589,Tamarind Seed,Vegetables
+1590,Tamarind Seed,Vegetables
+1591,Tamarind Seed,Vegetables
+1592,Tamarind Seed,Vegetables
+1593,Rose(Local),Vegetables
+1594,Rose(Local),Vegetables
+1595,Rose(Local),Vegetables
+1596,Rose(Local),Vegetables
+1597,Rose(Local),Vegetables
+1598,Rose(Local),Vegetables
+1599,Haralekai,Vegetables
+1600,Haralekai,Vegetables
+1601,Haralekai,Vegetables
+1602,Haralekai,Vegetables
+1603,Haralekai,Vegetables
+1604,Haralekai,Vegetables
+1605,Firewood,Vegetables
+1606,Firewood,Vegetables
+1607,Firewood,Vegetables
+1608,Firewood,Vegetables
+1609,Firewood,Vegetables
+1610,Firewood,Vegetables
+1611,Hybrid Cumbu,Vegetables
+1612,Hybrid Cumbu,Vegetables
+1613,Hybrid Cumbu,Vegetables
+1614,Hybrid Cumbu,Vegetables
+1615,Hybrid Cumbu,Vegetables
+1616,Hybrid Cumbu,Vegetables
+1617,Isabgul (Psyllium),Vegetables
+1618,Isabgul (Psyllium),Vegetables
+1619,Isabgul (Psyllium),Vegetables
+1620,Isabgul (Psyllium),Vegetables
+1621,Isabgul (Psyllium),Vegetables
+1622,Isabgul (Psyllium),Vegetables
+1623,Kulthi(Horse Gram),Vegetables
+1624,Kulthi(Horse Gram),Vegetables
+1625,Kulthi(Horse Gram),Vegetables
+1626,Kulthi(Horse Gram),Vegetables
+1627,Kulthi(Horse Gram),Vegetables
+1628,Kulthi(Horse Gram),Vegetables
+1629,Bran,Vegetables
+1630,Bran,Vegetables
+1631,Bran,Vegetables
+1632,Bran,Vegetables
+1633,Bran,Vegetables
+1634,Bran,Vegetables
+1635,Methi Seeds,Vegetables
+1636,Methi Seeds,Vegetables
+1637,Methi Seeds,Vegetables
+1638,Methi Seeds,Vegetables
+1639,Methi Seeds,Vegetables
+1640,Methi Seeds,Vegetables
+1641,Soapnut(AntawalaRetha),Vegetables
+1642,Soapnut(AntawalaRetha),Vegetables
+1643,Soapnut(AntawalaRetha),Vegetables
+1644,Soapnut(AntawalaRetha),Vegetables
+1645,Soapnut(AntawalaRetha),Vegetables
+1646,Soapnut(AntawalaRetha),Vegetables
+1647,Drumstick,Vegetables
+1648,Drumstick,Vegetables
+1649,Drumstick,Vegetables
+1650,Drumstick,Vegetables
+1651,Drumstick,Vegetables
+1652,Drumstick,Vegetables
+1653,Pepper ungarbled,Vegetables
+1654,Pepper ungarbled,Vegetables
+1655,Pepper ungarbled,Vegetables
+1656,Pepper ungarbled,Vegetables
+1657,Pepper ungarbled,Vegetables
+1658,Pepper ungarbled,Vegetables
+1659,Gram Raw(Chholia),Vegetables
+1660,Gram Raw(Chholia),Vegetables
+1661,Gram Raw(Chholia),Vegetables
+1662,Gram Raw(Chholia),Vegetables
+1663,Gram Raw(Chholia),Vegetables
+1664,Gram Raw(Chholia),Vegetables
+1665,Moath Dal,Vegetables
+1666,Moath Dal,Vegetables
+1667,Moath Dal,Vegetables
+1668,Moath Dal,Vegetables
+1669,Moath Dal,Vegetables
+1670,Moath Dal,Vegetables
+1671,Mango (Raw-Ripe),Vegetables
+1672,Mango (Raw-Ripe),Vegetables
+1673,Mango (Raw-Ripe),Vegetables
+1674,Mango (Raw-Ripe),Vegetables
+1675,Mango (Raw-Ripe),Vegetables
+1676,Mango (Raw-Ripe),Vegetables
+1677,Beans,Vegetables
+1678,Beans,Vegetables
+1679,Beans,Vegetables
+1680,Beans,Vegetables
+1681,Beans,Vegetables
+1682,Beans,Vegetables
+1683,Paddy(Dhan)(Common),Vegetables
+1684,Paddy(Dhan)(Common),Vegetables
+1685,Paddy(Dhan)(Common),Vegetables
+1686,Paddy(Dhan)(Common),Vegetables
+1687,Paddy(Dhan)(Common),Vegetables
+1688,Paddy(Dhan)(Common),Vegetables
+1689,Black Gram Dal (Urd Dal),Vegetables
+1690,Black Gram Dal (Urd Dal),Vegetables
+1691,Black Gram Dal (Urd Dal),Vegetables
+1692,Black Gram Dal (Urd Dal),Vegetables
+1693,Black Gram Dal (Urd Dal),Vegetables
+1694,Black Gram Dal (Urd Dal),Vegetables
+1695,Thogrikai,Vegetables
+1696,Thogrikai,Vegetables
+1697,Thogrikai,Vegetables
+1698,Thogrikai,Vegetables
+1699,Thogrikai,Vegetables
+1700,Thogrikai,Vegetables
+1701,Gladiolus Bulb,Vegetables
+1702,Gladiolus Bulb,Vegetables
+1703,Gladiolus Bulb,Vegetables
+1704,Gladiolus Bulb,Vegetables
+1705,Gladiolus Bulb,Vegetables
+1706,Gladiolus Bulb,Vegetables
+1707,Fig(AnjuraAnjeer),Vegetables
+1708,Fig(AnjuraAnjeer),Vegetables
+1709,Fig(AnjuraAnjeer),Vegetables
+1710,Fig(AnjuraAnjeer),Vegetables
+1711,Fig(AnjuraAnjeer),Vegetables
+1712,Fig(AnjuraAnjeer),Vegetables
+1713,Ginger(Dry),Vegetables
+1714,Ginger(Dry),Vegetables
+1715,Ginger(Dry),Vegetables
+1716,Ginger(Dry),Vegetables
+1717,Ginger(Dry),Vegetables
+1718,Ginger(Dry),Vegetables
+1719,SameSavi,Vegetables
+1720,SameSavi,Vegetables
+1721,SameSavi,Vegetables
+1722,SameSavi,Vegetables
+1723,SameSavi,Vegetables
+1724,SameSavi,Vegetables
+1725,Arhar (TurRed Gram)(Whole),Vegetables
+1726,Arhar (TurRed Gram)(Whole),Vegetables
+1727,Arhar (TurRed Gram)(Whole),Vegetables
+1728,Arhar (TurRed Gram)(Whole),Vegetables
+1729,Arhar (TurRed Gram)(Whole),Vegetables
+1730,Arhar (TurRed Gram)(Whole),Vegetables
+1731,Pomegranate,Vegetables
+1732,Pomegranate,Vegetables
+1733,Pomegranate,Vegetables
+1734,Pomegranate,Vegetables
+1735,Pomegranate,Vegetables
+1736,Pomegranate,Vegetables
+1737,Karbuja(Musk Melon),Vegetables
+1738,Karbuja(Musk Melon),Vegetables
+1739,Karbuja(Musk Melon),Vegetables
+1740,Karbuja(Musk Melon),Vegetables
+1741,Karbuja(Musk Melon),Vegetables
+1742,Karbuja(Musk Melon),Vegetables
+1743,Kabuli Chana(Chickpeas-White),Vegetables
+1744,Kabuli Chana(Chickpeas-White),Vegetables
+1745,Kabuli Chana(Chickpeas-White),Vegetables
+1746,Kabuli Chana(Chickpeas-White),Vegetables
+1747,Kabuli Chana(Chickpeas-White),Vegetables
+1748,Kabuli Chana(Chickpeas-White),Vegetables
+1749,Safflower,Vegetables
+1750,Safflower,Vegetables
+1751,Safflower,Vegetables
+1752,Safflower,Vegetables
+1753,Safflower,Vegetables
+1754,Safflower,Vegetables
+1755,Onion Green,Vegetables
+1756,Onion Green,Vegetables
+1757,Onion Green,Vegetables
+1758,Onion Green,Vegetables
+1759,Onion Green,Vegetables
+1760,Onion Green,Vegetables
+1761,Suva (Dill Seed),Vegetables
+1762,Suva (Dill Seed),Vegetables
+1763,Suva (Dill Seed),Vegetables
+1764,Suva (Dill Seed),Vegetables
+1765,Suva (Dill Seed),Vegetables
+1766,Suva (Dill Seed),Vegetables
+1767,Amaranthus,Vegetables
+1768,Amaranthus,Vegetables
+1769,Amaranthus,Vegetables
+1770,Amaranthus,Vegetables
+1771,Amaranthus,Vegetables
+1772,Amaranthus,Vegetables
+1773,Squash(Chappal Kadoo),Vegetables
+1774,Squash(Chappal Kadoo),Vegetables
+1775,Squash(Chappal Kadoo),Vegetables
+1776,Squash(Chappal Kadoo),Vegetables
+1777,Squash(Chappal Kadoo),Vegetables
+1778,Squash(Chappal Kadoo),Vegetables
+1779,Suvarna Gadde,Vegetables
+1780,Suvarna Gadde,Vegetables
+1781,Suvarna Gadde,Vegetables
+1782,Suvarna Gadde,Vegetables
+1783,Suvarna Gadde,Vegetables
+1784,Suvarna Gadde,Vegetables
+1785,Green Fodder,Vegetables
+1786,Green Fodder,Vegetables
+1787,Green Fodder,Vegetables
+1788,Green Fodder,Vegetables
+1789,Green Fodder,Vegetables
+1790,Green Fodder,Vegetables
+1791,Marigold(loose),Vegetables
+1792,Marigold(loose),Vegetables
+1793,Marigold(loose),Vegetables
+1794,Marigold(loose),Vegetables
+1795,Marigold(loose),Vegetables
+1796,Marigold(loose),Vegetables
+1797,Beaten Rice,Vegetables
+1798,Beaten Rice,Vegetables
+1799,Beaten Rice,Vegetables
+1800,Beaten Rice,Vegetables
+1801,Beaten Rice,Vegetables
+1802,Beaten Rice,Vegetables
+1803,Tea,Vegetables
+1804,Tea,Vegetables
+1805,Tea,Vegetables
+1806,Tea,Vegetables
+1807,Tea,Vegetables
+1808,Tea,Vegetables
+1809,Cinamon(Dalchini),Vegetables
+1810,Cinamon(Dalchini),Vegetables
+1811,Cinamon(Dalchini),Vegetables
+1812,Cinamon(Dalchini),Vegetables
+1813,Cinamon(Dalchini),Vegetables
+1814,Cinamon(Dalchini),Vegetables
+1815,Saffron,Vegetables
+1816,Saffron,Vegetables
+1817,Saffron,Vegetables
+1818,Saffron,Vegetables
+1819,Saffron,Vegetables
+1820,Saffron,Vegetables
+1821,Ragi (Finger Millet),Vegetables
+1822,Ragi (Finger Millet),Vegetables
+1823,Ragi (Finger Millet),Vegetables
+1824,Ragi (Finger Millet),Vegetables
+1825,Ragi (Finger Millet),Vegetables
+1826,Ragi (Finger Millet),Vegetables
+1827,Cock,Vegetables
+1828,Cock,Vegetables
+1829,Cock,Vegetables
+1830,Cock,Vegetables
+1831,Cock,Vegetables
+1832,Cock,Vegetables
+1833,Nutmeg,Vegetables
+1834,Nutmeg,Vegetables
+1835,Nutmeg,Vegetables
+1836,Nutmeg,Vegetables
+1837,Nutmeg,Vegetables
+1838,Nutmeg,Vegetables
+1839,Sabu Dana,Vegetables
+1840,Sabu Dana,Vegetables
+1841,Sabu Dana,Vegetables
+1842,Sabu Dana,Vegetables
+1843,Sabu Dana,Vegetables
+1844,Sabu Dana,Vegetables
+1845,Betelnuts,Vegetables
+1846,Betelnuts,Vegetables
+1847,Betelnuts,Vegetables
+1848,Betelnuts,Vegetables
+1849,Betelnuts,Vegetables
+1850,Betelnuts,Vegetables
+1851,Coca,Vegetables
+1852,Coca,Vegetables
+1853,Coca,Vegetables
+1854,Coca,Vegetables
+1855,Coca,Vegetables
+1856,Coca,Vegetables
+1857,Bull,Vegetables
+1858,Bull,Vegetables
+1859,Bull,Vegetables
+1860,Bull,Vegetables
+1861,Bull,Vegetables
+1862,Bull,Vegetables
+1863,Foxtail Millet(Navane),Vegetables
+1864,Foxtail Millet(Navane),Vegetables
+1865,Foxtail Millet(Navane),Vegetables
+1866,Foxtail Millet(Navane),Vegetables
+1867,Foxtail Millet(Navane),Vegetables
+1868,Foxtail Millet(Navane),Vegetables
+1869,She Buffalo,Vegetables
+1870,She Buffalo,Vegetables
+1871,She Buffalo,Vegetables
+1872,She Buffalo,Vegetables
+1873,She Buffalo,Vegetables
+1874,She Buffalo,Vegetables
+1875,Lime,Vegetables
+1876,Lime,Vegetables
+1877,Lime,Vegetables
+1878,Lime,Vegetables
+1879,Lime,Vegetables
+1880,Lime,Vegetables
+1881,Flower Broom,Vegetables
+1882,Flower Broom,Vegetables
+1883,Flower Broom,Vegetables
+1884,Flower Broom,Vegetables
+1885,Flower Broom,Vegetables
+1886,Flower Broom,Vegetables
+1887,Mint(Pudina),Vegetables
+1888,Mint(Pudina),Vegetables
+1889,Mint(Pudina),Vegetables
+1890,Mint(Pudina),Vegetables
+1891,Mint(Pudina),Vegetables
+1892,Mint(Pudina),Vegetables
+1893,Lint,Vegetables
+1894,Lint,Vegetables
+1895,Lint,Vegetables
+1896,Lint,Vegetables
+1897,Lint,Vegetables
+1898,Lint,Vegetables
+1899,Brinjal,Vegetables
+1900,Brinjal,Vegetables
+1901,Brinjal,Vegetables
+1902,Brinjal,Vegetables
+1903,Brinjal,Vegetables
+1904,Brinjal,Vegetables
+1905,Kuchur,Vegetables
+1906,Kuchur,Vegetables
+1907,Kuchur,Vegetables
+1908,Kuchur,Vegetables
+1909,Kuchur,Vegetables
+1910,Kuchur,Vegetables
+1911,Sponge gourd,Vegetables
+1912,Sponge gourd,Vegetables
+1913,Sponge gourd,Vegetables
+1914,Sponge gourd,Vegetables
+1915,Sponge gourd,Vegetables
+1916,Sponge gourd,Vegetables
+1917,Green Avare (W),Vegetables
+1918,Green Avare (W),Vegetables
+1919,Green Avare (W),Vegetables
+1920,Green Avare (W),Vegetables
+1921,Green Avare (W),Vegetables
+1922,Green Avare (W),Vegetables
+1923,Copra,Vegetables
+1924,Copra,Vegetables
+1925,Copra,Vegetables
+1926,Copra,Vegetables
+1927,Copra,Vegetables
+1928,Copra,Vegetables
+1929,Guava,Vegetables
+1930,Guava,Vegetables
+1931,Guava,Vegetables
+1932,Guava,Vegetables
+1933,Guava,Vegetables
+1934,Guava,Vegetables
+1935,Antawala,Vegetables
+1936,Antawala,Vegetables
+1937,Antawala,Vegetables
+1938,Antawala,Vegetables
+1939,Antawala,Vegetables
+1940,Antawala,Vegetables
+1941,Rose(Loose),Vegetables
+1942,Rose(Loose),Vegetables
+1943,Rose(Loose),Vegetables
+1944,Rose(Loose),Vegetables
+1945,Rose(Loose),Vegetables
+1946,Rose(Loose),Vegetables
+1947,Castor Oil,Vegetables
+1948,Castor Oil,Vegetables
+1949,Castor Oil,Vegetables
+1950,Castor Oil,Vegetables
+1951,Castor Oil,Vegetables
+1952,Castor Oil,Vegetables
+1953,"Sesamum(Sesame,Gingelly,Til)",Vegetables
+1954,"Sesamum(Sesame,Gingelly,Til)",Vegetables
+1955,"Sesamum(Sesame,Gingelly,Til)",Vegetables
+1956,"Sesamum(Sesame,Gingelly,Til)",Vegetables
+1957,"Sesamum(Sesame,Gingelly,Til)",Vegetables
+1958,"Sesamum(Sesame,Gingelly,Til)",Vegetables
+1959,Cane,Vegetables
+1960,Cane,Vegetables
+1961,Cane,Vegetables
+1962,Cane,Vegetables
+1963,Cane,Vegetables
+1964,Cane,Vegetables
+1965,Egg,Vegetables
+1966,Egg,Vegetables
+1967,Egg,Vegetables
+1968,Egg,Vegetables
+1969,Egg,Vegetables
+1970,Egg,Vegetables
+1971,Pepper garbled,Vegetables
+1972,Pepper garbled,Vegetables
+1973,Pepper garbled,Vegetables
+1974,Pepper garbled,Vegetables
+1975,Pepper garbled,Vegetables
+1976,Pepper garbled,Vegetables
+1977,Mashrooms,Vegetables
+1978,Mashrooms,Vegetables
+1979,Mashrooms,Vegetables
+1980,Mashrooms,Vegetables
+1981,Mashrooms,Vegetables
+1982,Mashrooms,Vegetables
+1983,Orchid,Vegetables
+1984,Orchid,Vegetables
+1985,Orchid,Vegetables
+1986,Orchid,Vegetables
+1987,Orchid,Vegetables
+1988,Orchid,Vegetables
+1989,Seemebadnekai,Vegetables
+1990,Seemebadnekai,Vegetables
+1991,Seemebadnekai,Vegetables
+1992,Seemebadnekai,Vegetables
+1993,Seemebadnekai,Vegetables
+1994,Seemebadnekai,Vegetables
+1995,Gramflour,Vegetables
+1996,Gramflour,Vegetables
+1997,Gramflour,Vegetables
+1998,Gramflour,Vegetables
+1999,Gramflour,Vegetables
+2000,Gramflour,Vegetables
+2001,Yam (Ratalu),Vegetables
+2002,Yam (Ratalu),Vegetables
+2003,Yam (Ratalu),Vegetables
+2004,Yam (Ratalu),Vegetables
+2005,Yam (Ratalu),Vegetables
+2006,Yam (Ratalu),Vegetables
+2007,Green Chilli,Vegetables
+2008,Green Chilli,Vegetables
+2009,Green Chilli,Vegetables
+2010,Green Chilli,Vegetables
+2011,Green Chilli,Vegetables
+2012,Green Chilli,Vegetables
+2013,Sarasum,Vegetables
+2014,Sarasum,Vegetables
+2015,Sarasum,Vegetables
+2016,Sarasum,Vegetables
+2017,Sarasum,Vegetables
+2018,Sarasum,Vegetables
+2019,Other Pulses,Vegetables
+2020,Other Pulses,Vegetables
+2021,Other Pulses,Vegetables
+2022,Other Pulses,Vegetables
+2023,Other Pulses,Vegetables
+2024,Other Pulses,Vegetables
+2025,Field Pea,Vegetables
+2026,Field Pea,Vegetables
+2027,Field Pea,Vegetables
+2028,Field Pea,Vegetables
+2029,Field Pea,Vegetables
+2030,Field Pea,Vegetables
+2031,Kartali (Kantola),Vegetables
+2032,Kartali (Kantola),Vegetables
+2033,Kartali (Kantola),Vegetables
+2034,Kartali (Kantola),Vegetables
+2035,Kartali (Kantola),Vegetables
+2036,Kartali (Kantola),Vegetables
+2037,Ginger(Green),Vegetables
+2038,Ginger(Green),Vegetables
+2039,Ginger(Green),Vegetables
+2040,Ginger(Green),Vegetables
+2041,Ginger(Green),Vegetables
+2042,Ginger(Green),Vegetables
+2043,Alasande Gram,Vegetables
+2044,Alasande Gram,Vegetables
+2045,Alasande Gram,Vegetables
+2046,Alasande Gram,Vegetables
+2047,Alasande Gram,Vegetables
+2048,Alasande Gram,Vegetables
+2049,Kharif Mash,Vegetables
+2050,Kharif Mash,Vegetables
+2051,Kharif Mash,Vegetables
+2052,Kharif Mash,Vegetables
+2053,Kharif Mash,Vegetables
+2054,Kharif Mash,Vegetables
+2055,Mahua Seed(Hippe seed),Vegetables
+2056,Mahua Seed(Hippe seed),Vegetables
+2057,Mahua Seed(Hippe seed),Vegetables
+2058,Mahua Seed(Hippe seed),Vegetables
+2059,Mahua Seed(Hippe seed),Vegetables
+2060,Mahua Seed(Hippe seed),Vegetables
+2061,Neem Seed,Vegetables
+2062,Neem Seed,Vegetables
+2063,Neem Seed,Vegetables
+2064,Neem Seed,Vegetables
+2065,Neem Seed,Vegetables
+2066,Neem Seed,Vegetables
+2067,Methi(Leaves),Vegetables
+2068,Methi(Leaves),Vegetables
+2069,Methi(Leaves),Vegetables
+2070,Methi(Leaves),Vegetables
+2071,Methi(Leaves),Vegetables
+2072,Methi(Leaves),Vegetables
+2073,Tube Rose(Single),Vegetables
+2074,Tube Rose(Single),Vegetables
+2075,Tube Rose(Single),Vegetables
+2076,Tube Rose(Single),Vegetables
+2077,Tube Rose(Single),Vegetables
+2078,Tube Rose(Single),Vegetables
+2079,Jute Seed,Vegetables
+2080,Jute Seed,Vegetables
+2081,Jute Seed,Vegetables
+2082,Jute Seed,Vegetables
+2083,Jute Seed,Vegetables
+2084,Jute Seed,Vegetables
+2085,Cluster beans,Vegetables
+2086,Cluster beans,Vegetables
+2087,Cluster beans,Vegetables
+2088,Cluster beans,Vegetables
+2089,Cluster beans,Vegetables
+2090,Cluster beans,Vegetables
+2091,Coconut,Vegetables
+2092,Coconut,Vegetables
+2093,Coconut,Vegetables
+2094,Coconut,Vegetables
+2095,Coconut,Vegetables
+2096,Coconut,Vegetables
+2097,Tapioca,Vegetables
+2098,Tapioca,Vegetables
+2099,Tapioca,Vegetables
+2100,Tapioca,Vegetables
+2101,Tapioca,Vegetables
+2102,Tapioca,Vegetables
+2103,Sweet Pumpkin,Vegetables
+2104,Sweet Pumpkin,Vegetables
+2105,Sweet Pumpkin,Vegetables
+2106,Sweet Pumpkin,Vegetables
+2107,Sweet Pumpkin,Vegetables
+2108,Sweet Pumpkin,Vegetables
+2109,Round gourd,Vegetables
+2110,Round gourd,Vegetables
+2111,Round gourd,Vegetables
+2112,Round gourd,Vegetables
+2113,Round gourd,Vegetables
+2114,Round gourd,Vegetables
+2115,Leafy Vegetable,Vegetables
+2116,Leafy Vegetable,Vegetables
+2117,Leafy Vegetable,Vegetables
+2118,Leafy Vegetable,Vegetables
+2119,Leafy Vegetable,Vegetables
+2120,Leafy Vegetable,Vegetables
+2121,Sompu,Vegetables
+2122,Sompu,Vegetables
+2123,Sompu,Vegetables
+2124,Sompu,Vegetables
+2125,Sompu,Vegetables
+2126,Sompu,Vegetables
+2127,Bullar,Vegetables
+2128,Bullar,Vegetables
+2129,Bullar,Vegetables
+2130,Bullar,Vegetables
+2131,Bullar,Vegetables
+2132,Bullar,Vegetables
+2133,Marasebu,Vegetables
+2134,Marasebu,Vegetables
+2135,Marasebu,Vegetables
+2136,Marasebu,Vegetables
+2137,Marasebu,Vegetables
+2138,Marasebu,Vegetables
+2139,Season Leaves,Vegetables
+2140,Season Leaves,Vegetables
+2141,Season Leaves,Vegetables
+2142,Season Leaves,Vegetables
+2143,Season Leaves,Vegetables
+2144,Season Leaves,Vegetables
+2145,Alsandikai,Vegetables
+2146,Alsandikai,Vegetables
+2147,Alsandikai,Vegetables
+2148,Alsandikai,Vegetables
+2149,Alsandikai,Vegetables
+2150,Alsandikai,Vegetables
+2151,Bhindi(Ladies Finger),Vegetables
+2152,Bhindi(Ladies Finger),Vegetables
+2153,Bhindi(Ladies Finger),Vegetables
+2154,Bhindi(Ladies Finger),Vegetables
+2155,Bhindi(Ladies Finger),Vegetables
+2156,Bhindi(Ladies Finger),Vegetables
+2157,Resinwood,Vegetables
+2158,Resinwood,Vegetables
+2159,Resinwood,Vegetables
+2160,Resinwood,Vegetables
+2161,Resinwood,Vegetables
+2162,Resinwood,Vegetables
+2163,Wood,Vegetables
+2164,Wood,Vegetables
+2165,Wood,Vegetables
+2166,Wood,Vegetables
+2167,Wood,Vegetables
+2168,Wood,Vegetables
+2169,Pegeon Pea (Arhar Fali),Vegetables
+2170,Pegeon Pea (Arhar Fali),Vegetables
+2171,Pegeon Pea (Arhar Fali),Vegetables
+2172,Pegeon Pea (Arhar Fali),Vegetables
+2173,Pegeon Pea (Arhar Fali),Vegetables
+2174,Pegeon Pea (Arhar Fali),Vegetables
+2175,Amphophalus,Vegetables
+2176,Amphophalus,Vegetables
+2177,Amphophalus,Vegetables
+2178,Amphophalus,Vegetables
+2179,Amphophalus,Vegetables
+2180,Amphophalus,Vegetables
+2181,Suram,Vegetables
+2182,Suram,Vegetables
+2183,Suram,Vegetables
+2184,Suram,Vegetables
+2185,Suram,Vegetables
+2186,Suram,Vegetables
+2187,Fish,Vegetables
+2188,Fish,Vegetables
+2189,Fish,Vegetables
+2190,Fish,Vegetables
+2191,Fish,Vegetables
+2192,Fish,Vegetables
+2193,Millets,Vegetables
+2194,Millets,Vegetables
+2195,Millets,Vegetables
+2196,Millets,Vegetables
+2197,Millets,Vegetables
+2198,Millets,Vegetables
+2199,Pointed gourd (Parval),Vegetables
+2200,Pointed gourd (Parval),Vegetables
+2201,Pointed gourd (Parval),Vegetables
+2202,Pointed gourd (Parval),Vegetables
+2203,Pointed gourd (Parval),Vegetables
+2204,Pointed gourd (Parval),Vegetables
+2205,Bajra(Pearl MilletCumbu),Vegetables
+2206,Bajra(Pearl MilletCumbu),Vegetables
+2207,Bajra(Pearl MilletCumbu),Vegetables
+2208,Bajra(Pearl MilletCumbu),Vegetables
+2209,Bajra(Pearl MilletCumbu),Vegetables
+2210,Bajra(Pearl MilletCumbu),Vegetables
+2211,Guar,Vegetables
+2212,Guar,Vegetables
+2213,Guar,Vegetables
+2214,Guar,Vegetables
+2215,Guar,Vegetables
+2216,Guar,Vegetables
+2217,Lemon,Vegetables
+2218,Lemon,Vegetables
+2219,Lemon,Vegetables
+2220,Lemon,Vegetables
+2221,Lemon,Vegetables
+2222,Lemon,Vegetables
+2223,Sajje,Vegetables
+2224,Sajje,Vegetables
+2225,Sajje,Vegetables
+2226,Sajje,Vegetables
+2227,Sajje,Vegetables
+2228,Sajje,Vegetables
+2229,Chennangi Dal,Vegetables
+2230,Chennangi Dal,Vegetables
+2231,Chennangi Dal,Vegetables
+2232,Chennangi Dal,Vegetables
+2233,Chennangi Dal,Vegetables
+2234,Chennangi Dal,Vegetables
+2235,Ridge gourd(Tori),Vegetables
+2236,Ridge gourd(Tori),Vegetables
+2237,Ridge gourd(Tori),Vegetables
+2238,Ridge gourd(Tori),Vegetables
+2239,Ridge gourd(Tori),Vegetables
+2240,Ridge gourd(Tori),Vegetables
+2241,Cabbage,Vegetables
+2242,Cabbage,Vegetables
+2243,Cabbage,Vegetables
+2244,Cabbage,Vegetables
+2245,Cabbage,Vegetables
+2246,Cabbage,Vegetables
+2247,She Goat,Vegetables
+2248,She Goat,Vegetables
+2249,She Goat,Vegetables
+2250,She Goat,Vegetables
+2251,She Goat,Vegetables
+2252,She Goat,Vegetables
+2253,Dry Fodder,Vegetables
+2254,Dry Fodder,Vegetables
+2255,Dry Fodder,Vegetables
+2256,Dry Fodder,Vegetables
+2257,Dry Fodder,Vegetables
+2258,Dry Fodder,Vegetables
+2259,Custard Apple (Sharifa),Vegetables
+2260,Custard Apple (Sharifa),Vegetables
+2261,Custard Apple (Sharifa),Vegetables
+2262,Custard Apple (Sharifa),Vegetables
+2263,Custard Apple (Sharifa),Vegetables
+2264,Custard Apple (Sharifa),Vegetables
+2265,Seegu,Vegetables
+2266,Seegu,Vegetables
+2267,Seegu,Vegetables
+2268,Seegu,Vegetables
+2269,Seegu,Vegetables
+2270,Seegu,Vegetables
+2271,Hen,Vegetables
+2272,Hen,Vegetables
+2273,Hen,Vegetables
+2274,Hen,Vegetables
+2275,Hen,Vegetables
+2276,Hen,Vegetables
+2277,Sugar,Vegetables
+2278,Sugar,Vegetables
+2279,Sugar,Vegetables
+2280,Sugar,Vegetables
+2281,Sugar,Vegetables
+2282,Sugar,Vegetables
+2283,Pundi,Vegetables
+2284,Pundi,Vegetables
+2285,Pundi,Vegetables
+2286,Pundi,Vegetables
+2287,Pundi,Vegetables
+2288,Pundi,Vegetables
+2289,Marget,Vegetables
+2290,Marget,Vegetables
+2291,Marget,Vegetables
+2292,Marget,Vegetables
+2293,Marget,Vegetables
+2294,Marget,Vegetables
+2295,Chili Red,Vegetables
+2296,Chili Red,Vegetables
+2297,Chili Red,Vegetables
+2298,Chili Red,Vegetables
+2299,Chili Red,Vegetables
+2300,Chili Red,Vegetables
+2301,Groundnut,Vegetables
+2302,Groundnut,Vegetables
+2303,Groundnut,Vegetables
+2304,Groundnut,Vegetables
+2305,Groundnut,Vegetables
+2306,Groundnut,Vegetables
+2307,Bay leaf (Tejpatta),Vegetables
+2308,Bay leaf (Tejpatta),Vegetables
+2309,Bay leaf (Tejpatta),Vegetables
+2310,Bay leaf (Tejpatta),Vegetables
+2311,Bay leaf (Tejpatta),Vegetables
+2312,Bay leaf (Tejpatta),Vegetables
+2313,Niger Seed (Ramtil),Vegetables
+2314,Niger Seed (Ramtil),Vegetables
+2315,Niger Seed (Ramtil),Vegetables
+2316,Niger Seed (Ramtil),Vegetables
+2317,Niger Seed (Ramtil),Vegetables
+2318,Niger Seed (Ramtil),Vegetables
+2319,Rat Tail Radish (Mogari),Vegetables
+2320,Rat Tail Radish (Mogari),Vegetables
+2321,Rat Tail Radish (Mogari),Vegetables
+2322,Rat Tail Radish (Mogari),Vegetables
+2323,Rat Tail Radish (Mogari),Vegetables
+2324,Rat Tail Radish (Mogari),Vegetables
+2325,Cotton,Vegetables
+2326,Cotton,Vegetables
+2327,Cotton,Vegetables
+2328,Cotton,Vegetables
+2329,Cotton,Vegetables
+2330,Cotton,Vegetables
+2331,Beetroot,Vegetables
+2332,Beetroot,Vegetables
+2333,Beetroot,Vegetables
+2334,Beetroot,Vegetables
+2335,Beetroot,Vegetables
+2336,Beetroot,Vegetables
+2337,Galgal(Lemon),Vegetables
+2338,Galgal(Lemon),Vegetables
+2339,Galgal(Lemon),Vegetables
+2340,Galgal(Lemon),Vegetables
+2341,Galgal(Lemon),Vegetables
+2342,Galgal(Lemon),Vegetables
+2343,Barley (Jau),Vegetables
+2344,Barley (Jau),Vegetables
+2345,Barley (Jau),Vegetables
+2346,Barley (Jau),Vegetables
+2347,Barley (Jau),Vegetables
+2348,Barley (Jau),Vegetables
+2349,Pundi Seed,Vegetables
+2350,Pundi Seed,Vegetables
+2351,Pundi Seed,Vegetables
+2352,Pundi Seed,Vegetables
+2353,Pundi Seed,Vegetables
+2354,Pundi Seed,Vegetables
+2355,Cotton Seed,Vegetables
+2356,Cotton Seed,Vegetables
+2357,Cotton Seed,Vegetables
+2358,Cotton Seed,Vegetables
+2359,Cotton Seed,Vegetables
+2360,Cotton Seed,Vegetables
+2361,Onion,Vegetables
+2362,Onion,Vegetables
+2363,Onion,Vegetables
+2364,Onion,Vegetables
+2365,Onion,Vegetables
+2366,Onion,Vegetables
+2367,Bengal Gram(Gram)(Whole),Vegetables
+2368,Bengal Gram(Gram)(Whole),Vegetables
+2369,Bengal Gram(Gram)(Whole),Vegetables
+2370,Bengal Gram(Gram)(Whole),Vegetables
+2371,Bengal Gram(Gram)(Whole),Vegetables
+2372,Bengal Gram(Gram)(Whole),Vegetables
+2373,Persimon(Japani Fal),Vegetables
+2374,Persimon(Japani Fal),Vegetables
+2375,Persimon(Japani Fal),Vegetables
+2376,Persimon(Japani Fal),Vegetables
+2377,Persimon(Japani Fal),Vegetables
+2378,Persimon(Japani Fal),Vegetables
+2379,Mash,Vegetables
+2380,Mash,Vegetables
+2381,Mash,Vegetables
+2382,Mash,Vegetables
+2383,Mash,Vegetables
+2384,Mash,Vegetables
+2385,Jamamkhan,Vegetables
+2386,Jamamkhan,Vegetables
+2387,Jamamkhan,Vegetables
+2388,Jamamkhan,Vegetables
+2389,Jamamkhan,Vegetables
+2390,Jamamkhan,Vegetables
+2391,He Buffalo,Vegetables
+2392,He Buffalo,Vegetables
+2393,He Buffalo,Vegetables
+2394,He Buffalo,Vegetables
+2395,He Buffalo,Vegetables
+2396,He Buffalo,Vegetables
+2397,Jasmine,Vegetables
+2398,Jasmine,Vegetables
+2399,Jasmine,Vegetables
+2400,Jasmine,Vegetables
+2401,Jasmine,Vegetables
+2402,Jasmine,Vegetables
+2403,Chrysanthemum,Vegetables
+2404,Chrysanthemum,Vegetables
+2405,Chrysanthemum,Vegetables
+2406,Chrysanthemum,Vegetables
+2407,Chrysanthemum,Vegetables
+2408,Chrysanthemum,Vegetables
+2409,Calf,Vegetables
+2410,Calf,Vegetables
+2411,Calf,Vegetables
+2412,Calf,Vegetables
+2413,Calf,Vegetables
+2414,Calf,Vegetables
+2415,Capsicum,Vegetables
+2416,Capsicum,Vegetables
+2417,Capsicum,Vegetables
+2418,Capsicum,Vegetables
+2419,Capsicum,Vegetables
+2420,Capsicum,Vegetables
+2421,Myrobolan(Harad),Vegetables
+2422,Myrobolan(Harad),Vegetables
+2423,Myrobolan(Harad),Vegetables
+2424,Myrobolan(Harad),Vegetables
+2425,Myrobolan(Harad),Vegetables
+2426,Myrobolan(Harad),Vegetables
+2427,Astera,Vegetables
+2428,Astera,Vegetables
+2429,Astera,Vegetables
+2430,Astera,Vegetables
+2431,Astera,Vegetables
+2432,Astera,Vegetables
+2433,Riccbcan,Vegetables
+2434,Riccbcan,Vegetables
+2435,Riccbcan,Vegetables
+2436,Riccbcan,Vegetables
+2437,Riccbcan,Vegetables
+2438,Riccbcan,Vegetables
+2439,Sweet Potato,Vegetables
+2440,Sweet Potato,Vegetables
+2441,Sweet Potato,Vegetables
+2442,Sweet Potato,Vegetables
+2443,Sweet Potato,Vegetables
+2444,Sweet Potato,Vegetables
+2445,Jack Fruit,Vegetables
+2446,Jack Fruit,Vegetables
+2447,Jack Fruit,Vegetables
+2448,Jack Fruit,Vegetables
+2449,Jack Fruit,Vegetables
+2450,Jack Fruit,Vegetables
+2451,Indian Colza(Sarson),Vegetables
+2452,Indian Colza(Sarson),Vegetables
+2453,Indian Colza(Sarson),Vegetables
+2454,Indian Colza(Sarson),Vegetables
+2455,Indian Colza(Sarson),Vegetables
+2456,Indian Colza(Sarson),Vegetables
+2457,Ambada Seed,Vegetables
+2458,Ambada Seed,Vegetables
+2459,Ambada Seed,Vegetables
+2460,Ambada Seed,Vegetables
+2461,Ambada Seed,Vegetables
+2462,Ambada Seed,Vegetables
+2463,Peas Wet,Vegetables
+2464,Peas Wet,Vegetables
+2465,Peas Wet,Vegetables
+2466,Peas Wet,Vegetables
+2467,Peas Wet,Vegetables
+2468,Peas Wet,Vegetables
+2469,Rubber,Vegetables
+2470,Rubber,Vegetables
+2471,Rubber,Vegetables
+2472,Rubber,Vegetables
+2473,Rubber,Vegetables
+2474,Rubber,Vegetables
+2475,Sheep,Vegetables
+2476,Sheep,Vegetables
+2477,Sheep,Vegetables
+2478,Sheep,Vegetables
+2479,Sheep,Vegetables
+2480,Sheep,Vegetables
+2481,Cow,Vegetables
+2482,Cow,Vegetables
+2483,Cow,Vegetables
+2484,Cow,Vegetables
+2485,Cow,Vegetables
+2486,Cow,Vegetables
+2487,Groundnut (Split),Vegetables
+2488,Groundnut (Split),Vegetables
+2489,Groundnut (Split),Vegetables
+2490,Groundnut (Split),Vegetables
+2491,Groundnut (Split),Vegetables
+2492,Groundnut (Split),Vegetables
+2493,Yam,Vegetables
+2494,Yam,Vegetables
+2495,Yam,Vegetables
+2496,Yam,Vegetables
+2497,Yam,Vegetables
+2498,Yam,Vegetables
+2499,Dhaincha,Vegetables
+2500,Dhaincha,Vegetables
+2501,Dhaincha,Vegetables
+2502,Dhaincha,Vegetables
+2503,Dhaincha,Vegetables
+2504,Dhaincha,Vegetables
+2505,Camel Hair,Vegetables
+2506,Camel Hair,Vegetables
+2507,Camel Hair,Vegetables
+2508,Camel Hair,Vegetables
+2509,Camel Hair,Vegetables
+2510,Camel Hair,Vegetables
+2511,Papaya,Vegetables
+2512,Papaya,Vegetables
+2513,Papaya,Vegetables
+2514,Papaya,Vegetables
+2515,Papaya,Vegetables
+2516,Papaya,Vegetables
+2517,Dry Chillies,Vegetables
+2518,Dry Chillies,Vegetables
+2519,Dry Chillies,Vegetables
+2520,Dry Chillies,Vegetables
+2521,Dry Chillies,Vegetables
+2522,Dry Chillies,Vegetables
+2523,Chapparad Avare,Vegetables
+2524,Chapparad Avare,Vegetables
+2525,Chapparad Avare,Vegetables
+2526,Chapparad Avare,Vegetables
+2527,Chapparad Avare,Vegetables
+2528,Chapparad Avare,Vegetables
+2529,Big Gram,Vegetables
+2530,Big Gram,Vegetables
+2531,Big Gram,Vegetables
+2532,Big Gram,Vegetables
+2533,Big Gram,Vegetables
+2534,Big Gram,Vegetables
+2535,Chennangi (Whole),Vegetables
+2536,Chennangi (Whole),Vegetables
+2537,Chennangi (Whole),Vegetables
+2538,Chennangi (Whole),Vegetables
+2539,Chennangi (Whole),Vegetables
+2540,Chennangi (Whole),Vegetables
+2541,Sugarcane,Vegetables
+2542,Sugarcane,Vegetables
+2543,Sugarcane,Vegetables
+2544,Sugarcane,Vegetables
+2545,Sugarcane,Vegetables
+2546,Sugarcane,Vegetables
+2547,Grapes,Vegetables
+2548,Grapes,Vegetables
+2549,Grapes,Vegetables
+2550,Grapes,Vegetables
+2551,Grapes,Vegetables
+2552,Grapes,Vegetables
+2553,Tube Flower,Vegetables
+2554,Tube Flower,Vegetables
+2555,Tube Flower,Vegetables
+2556,Tube Flower,Vegetables
+2557,Tube Flower,Vegetables
+2558,Tube Flower,Vegetables
+2559,Mustard Oil,Vegetables
+2560,Mustard Oil,Vegetables
+2561,Mustard Oil,Vegetables
+2562,Mustard Oil,Vegetables
+2563,Mustard Oil,Vegetables
+2564,Mustard Oil,Vegetables
+2565,Wool,Vegetables
+2566,Wool,Vegetables
+2567,Wool,Vegetables
+2568,Wool,Vegetables
+2569,Wool,Vegetables
+2570,Wool,Vegetables
+2571,Chikoos(Sapota),Vegetables
+2572,Chikoos(Sapota),Vegetables
+2573,Chikoos(Sapota),Vegetables
+2574,Chikoos(Sapota),Vegetables
+2575,Chikoos(Sapota),Vegetables
+2576,Chikoos(Sapota),Vegetables
+2577,Pigs,Vegetables
+2578,Pigs,Vegetables
+2579,Pigs,Vegetables
+2580,Pigs,Vegetables
+2581,Pigs,Vegetables
+2582,Pigs,Vegetables
+2583,Amla(Nelli Kai),Vegetables
+2584,Amla(Nelli Kai),Vegetables
+2585,Amla(Nelli Kai),Vegetables
+2586,Amla(Nelli Kai),Vegetables
+2587,Amla(Nelli Kai),Vegetables
+2588,Amla(Nelli Kai),Vegetables
+2589,Ladies Finger,Vegetables
+2590,Ladies Finger,Vegetables
+2591,Ladies Finger,Vegetables
+2592,Ladies Finger,Vegetables
+2593,Ladies Finger,Vegetables
+2594,Ladies Finger,Vegetables
+2595,Javi,Vegetables
+2596,Javi,Vegetables
+2597,Javi,Vegetables
+2598,Javi,Vegetables
+2599,Javi,Vegetables
+2600,Javi,Vegetables
+2601,Snake gourd,Vegetables
+2602,Snake gourd,Vegetables
+2603,Snake gourd,Vegetables
+2604,Snake gourd,Vegetables
+2605,Snake gourd,Vegetables
+2606,Snake gourd,Vegetables
+2607,Green Gram Dal (Moong Dal),Vegetables
+2608,Green Gram Dal (Moong Dal),Vegetables
+2609,Green Gram Dal (Moong Dal),Vegetables
+2610,Green Gram Dal (Moong Dal),Vegetables
+2611,Green Gram Dal (Moong Dal),Vegetables
+2612,Green Gram Dal (Moong Dal),Vegetables
+2613,Guar Seed(Cluster Beans Seed),Vegetables
+2614,Guar Seed(Cluster Beans Seed),Vegetables
+2615,Guar Seed(Cluster Beans Seed),Vegetables
+2616,Guar Seed(Cluster Beans Seed),Vegetables
+2617,Guar Seed(Cluster Beans Seed),Vegetables
+2618,Guar Seed(Cluster Beans Seed),Vegetables
+2619,Sunflower,Vegetables
+2620,Sunflower,Vegetables
+2621,Sunflower,Vegetables
+2622,Sunflower,Vegetables
+2623,Sunflower,Vegetables
+2624,Sunflower,Vegetables
+2625,Mace,Vegetables
+2626,Mace,Vegetables
+2627,Mace,Vegetables
+2628,Mace,Vegetables
+2629,Mace,Vegetables
+2630,Mace,Vegetables
+2631,Bunch Beans,Vegetables
+2632,Bunch Beans,Vegetables
+2633,Bunch Beans,Vegetables
+2634,Bunch Beans,Vegetables
+2635,Bunch Beans,Vegetables
+2636,Bunch Beans,Vegetables
+2637,Elephant Yam (Suran),Vegetables
+2638,Elephant Yam (Suran),Vegetables
+2639,Elephant Yam (Suran),Vegetables
+2640,Elephant Yam (Suran),Vegetables
+2641,Elephant Yam (Suran),Vegetables
+2642,Elephant Yam (Suran),Vegetables
+2643,Almond(Badam),Vegetables
+2644,Almond(Badam),Vegetables
+2645,Almond(Badam),Vegetables
+2646,Almond(Badam),Vegetables
+2647,Almond(Badam),Vegetables
+2648,Almond(Badam),Vegetables
+2649,Apricot(JardaluKhumani),Vegetables
+2650,Apricot(JardaluKhumani),Vegetables
+2651,Apricot(JardaluKhumani),Vegetables
+2652,Apricot(JardaluKhumani),Vegetables
+2653,Apricot(JardaluKhumani),Vegetables
+2654,Apricot(JardaluKhumani),Vegetables
+2655,Paddy(Dhan)(Basmati),Vegetables
+2656,Paddy(Dhan)(Basmati),Vegetables
+2657,Paddy(Dhan)(Basmati),Vegetables
+2658,Paddy(Dhan)(Basmati),Vegetables
+2659,Paddy(Dhan)(Basmati),Vegetables
+2660,Paddy(Dhan)(Basmati),Vegetables
+2661,Garlic,Vegetables
+2662,Garlic,Vegetables
+2663,Garlic,Vegetables
+2664,Garlic,Vegetables
+2665,Garlic,Vegetables
+2666,Garlic,Vegetables
+2667,Pear(Marasebu),Vegetables
+2668,Pear(Marasebu),Vegetables
+2669,Pear(Marasebu),Vegetables
+2670,Pear(Marasebu),Vegetables
+2671,Pear(Marasebu),Vegetables
+2672,Pear(Marasebu),Vegetables
+2673,Delha,Vegetables
+2674,Delha,Vegetables
+2675,Delha,Vegetables
+2676,Delha,Vegetables
+2677,Delha,Vegetables
+2678,Delha,Vegetables
+2679,Turmeric (raw),Vegetables
+2680,Turmeric (raw),Vegetables
+2681,Turmeric (raw),Vegetables
+2682,Turmeric (raw),Vegetables
+2683,Turmeric (raw),Vegetables
+2684,Turmeric (raw),Vegetables
+2685,Cardamoms,Vegetables
+2686,Cardamoms,Vegetables
+2687,Cardamoms,Vegetables
+2688,Cardamoms,Vegetables
+2689,Cardamoms,Vegetables
+2690,Cardamoms,Vegetables
+2691,Jaffri,Vegetables
+2692,Jaffri,Vegetables
+2693,Jaffri,Vegetables
+2694,Jaffri,Vegetables
+2695,Jaffri,Vegetables
+2696,Jaffri,Vegetables
+2697,Honey,Vegetables
+2698,Honey,Vegetables
+2699,Honey,Vegetables
+2700,Honey,Vegetables
+2701,Honey,Vegetables
+2702,Honey,Vegetables
+2703,Colacasia,Vegetables
+2704,Colacasia,Vegetables
+2705,Colacasia,Vegetables
+2706,Colacasia,Vegetables
+2707,Colacasia,Vegetables
+2708,Colacasia,Vegetables
+2709,Ber(ZizyphusBorehannu),Vegetables
+2710,Ber(ZizyphusBorehannu),Vegetables
+2711,Ber(ZizyphusBorehannu),Vegetables
+2712,Ber(ZizyphusBorehannu),Vegetables
+2713,Ber(ZizyphusBorehannu),Vegetables
+2714,Ber(ZizyphusBorehannu),Vegetables
+2715,Jarbara,Vegetables
+2716,Jarbara,Vegetables
+2717,Jarbara,Vegetables
+2718,Jarbara,Vegetables
+2719,Jarbara,Vegetables
+2720,Jarbara,Vegetables
+2721,Siddota,Vegetables
+2722,Siddota,Vegetables
+2723,Siddota,Vegetables
+2724,Siddota,Vegetables
+2725,Siddota,Vegetables
+2726,Siddota,Vegetables
+2727,Arecanut(BetelnutSupari),Vegetables
+2728,Arecanut(BetelnutSupari),Vegetables
+2729,Arecanut(BetelnutSupari),Vegetables
+2730,Arecanut(BetelnutSupari),Vegetables
+2731,Arecanut(BetelnutSupari),Vegetables
+2732,Arecanut(BetelnutSupari),Vegetables
+2733,Marigold(Calcutta),Vegetables
+2734,Marigold(Calcutta),Vegetables
+2735,Marigold(Calcutta),Vegetables
+2736,Marigold(Calcutta),Vegetables
+2737,Marigold(Calcutta),Vegetables
+2738,Marigold(Calcutta),Vegetables
+2739,Butter,Vegetables
+2740,Butter,Vegetables
+2741,Butter,Vegetables
+2742,Butter,Vegetables
+2743,Butter,Vegetables
+2744,Butter,Vegetables
+2745,BOP,Vegetables
+2746,BOP,Vegetables
+2747,BOP,Vegetables
+2748,BOP,Vegetables
+2749,BOP,Vegetables
+2750,BOP,Vegetables
+2751,Tube Rose(Loose),Vegetables
+2752,Tube Rose(Loose),Vegetables
+2753,Tube Rose(Loose),Vegetables
+2754,Tube Rose(Loose),Vegetables
+2755,Tube Rose(Loose),Vegetables
+2756,Tube Rose(Loose),Vegetables
+2757,Polherb,Vegetables
+2758,Polherb,Vegetables
+2759,Polherb,Vegetables
+2760,Polherb,Vegetables
+2761,Polherb,Vegetables
+2762,Polherb,Vegetables
+2763,Nelli Kai,Vegetables
+2764,Nelli Kai,Vegetables
+2765,Nelli Kai,Vegetables
+2766,Nelli Kai,Vegetables
+2767,Nelli Kai,Vegetables
+2768,Nelli Kai,Vegetables
+2769,Orange,Vegetables
+2770,Orange,Vegetables
+2771,Orange,Vegetables
+2772,Orange,Vegetables
+2773,Orange,Vegetables
+2774,Orange,Vegetables
+2775,Cucumbar(Kheera),Vegetables
+2776,Cucumbar(Kheera),Vegetables
+2777,Cucumbar(Kheera),Vegetables
+2778,Cucumbar(Kheera),Vegetables
+2779,Cucumbar(Kheera),Vegetables
+2780,Cucumbar(Kheera),Vegetables
+2781,Turmeric,Vegetables
+2782,Turmeric,Vegetables
+2783,Turmeric,Vegetables
+2784,Turmeric,Vegetables
+2785,Turmeric,Vegetables
+2786,Turmeric,Vegetables
+2787,Banana - Green,Vegetables
+2788,Banana - Green,Vegetables
+2789,Banana - Green,Vegetables
+2790,Banana - Green,Vegetables
+2791,Banana - Green,Vegetables
+2792,Banana - Green,Vegetables
+2793,Kinnow,Vegetables
+2794,Kinnow,Vegetables
+2795,Kinnow,Vegetables
+2796,Kinnow,Vegetables
+2797,Kinnow,Vegetables
+2798,Kinnow,Vegetables
+2799,Skin And Hide,Vegetables
+2800,Skin And Hide,Vegetables
+2801,Skin And Hide,Vegetables
+2802,Skin And Hide,Vegetables
+2803,Skin And Hide,Vegetables
+2804,Skin And Hide,Vegetables
+2805,T.V. Cumbu,Vegetables
+2806,T.V. Cumbu,Vegetables
+2807,T.V. Cumbu,Vegetables
+2808,T.V. Cumbu,Vegetables
+2809,T.V. Cumbu,Vegetables
+2810,T.V. Cumbu,Vegetables
+2811,Coconut Seed,Vegetables
+2812,Coconut Seed,Vegetables
+2813,Coconut Seed,Vegetables
+2814,Coconut Seed,Vegetables
+2815,Coconut Seed,Vegetables
+2816,Coconut Seed,Vegetables
+2817,Indian Beans (Seam),Vegetables
+2818,Indian Beans (Seam),Vegetables
+2819,Indian Beans (Seam),Vegetables
+2820,Indian Beans (Seam),Vegetables
+2821,Indian Beans (Seam),Vegetables
+2822,Indian Beans (Seam),Vegetables
+2823,Cummin Seed(Jeera),Vegetables
+2824,Cummin Seed(Jeera),Vegetables
+2825,Cummin Seed(Jeera),Vegetables
+2826,Cummin Seed(Jeera),Vegetables
+2827,Cummin Seed(Jeera),Vegetables
+2828,Cummin Seed(Jeera),Vegetables
+2829,Black Gram (Urd Beans)(Whole),Vegetables
+2830,Black Gram (Urd Beans)(Whole),Vegetables
+2831,Black Gram (Urd Beans)(Whole),Vegetables
+2832,Black Gram (Urd Beans)(Whole),Vegetables
+2833,Black Gram (Urd Beans)(Whole),Vegetables
+2834,Black Gram (Urd Beans)(Whole),Vegetables
+2835,Nearle Hannu,Vegetables
+2836,Nearle Hannu,Vegetables
+2837,Nearle Hannu,Vegetables
+2838,Nearle Hannu,Vegetables
+2839,Nearle Hannu,Vegetables
+2840,Nearle Hannu,Vegetables
+2841,Dry Grapes,Vegetables
+2842,Dry Grapes,Vegetables
+2843,Dry Grapes,Vegetables
+2844,Dry Grapes,Vegetables
+2845,Dry Grapes,Vegetables
+2846,Dry Grapes,Vegetables
+2847,Linseed,Vegetables
+2848,Linseed,Vegetables
+2849,Linseed,Vegetables
+2850,Linseed,Vegetables
+2851,Linseed,Vegetables
+2852,Linseed,Vegetables
+2853,Peas(Dry),Vegetables
+2854,Peas(Dry),Vegetables
+2855,Peas(Dry),Vegetables
+2856,Peas(Dry),Vegetables
+2857,Peas(Dry),Vegetables
+2858,Peas(Dry),Vegetables
+2859,Green Peas,Vegetables
+2860,Green Peas,Vegetables
+2861,Green Peas,Vegetables
+2862,Green Peas,Vegetables
+2863,Green Peas,Vegetables
+2864,Green Peas,Vegetables
+2865,Daila(Chandni),Vegetables
+2866,Daila(Chandni),Vegetables
+2867,Daila(Chandni),Vegetables
+2868,Daila(Chandni),Vegetables
+2869,Daila(Chandni),Vegetables
+2870,Daila(Chandni),Vegetables
+2871,Ground Nut Oil,Vegetables
+2872,Ground Nut Oil,Vegetables
+2873,Ground Nut Oil,Vegetables
+2874,Ground Nut Oil,Vegetables
+2875,Ground Nut Oil,Vegetables
+2876,Ground Nut Oil,Vegetables
+2877,Ashgourd,Vegetables
+2878,Ashgourd,Vegetables
+2879,Ashgourd,Vegetables
+2880,Ashgourd,Vegetables
+2881,Ashgourd,Vegetables
+2882,Ashgourd,Vegetables
+2883,Karamani,Vegetables
+2884,Karamani,Vegetables
+2885,Karamani,Vegetables
+2886,Karamani,Vegetables
+2887,Karamani,Vegetables
+2888,Karamani,Vegetables
+2889,Duck,Vegetables
+2890,Duck,Vegetables
+2891,Duck,Vegetables
+2892,Duck,Vegetables
+2893,Duck,Vegetables
+2894,Duck,Vegetables
+2895,White Pumpkin,Vegetables
+2896,White Pumpkin,Vegetables
+2897,White Pumpkin,Vegetables
+2898,White Pumpkin,Vegetables
+2899,White Pumpkin,Vegetables
+2900,White Pumpkin,Vegetables
+2901,Chow Chow,Vegetables
+2902,Chow Chow,Vegetables
+2903,Chow Chow,Vegetables
+2904,Chow Chow,Vegetables
+2905,Chow Chow,Vegetables
+2906,Chow Chow,Vegetables
+2907,Rajgir,Vegetables
+2908,Rajgir,Vegetables
+2909,Rajgir,Vegetables
+2910,Rajgir,Vegetables
+2911,Rajgir,Vegetables
+2912,Rajgir,Vegetables
+2913,Wheat Atta,Vegetables
+2914,Wheat Atta,Vegetables
+2915,Wheat Atta,Vegetables
+2916,Wheat Atta,Vegetables
+2917,Wheat Atta,Vegetables
+2918,Wheat Atta,Vegetables
+2919,Knool Khol,Vegetables
+2920,Knool Khol,Vegetables
+2921,Knool Khol,Vegetables
+2922,Knool Khol,Vegetables
+2923,Knool Khol,Vegetables
+2924,Knool Khol,Vegetables
+2925,Turnip,Vegetables
+2926,Turnip,Vegetables
+2927,Turnip,Vegetables
+2928,Turnip,Vegetables
+2929,Turnip,Vegetables
+2930,Turnip,Vegetables
+2931,Cauliflower,Vegetables
+2932,Cauliflower,Vegetables
+2933,Cauliflower,Vegetables
+2934,Cauliflower,Vegetables
+2935,Cauliflower,Vegetables
+2936,Cauliflower,Vegetables
+2937,Wheat,Vegetables
+2938,Wheat,Vegetables
+2939,Wheat,Vegetables
+2940,Wheat,Vegetables
+2941,Wheat,Vegetables
+2942,Wheat,Vegetables
+2943,Honge seed,Vegetables
+2944,Honge seed,Vegetables
+2945,Honge seed,Vegetables
+2946,Honge seed,Vegetables
+2947,Honge seed,Vegetables
+2948,Honge seed,Vegetables
+2949,Corriander seed,Vegetables
+2950,Corriander seed,Vegetables
+2951,Corriander seed,Vegetables
+2952,Corriander seed,Vegetables
+2953,Corriander seed,Vegetables
+2954,Corriander seed,Vegetables
+2955,Balekai,Vegetables
+2956,Balekai,Vegetables
+2957,Balekai,Vegetables
+2958,Balekai,Vegetables
+2959,Balekai,Vegetables
+2960,Balekai,Vegetables
+2961,Tobacco,Vegetables
+2962,Tobacco,Vegetables
+2963,Tobacco,Vegetables
+2964,Tobacco,Vegetables
+2965,Tobacco,Vegetables
+2966,Tobacco,Vegetables
+2967,Coffee,Vegetables
+2968,Coffee,Vegetables
+2969,Coffee,Vegetables
+2970,Coffee,Vegetables
+2971,Coffee,Vegetables
+2972,Coffee,Vegetables
+2973,Maize,Vegetables
+2974,Maize,Vegetables
+2975,Maize,Vegetables
+2976,Maize,Vegetables
+2977,Maize,Vegetables
+2978,Maize,Vegetables
+2979,Carrot,Vegetables
+2980,Carrot,Vegetables
+2981,Carrot,Vegetables
+2982,Carrot,Vegetables
+2983,Carrot,Vegetables
+2984,Carrot,Vegetables
+2985,Cashewnuts,Vegetables
+2986,Cashewnuts,Vegetables
+2987,Cashewnuts,Vegetables
+2988,Cashewnuts,Vegetables
+2989,Cashewnuts,Vegetables
+2990,Cashewnuts,Vegetables
+2991,Jamun(Narale Hannu),Vegetables
+2992,Jamun(Narale Hannu),Vegetables
+2993,Jamun(Narale Hannu),Vegetables
+2994,Jamun(Narale Hannu),Vegetables
+2995,Jamun(Narale Hannu),Vegetables
+2996,Jamun(Narale Hannu),Vegetables
+2997,Tender Coconut,Vegetables
+2998,Tender Coconut,Vegetables
+2999,Tender Coconut,Vegetables
+3000,Tender Coconut,Vegetables
+3001,Tender Coconut,Vegetables
+3002,Tender Coconut,Vegetables
+3003,Cherry,Vegetables
+3004,Cherry,Vegetables
+3005,Cherry,Vegetables
+3006,Cherry,Vegetables
+3007,Cherry,Vegetables
+3008,Cherry,Vegetables
+3009,Litchi,Vegetables
+3010,Litchi,Vegetables
+3011,Litchi,Vegetables
+3012,Litchi,Vegetables
+3013,Litchi,Vegetables
+3014,Litchi,Vegetables
+3015,Gurellu,Vegetables
+3016,Gurellu,Vegetables
+3017,Gurellu,Vegetables
+3018,Gurellu,Vegetables
+3019,Gurellu,Vegetables
+3020,Gurellu,Vegetables
+3021,Soanf,Vegetables
+3022,Soanf,Vegetables
+3023,Soanf,Vegetables
+3024,Soanf,Vegetables
+3025,Soanf,Vegetables
+3026,Soanf,Vegetables
+3027,Bengal Gram Dal (Chana Dal),Vegetables
+3028,Bengal Gram Dal (Chana Dal),Vegetables
+3029,Bengal Gram Dal (Chana Dal),Vegetables
+3030,Bengal Gram Dal (Chana Dal),Vegetables
+3031,Bengal Gram Dal (Chana Dal),Vegetables
+3032,Bengal Gram Dal (Chana Dal),Vegetables
+3033,Surat Beans (Papadi),Vegetables
+3034,Surat Beans (Papadi),Vegetables
+3035,Surat Beans (Papadi),Vegetables
+3036,Surat Beans (Papadi),Vegetables
+3037,Surat Beans (Papadi),Vegetables
+3038,Surat Beans (Papadi),Vegetables
+3039,White Peas,Vegetables
+3040,White Peas,Vegetables
+3041,White Peas,Vegetables
+3042,White Peas,Vegetables
+3043,White Peas,Vegetables
+3044,White Peas,Vegetables
+3045,Anthorium,Vegetables
+3046,Anthorium,Vegetables
+3047,Anthorium,Vegetables
+3048,Anthorium,Vegetables
+3049,Anthorium,Vegetables
+3050,Anthorium,Vegetables
+3051,Lukad,Vegetables
+3052,Lukad,Vegetables
+3053,Lukad,Vegetables
+3054,Lukad,Vegetables
+3055,Lukad,Vegetables
+3056,Lukad,Vegetables
+3057,Lotus,Vegetables
+3058,Lotus,Vegetables
+3059,Lotus,Vegetables
+3060,Lotus,Vegetables
+3061,Lotus,Vegetables
+3062,Lotus,Vegetables
+3063,Castor Seed,Vegetables
+3064,Castor Seed,Vegetables
+3065,Castor Seed,Vegetables
+3066,Castor Seed,Vegetables
+3067,Castor Seed,Vegetables
+3068,Castor Seed,Vegetables
+3069,Gingelly Oil,Vegetables
+3070,Gingelly Oil,Vegetables
+3071,Gingelly Oil,Vegetables
+3072,Gingelly Oil,Vegetables
+3073,Gingelly Oil,Vegetables
+3074,Gingelly Oil,Vegetables
+3075,Sunhemp,Vegetables
+3076,Sunhemp,Vegetables
+3077,Sunhemp,Vegetables
+3078,Sunhemp,Vegetables
+3079,Sunhemp,Vegetables
+3080,Sunhemp,Vegetables
+3081,Goat,Vegetables
+3082,Goat,Vegetables
+3083,Goat,Vegetables
+3084,Goat,Vegetables
+3085,Goat,Vegetables
+3086,Goat,Vegetables
+3087,Soyabean,Vegetables
+3088,Soyabean,Vegetables
+3089,Soyabean,Vegetables
+3090,Soyabean,Vegetables
+3091,Soyabean,Vegetables
+3092,Soyabean,Vegetables
+3093,Coconut Oil,Vegetables
+3094,Coconut Oil,Vegetables
+3095,Coconut Oil,Vegetables
+3096,Coconut Oil,Vegetables
+3097,Coconut Oil,Vegetables
+3098,Coconut Oil,Vegetables
+3099,Ghee,Vegetables
+3100,Ghee,Vegetables
+3101,Ghee,Vegetables
+3102,Ghee,Vegetables
+3103,Ghee,Vegetables
+3104,Ghee,Vegetables
+3105,Jowar(Sorghum),Vegetables
+3106,Jowar(Sorghum),Vegetables
+3107,Jowar(Sorghum),Vegetables
+3108,Jowar(Sorghum),Vegetables
+3109,Jowar(Sorghum),Vegetables
+3110,Jowar(Sorghum),Vegetables
+3111,Black pepper,Vegetables
+3112,Black pepper,Vegetables
+3113,Black pepper,Vegetables
+3114,Black pepper,Vegetables
+3115,Black pepper,Vegetables
+3116,Black pepper,Vegetables
+3117,Green Gram (Moong)(Whole),Vegetables
+3118,Green Gram (Moong)(Whole),Vegetables
+3119,Green Gram (Moong)(Whole),Vegetables
+3120,Green Gram (Moong)(Whole),Vegetables
+3121,Green Gram (Moong)(Whole),Vegetables
+3122,Green Gram (Moong)(Whole),Vegetables
+3123,Tomato,Vegetables
+3124,Tomato,Vegetables
+3125,Tomato,Vegetables
+3126,Tomato,Vegetables
+3127,Tomato,Vegetables
+3128,Tomato,Vegetables
+3129,Jute,Vegetables
+3130,Jute,Vegetables
+3131,Jute,Vegetables
+3132,Jute,Vegetables
+3133,Jute,Vegetables
+3134,Jute,Vegetables
+3135,Plum,Vegetables
+3136,Plum,Vegetables
+3137,Plum,Vegetables
+3138,Plum,Vegetables
+3139,Plum,Vegetables
+3140,Plum,Vegetables
+3141,Raibel,Vegetables
+3142,Raibel,Vegetables
+3143,Raibel,Vegetables
+3144,Raibel,Vegetables
+3145,Raibel,Vegetables
+3146,Raibel,Vegetables
+3147,Toria,Vegetables
+3148,Toria,Vegetables
+3149,Toria,Vegetables
+3150,Toria,Vegetables
+3151,Toria,Vegetables
+3152,Toria,Vegetables
+3153,Gladiolus Cut Flower,Vegetables
+3154,Gladiolus Cut Flower,Vegetables
+3155,Gladiolus Cut Flower,Vegetables
+3156,Gladiolus Cut Flower,Vegetables
+3157,Gladiolus Cut Flower,Vegetables
+3158,Gladiolus Cut Flower,Vegetables
+3159,Kankambra,Vegetables
+3160,Kankambra,Vegetables
+3161,Kankambra,Vegetables
+3162,Kankambra,Vegetables
+3163,Kankambra,Vegetables
+3164,Kankambra,Vegetables
+3165,Maragensu,Vegetables
+3166,Maragensu,Vegetables
+3167,Maragensu,Vegetables
+3168,Maragensu,Vegetables
+3169,Maragensu,Vegetables
+3170,Maragensu,Vegetables
+3171,Coriander(Leaves),Vegetables
+3172,Coriander(Leaves),Vegetables
+3173,Coriander(Leaves),Vegetables
+3174,Coriander(Leaves),Vegetables
+3175,Coriander(Leaves),Vegetables
+3176,Coriander(Leaves),Vegetables
+3177,Masur Dal,Vegetables
+3178,Masur Dal,Vegetables
+3179,Masur Dal,Vegetables
+3180,Masur Dal,Vegetables
+3181,Masur Dal,Vegetables
+3182,Masur Dal,Vegetables
+3183,Avare Dal,Vegetables
+3184,Avare Dal,Vegetables
+3185,Avare Dal,Vegetables
+3186,Avare Dal,Vegetables
+3187,Avare Dal,Vegetables
+3188,Avare Dal,Vegetables
+3189,Maida Atta,Vegetables
+3190,Maida Atta,Vegetables
+3191,Maida Atta,Vegetables
+3192,Maida Atta,Vegetables
+3193,Maida Atta,Vegetables
+3194,Maida Atta,Vegetables
+3195,Banana,Vegetables
+3196,Banana,Vegetables
+3197,Banana,Vegetables
+3198,Banana,Vegetables
+3199,Banana,Vegetables
+3200,Banana,Vegetables
+3201,Ground Nut Seed,Vegetables
+3202,Ground Nut Seed,Vegetables
+3203,Ground Nut Seed,Vegetables
+3204,Ground Nut Seed,Vegetables
+3205,Ground Nut Seed,Vegetables
+3206,Ground Nut Seed,Vegetables
+3207,Potato,Vegetables
+3208,Potato,Vegetables
+3209,Potato,Vegetables
+3210,Potato,Vegetables
+3211,Potato,Vegetables
+3212,Potato,Vegetables
+3213,Mango,Vegetables
+3214,Mango,Vegetables
+3215,Mango,Vegetables
+3216,Mango,Vegetables
+3217,Mango,Vegetables
+3218,Mango,Vegetables
+3219,Rice,Vegetables
+3220,Rice,Vegetables
+3221,Rice,Vegetables
+3222,Rice,Vegetables
+3223,Rice,Vegetables
+3224,Rice,Vegetables
+3225,Ox,Vegetables
+3226,Ox,Vegetables
+3227,Ox,Vegetables
+3228,Ox,Vegetables
+3229,Ox,Vegetables
+3230,Ox,Vegetables
+3231,Tamarind Fruit,Vegetables
+3232,Tamarind Fruit,Vegetables
+3233,Tamarind Fruit,Vegetables
+3234,Tamarind Fruit,Vegetables
+3235,Tamarind Fruit,Vegetables
+3236,Tamarind Fruit,Vegetables
+3237,Binoula,Vegetables
+3238,Binoula,Vegetables
+3239,Binoula,Vegetables
+3240,Binoula,Vegetables
+3241,Binoula,Vegetables
+3242,Binoula,Vegetables
+3243,Pineapple,Vegetables
+3244,Pineapple,Vegetables
+3245,Pineapple,Vegetables
+3246,Pineapple,Vegetables
+3247,Pineapple,Vegetables
+3248,Pineapple,Vegetables
+3249,Lentil (Masur)(Whole),Vegetables
+3250,Lentil (Masur)(Whole),Vegetables
+3251,Lentil (Masur)(Whole),Vegetables
+3252,Lentil (Masur)(Whole),Vegetables
+3253,Lentil (Masur)(Whole),Vegetables
+3254,Lentil (Masur)(Whole),Vegetables
+3255,Kacholam,Vegetables
+3256,Kacholam,Vegetables
+3257,Kacholam,Vegetables
+3258,Kacholam,Vegetables
+3259,Kacholam,Vegetables
+3260,Kacholam,Vegetables
+3261,Torchwood,Vegetables
+3262,Torchwood,Vegetables
+3263,Torchwood,Vegetables
+3264,Torchwood,Vegetables
+3265,Torchwood,Vegetables
+3266,Torchwood,Vegetables
+3267,Carnation,Vegetables
+3268,Carnation,Vegetables
+3269,Carnation,Vegetables
+3270,Carnation,Vegetables
+3271,Carnation,Vegetables
+3272,Carnation,Vegetables
+3273,Cowpea (LobiaKaramani),Vegetables
+3274,Cowpea (LobiaKaramani),Vegetables
+3275,Cowpea (LobiaKaramani),Vegetables
+3276,Cowpea (LobiaKaramani),Vegetables
+3277,Cowpea (LobiaKaramani),Vegetables
+3278,Cowpea (LobiaKaramani),Vegetables
+3279,Ram,Vegetables
+3280,Ram,Vegetables
+3281,Ram,Vegetables
+3282,Ram,Vegetables
+3283,Ram,Vegetables
+3284,Ram,Vegetables
+3285,Nargasi,Vegetables
+3286,Nargasi,Vegetables
+3287,Nargasi,Vegetables
+3288,Nargasi,Vegetables
+3289,Nargasi,Vegetables
+3290,Nargasi,Vegetables
+3291,Pumpkin,Vegetables
+3292,Pumpkin,Vegetables
+3293,Pumpkin,Vegetables
+3294,Pumpkin,Vegetables
+3295,Pumpkin,Vegetables
+3296,Pumpkin,Vegetables
+3297,Betal Leaves,Vegetables
+3298,Betal Leaves,Vegetables
+3299,Betal Leaves,Vegetables
+3300,Betal Leaves,Vegetables
+3301,Betal Leaves,Vegetables
+3302,Betal Leaves,Vegetables
+3303,Mustard,Vegetables
+3304,Mustard,Vegetables
+3305,Mustard,Vegetables
+3306,Mustard,Vegetables
+3307,Mustard,Vegetables
+3308,Mustard,Vegetables
+3309,Mousambi(Sweet Lime),Vegetables
+3310,Mousambi(Sweet Lime),Vegetables
+3311,Mousambi(Sweet Lime),Vegetables
+3312,Mousambi(Sweet Lime),Vegetables
+3313,Mousambi(Sweet Lime),Vegetables
+3314,Mousambi(Sweet Lime),Vegetables
+3315,Mataki,Vegetables
+3316,Mataki,Vegetables
+3317,Mataki,Vegetables
+3318,Mataki,Vegetables
+3319,Mataki,Vegetables
+3320,Mataki,Vegetables
+3321,Cocoa,Vegetables
+3322,Cocoa,Vegetables
+3323,Cocoa,Vegetables
+3324,Cocoa,Vegetables
+3325,Cocoa,Vegetables
+3326,Cocoa,Vegetables
+3327,Bottle gourd,Vegetables
+3328,Bottle gourd,Vegetables
+3329,Bottle gourd,Vegetables
+3330,Bottle gourd,Vegetables
+3331,Bottle gourd,Vegetables
+3332,Bottle gourd,Vegetables
+3333,Goat Hair,Vegetables
+3334,Goat Hair,Vegetables
+3335,Goat Hair,Vegetables
+3336,Goat Hair,Vegetables
+3337,Goat Hair,Vegetables
+3338,Goat Hair,Vegetables
+3339,Khoya,Vegetables
+3340,Khoya,Vegetables
+3341,Khoya,Vegetables
+3342,Khoya,Vegetables
+3343,Khoya,Vegetables
+3344,Khoya,Vegetables
+3345,Egypian Clover(Barseem),Vegetables
+3346,Egypian Clover(Barseem),Vegetables
+3347,Egypian Clover(Barseem),Vegetables
+3348,Egypian Clover(Barseem),Vegetables
+3349,Egypian Clover(Barseem),Vegetables
+3350,Egypian Clover(Barseem),Vegetables
+3351,Spinach,Vegetables
+3352,Spinach,Vegetables
+3353,Spinach,Vegetables
+3354,Spinach,Vegetables
+3355,Spinach,Vegetables
+3356,Spinach,Vegetables
+3357,Chilly Capsicum,Vegetables
+3358,Chilly Capsicum,Vegetables
+3359,Chilly Capsicum,Vegetables
+3360,Chilly Capsicum,Vegetables
+3361,Chilly Capsicum,Vegetables
+3362,Chilly Capsicum,Vegetables
+3363,Mahua,Vegetables
+3364,Mahua,Vegetables
+3365,Mahua,Vegetables
+3366,Mahua,Vegetables
+3367,Mahua,Vegetables
+3368,Mahua,Vegetables
+3369,Raya,Vegetables
+3370,Raya,Vegetables
+3371,Raya,Vegetables
+3372,Raya,Vegetables
+3373,Raya,Vegetables
+3374,Raya,Vegetables
+3375,Sunflower Seed,Vegetables
+3376,Sunflower Seed,Vegetables
+3377,Sunflower Seed,Vegetables
+3378,Sunflower Seed,Vegetables
+3379,Sunflower Seed,Vegetables
+3380,Sunflower Seed,Vegetables
+3381,Ajwan,Vegetables
+3382,Ajwan,Vegetables
+3383,Ajwan,Vegetables
+3384,Ajwan,Vegetables
+3385,Ajwan,Vegetables
+3386,Ajwan,Vegetables
+3387,Lilly,Vegetables
+3388,Lilly,Vegetables
+3389,Lilly,Vegetables
+3390,Lilly,Vegetables
+3391,Lilly,Vegetables
+3392,Lilly,Vegetables
+3393,Kakada,Vegetables
+3394,Kakada,Vegetables
+3395,Kakada,Vegetables
+3396,Kakada,Vegetables
+3397,Kakada,Vegetables
+3398,Kakada,Vegetables
+3399,Cloves,Vegetables
+3400,Cloves,Vegetables
+3401,Cloves,Vegetables
+3402,Cloves,Vegetables
+3403,Cloves,Vegetables
+3404,Cloves,Vegetables
+3405,Arhar Dal(Tur Dal),Vegetables
+3406,Arhar Dal(Tur Dal),Vegetables
+3407,Arhar Dal(Tur Dal),Vegetables
+3408,Arhar Dal(Tur Dal),Vegetables
+3409,Arhar Dal(Tur Dal),Vegetables
+3410,Arhar Dal(Tur Dal),Vegetables
+3411,Chrysanthemum(Loose),Vegetables
+3412,Chrysanthemum(Loose),Vegetables
+3413,Chrysanthemum(Loose),Vegetables
+3414,Chrysanthemum(Loose),Vegetables
+3415,Chrysanthemum(Loose),Vegetables
+3416,Chrysanthemum(Loose),Vegetables
+3417,Lak(Teora),Vegetables
+3418,Lak(Teora),Vegetables
+3419,Lak(Teora),Vegetables
+3420,Lak(Teora),Vegetables
+3421,Lak(Teora),Vegetables
+3422,Lak(Teora),Vegetables
+3423,Raddish,Vegetables
+3424,Raddish,Vegetables
+3425,Raddish,Vegetables
+3426,Raddish,Vegetables
+3427,Raddish,Vegetables
+3428,Raddish,Vegetables
+3429,Red Gram,Vegetables
+3430,Red Gram,Vegetables
+3431,Red Gram,Vegetables
+3432,Red Gram,Vegetables
+3433,Red Gram,Vegetables
+3434,Red Gram,Vegetables
+3435,Bamboo,Vegetables
+3436,Bamboo,Vegetables
+3437,Bamboo,Vegetables
+3438,Bamboo,Vegetables
+3439,Bamboo,Vegetables
+3440,Bamboo,Vegetables
