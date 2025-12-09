@@ -6,10 +6,11 @@ import os
 # -------------------------
 # DATABASE CONNECTION
 # -------------------------
+
 def openConnection(_dbFile):
     print("+++++++++++++++++++++++++++++++++++++++++++++++++")
-    print("Open database: ", _dbFile)
-    conn = None 
+    print("Open database:", _dbFile)
+    conn = None
     try:
         conn = sqlite3.connect(_dbFile)
         conn.execute("PRAGMA foreign_keys = ON;")
@@ -21,7 +22,7 @@ def openConnection(_dbFile):
 
 def closeConnect(_conn, _dbFile):
     print("++++++++++++++++++++++++++++++++++++++++++++++++++")
-    print("Close database: ", _dbFile)
+    print("Close database:", _dbFile)
     try:
         _conn.close()
         print("Success")
@@ -32,31 +33,32 @@ def closeConnect(_conn, _dbFile):
 # -------------------------
 # CREATE TABLES
 # -------------------------
+
 def createTables(conn):
     cur = conn.cursor()
 
     cur.execute("""
     CREATE TABLE IF NOT EXISTS crops (
         crop_id INTEGER PRIMARY KEY,
-        crop_name VARCHAR(100),
-        crop_group VARCHAR(100)
+        crop_name TEXT,
+        crop_group TEXT
     );
     """)
 
     cur.execute("""
     CREATE TABLE IF NOT EXISTS districts (
         district_id INTEGER PRIMARY KEY,
-        state_name VARCHAR(100),
-        district_name VARCHAR(100)
+        state_name TEXT,
+        district_name TEXT
     );
     """)
 
     cur.execute("""
     CREATE TABLE IF NOT EXISTS markets (
         market_id INTEGER PRIMARY KEY,
-        market_name VARCHAR(100),
+        market_name TEXT,
         district_id INTEGER,
-        FOREIGN KEY (district_id) REFERENCES districts(district_id)
+        FOREIGN KEY(district_id) REFERENCES districts(district_id)
     );
     """)
 
@@ -64,10 +66,10 @@ def createTables(conn):
     CREATE TABLE IF NOT EXISTS pesticide_use (
         pesticide_id INTEGER PRIMARY KEY,
         district_id INTEGER,
-        compound VARCHAR(100),
-        low_estimate DOUBLE,
-        high_estimate DOUBLE,
-        FOREIGN KEY (district_id) REFERENCES districts(district_id)
+        compound TEXT,
+        low_estimate REAL,
+        high_estimate REAL,
+        FOREIGN KEY(district_id) REFERENCES districts(district_id)
     );
     """)
 
@@ -75,9 +77,20 @@ def createTables(conn):
     CREATE TABLE IF NOT EXISTS crop_pesticide (
         crop_id INTEGER,
         pesticide_id INTEGER,
-        PRIMARY KEY (crop_id, pesticide_id),
-        FOREIGN KEY (crop_id) REFERENCES crops(crop_id),
-        FOREIGN KEY (pesticide_id) REFERENCES pesticide_use(pesticide_id)
+        FOREIGN KEY(crop_id) REFERENCES crops(crop_id),
+        FOREIGN KEY(pesticide_id) REFERENCES pesticide_use(pesticide_id)
+    );
+    """)
+
+    cur.execute("""
+    CREATE TABLE IF NOT EXISTS crop_district (
+        crop_id INTEGER,
+        district_id INTEGER,
+        avg_yield REAL,
+        total_area REAL,
+        best_season TEXT,
+        FOREIGN KEY(crop_id) REFERENCES crops(crop_id),
+        FOREIGN KEY(district_id) REFERENCES districts(district_id)
     );
     """)
 
@@ -87,15 +100,15 @@ def createTables(conn):
         crop_id INTEGER,
         district_id INTEGER,
         market_id INTEGER,
-        variety VARCHAR(100),
-        arrival_date DATE,
-        arrival_tonnes DOUBLE,
-        min_price_rs_per_quintal DOUBLE,
-        max_price_rs_per_quintal DOUBLE,
-        modal_price_rs_per_quintal DOUBLE,
-        FOREIGN KEY (crop_id) REFERENCES crops(crop_id),
-        FOREIGN KEY (district_id) REFERENCES districts(district_id),
-        FOREIGN KEY (market_id) REFERENCES markets(market_id)
+        variety TEXT,
+        arrival_date TEXT,
+        arrival_tonnes REAL,
+        min_price_rs_per_quintal REAL,
+        max_price_rs_per_quintal REAL,
+        modal_price_rs_per_quintal REAL,
+        FOREIGN KEY(crop_id) REFERENCES crops(crop_id),
+        FOREIGN KEY(district_id) REFERENCES districts(district_id),
+        FOREIGN KEY(market_id) REFERENCES markets(market_id)
     );
     """)
 
@@ -104,25 +117,12 @@ def createTables(conn):
         stat_id INTEGER PRIMARY KEY,
         crop_id INTEGER,
         district_id INTEGER,
-        season VARCHAR(100),
-        area DOUBLE,
-        production DOUBLE,
-        yield DOUBLE,
-        FOREIGN KEY (crop_id) REFERENCES crops(crop_id),
-        FOREIGN KEY (district_id) REFERENCES districts(district_id)
-    );
-    """)
-
-    cur.execute("""
-    CREATE TABLE IF NOT EXISTS crop_district (
-        crop_id INTEGER,
-        district_id INTEGER,
-        avg_yield DOUBLE,
-        total_area DOUBLE,
-        best_season VARCHAR(100),
-        PRIMARY KEY ( district_id),
-        FOREIGN KEY (crop_id) REFERENCES crops(crop_id),
-        FOREIGN KEY (district_id) REFERENCES districts(district_id)
+        season TEXT,
+        area REAL,
+        production REAL,
+        yield REAL,
+        FOREIGN KEY(crop_id) REFERENCES crops(crop_id),
+        FOREIGN KEY(district_id) REFERENCES districts(district_id)
     );
     """)
 
@@ -130,14 +130,14 @@ def createTables(conn):
     CREATE TABLE IF NOT EXISTS crop_requirements (
         requirement_id INTEGER PRIMARY KEY,
         crop_id INTEGER,
-        N DOUBLE,
-        P DOUBLE,
-        K DOUBLE,
-        temperature DOUBLE,
-        humidity DOUBLE,
-        ph DOUBLE,
-        rainfall DOUBLE,
-        FOREIGN KEY (crop_id) REFERENCES crops(crop_id)
+        N REAL,
+        P REAL,
+        K REAL,
+        temperature REAL,
+        humidity REAL,
+        ph REAL,
+        rainfall REAL,
+        FOREIGN KEY(crop_id) REFERENCES crops(crop_id)
     );
     """)
 
@@ -145,12 +145,12 @@ def createTables(conn):
     CREATE TABLE IF NOT EXISTS farm_weather (
         weather_id INTEGER PRIMARY KEY,
         district_id INTEGER,
-        maxT DOUBLE,
-        minT DOUBLE,
-        windspeed DOUBLE,
-        humidity DOUBLE,
-        precipitation DOUBLE,
-        FOREIGN KEY (district_id) REFERENCES districts(district_id)
+        maxT REAL,
+        minT REAL,
+        windspeed REAL,
+        humidity REAL,
+        precipitation REAL,
+        FOREIGN KEY(district_id) REFERENCES districts(district_id)
     );
     """)
 
@@ -159,24 +159,26 @@ def createTables(conn):
         record_id INTEGER PRIMARY KEY,
         crop_id INTEGER,
         district_id INTEGER,
-        soil_ph DOUBLE,
-        soil_moisture DOUBLE,
-        temperature_c DOUBLE,
-        rainfall_mm DOUBLE,
-        fertilizer_used VARCHAR(100),
-        pesticide_usage VARCHAR(100),
-        crop_yield DOUBLE,
-        sustainability_score DOUBLE,
-        FOREIGN KEY (crop_id) REFERENCES crops(crop_id),
-        FOREIGN KEY (district_id) REFERENCES districts(district_id)
+        soil_ph REAL,
+        soil_moisture REAL,
+        temperature_c REAL,
+        rainfall_mm REAL,
+        fertilizer_used REAL,
+        pesticide_usage REAL,
+        crop_yield REAL,
+        sustainability_score REAL,
+        FOREIGN KEY(crop_id) REFERENCES crops(crop_id),
+        FOREIGN KEY(district_id) REFERENCES districts(district_id)
     );
     """)
+
     conn.commit()
     print("All tables created successfully!")
 
 # -------------------------
 # CLEAR TABLES
 # -------------------------
+
 def clearTables(conn):
     cur = conn.cursor()
     tables = ["sustainability_data", "farm_weather", "crop_requirements", "crop_district",
@@ -188,8 +190,9 @@ def clearTables(conn):
     print("All tables cleared successfully!")
 
 # -------------------------
-# IMPORT CSV WITH PARENT CHECK
+# IMPORT CSV
 # -------------------------
+
 def importCSV(conn, table_name):
     filename = table_name + ".csv"
     if not os.path.exists(filename):
@@ -201,45 +204,64 @@ def importCSV(conn, table_name):
     cur.execute(f"PRAGMA table_info({table_name});")
     columns = [col[1] for col in cur.fetchall()]
 
-    with open(filename, 'r', encoding='utf-8') as f:
+    # Open with utf-8-sig encoding to automatically remove BOM
+    with open(filename, 'r', encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
+        
+        row_count = 0
         for row in reader:
-            # Convert empty string to None
-            data = {k: (row[k] if row[k] != "" else None) for k in columns if k in row}
+            row_count += 1
+            data = {}
+            for k in columns:
+                if k in row:
+                    val = row[k].strip()
+                    if val == "":
+                        data[k] = None
+                    else:
+                        if k in ["crop_id", "district_id", "pesticide_id", 
+                                 "arrival_id", "stat_id", "requirement_id", "weather_id", "record_id", "market_id"]:
+                            data[k] = int(float(val))
+                        else:
+                            try:
+                                data[k] = float(val)
+                            except:
+                                data[k] = val
+                else:
+                    data[k] = None
 
-            # Auto-insert missing parent records if necessary
-            if table_name == "crop_district" or table_name == "crop_pesticide" or table_name == "crop_arrival_price" \
-               or table_name == "crop_production_statistic" or table_name == "crop_requirements" \
-               or table_name == "sustainability_data":
-                # crops
-                if "crop_id" in data and data["crop_id"]:
-                    cur.execute("INSERT OR IGNORE INTO crops(crop_id, crop_name, crop_group) VALUES (?, ?, ?)",
-                                (int(data["crop_id"]), f"Unknown_{data['crop_id']}", "Unknown"))
-
-                # districts
-                if "district_id" in data and data["district_id"]:
-                    cur.execute("INSERT OR IGNORE INTO districts(district_id, state_name, district_name) VALUES (?, ?, ?)",
-                                (int(data["district_id"]), f"Unknown_{data['district_id']}", f"Unknown_{data['district_id']}"))
-
-            if table_name == "crop_pesticide":
-                if "pesticide_id" in data and data["pesticide_id"]:
-                    cur.execute("INSERT OR IGNORE INTO pesticide_use(pesticide_id, district_id, compound) VALUES (?, ?, ?)",
-                                (int(data["pesticide_id"]), None, f"Unknown_{data['pesticide_id']}"))
+            # Auto-insert missing parent records ONLY if not importing the parent table itself
+            if table_name != "crops" and "crop_id" in data and data["crop_id"] is not None:
+                cur.execute("INSERT OR IGNORE INTO crops(crop_id, crop_name, crop_group) VALUES (?, ?, ?)",
+                            (data["crop_id"], f"Unknown_{data['crop_id']}", "Unknown"))
+            
+            if table_name not in ["districts", "crops"] and "district_id" in data and data["district_id"] is not None:
+                cur.execute("INSERT OR IGNORE INTO districts(district_id, state_name, district_name) VALUES (?, ?, ?)",
+                            (data["district_id"], f"Unknown_{data['district_id']}", f"Unknown_{data['district_id']}"))
+            
+            if table_name == "crop_pesticide" and "pesticide_id" in data and data["pesticide_id"] is not None:
+                cur.execute("INSERT OR IGNORE INTO pesticide_use(pesticide_id, district_id, compound, low_estimate, high_estimate) VALUES (?, ?, ?, ?, ?)",
+                            (data["pesticide_id"], None, f"Unknown_{data['pesticide_id']}", None, None))
 
             columns_str = ", ".join(data.keys())
-            placeholders = ", ".join(["?"]*len(data))
+            placeholders = ", ".join(["?"] * len(data))
             values = [data[k] for k in data.keys()]
+
             try:
                 cur.execute(f"INSERT INTO {table_name} ({columns_str}) VALUES ({placeholders})", values)
             except Error as e:
-                print(f"Error inserting row into {table_name}: {e}")
+                # Only print error if it's not a UNIQUE constraint failure
+                if "UNIQUE constraint failed" not in str(e):
+                    print(f"Error inserting row into {table_name}: {e}")
+                    print(f"Data: {data}")
                 continue
+
     conn.commit()
-    print(f"Finished importing {table_name}\n")
+    print(f"Finished importing {table_name} ({row_count} rows)\n")
 
 # -------------------------
-# MAIN FUNCTION
+# MAIN
 # -------------------------
+
 def main():
     dbfile = "agriculture.db"
     conn = openConnection(dbfile)
