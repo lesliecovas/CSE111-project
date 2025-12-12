@@ -1,0 +1,3442 @@
+crop_id,crop_name,crop_group
+1,Rice,Cereals & Millets
+2,Wheat,Cereals & Millets
+3,Maize,Cereals & Millets
+4,Jowar,Cereals & Millets
+5,Bajra,Cereals & Millets
+6,Ragi,Cereals & Millets
+7,Barley,Cereals & Millets
+8,Foxtail Millet,Cereals & Millets
+9,Little Millet,Cereals & Millets
+10,Kodo Millet,Cereals & Millets
+11,Proso Millet,Cereals & Millets
+12,Chickpea,Pulses
+13,Tur/Arhar,Pulses
+14,Moong,Pulses
+15,Urad,Pulses
+16,Masur,Pulses
+17,Cowpea,Pulses
+18,Horse Gram,Pulses
+19,Green Gram,Pulses
+20,Groundnut,Oilseeds
+21,Mustard,Oilseeds
+22,Soybean,Oilseeds
+23,Sesame,Oilseeds
+24,Sunflower,Oilseeds
+25,Castor,Oilseeds
+26,Niger,Oilseeds
+27,Mango,Fruits
+28,Banana,Fruits
+29,Papaya,Fruits
+30,Guava,Fruits
+31,Orange,Fruits
+32,Apple,Fruits
+33,Pineapple,Fruits
+34,Pomegranate,Fruits
+35,Grapes,Fruits
+36,Watermelon,Fruits
+37,Muskmelon,Fruits
+38,Litchi,Fruits
+39,Potato,Vegetables
+40,Tomato,Vegetables
+41,Brinjal,Vegetables
+42,Okra,Vegetables
+43,Cabbage,Vegetables
+44,Cauliflower,Vegetables
+45,Bottle gourd,Vegetables
+46,Snake gourd,Vegetables
+47,Peas,Vegetables
+48,Spinach,Vegetables
+49,Carrot,Vegetables
+50,Beetroot,Vegetables
+51,Radish,Vegetables
+52,Onion,Vegetables
+53,Garlic,Vegetables
+54,Chilli,Vegetables
+55,Turmeric,Spices
+56,Black Pepper,Spices
+57,Cardamom,Spices
+58,Cumin,Spices
+59,Coriander,Spices
+60,Ginger,Spices
+61,Cotton,Fibre Crops
+62,Jute,Fibre Crops
+63,Sunhemp,Fibre Crops
+64,Sugarcane,Sugarcane
+65,Berseem,Fodder
+66,Napier Grass,Fodder
+67,Lucerne,Fodder
+68,Tea,Plantation
+69,Coffee,Plantation
+70,Rubber,Plantation
+71,Coconut,Plantation
+72,Tea,Beverage
+73,Coffee,Beverage
+74,Tobacco,Industrial/Other
+75,Medicinal Plants,Industrial/Other
+76,Aloe Vera,Industrial/Other
+77,Rice,Cereals & Millets
+78,Wheat,Cereals & Millets
+79,Maize,Cereals & Millets
+80,Jowar,Cereals & Millets
+81,Bajra,Cereals & Millets
+82,Ragi,Cereals & Millets
+83,Barley,Cereals & Millets
+84,Foxtail Millet,Cereals & Millets
+85,Little Millet,Cereals & Millets
+86,Kodo Millet,Cereals & Millets
+87,Proso Millet,Cereals & Millets
+88,Chickpea,Pulses
+89,Tur/Arhar,Pulses
+90,Moong,Pulses
+91,Urad,Pulses
+92,Masur,Pulses
+93,Cowpea,Pulses
+94,Horse Gram,Pulses
+95,Green Gram,Pulses
+96,Groundnut,Oilseeds
+97,Mustard,Oilseeds
+98,Soybean,Oilseeds
+99,Sesame,Oilseeds
+100,Sunflower,Oilseeds
+101,Castor,Oilseeds
+102,Niger,Oilseeds
+103,Mango,Fruits
+104,Banana,Fruits
+105,Papaya,Fruits
+106,Guava,Fruits
+107,Orange,Fruits
+108,Apple,Fruits
+109,Pineapple,Fruits
+110,Pomegranate,Fruits
+111,Grapes,Fruits
+112,Watermelon,Fruits
+113,Muskmelon,Fruits
+114,Litchi,Fruits
+115,Potato,Vegetables
+116,Tomato,Vegetables
+117,Brinjal,Vegetables
+118,Okra,Vegetables
+119,Cabbage,Vegetables
+120,Cauliflower,Vegetables
+121,Bottle gourd,Vegetables
+122,Snake gourd,Vegetables
+123,Peas,Vegetables
+124,Spinach,Vegetables
+125,Carrot,Vegetables
+126,Beetroot,Vegetables
+127,Radish,Vegetables
+128,Onion,Vegetables
+129,Garlic,Vegetables
+130,Chilli,Vegetables
+131,Turmeric,Spices
+132,Black Pepper,Spices
+133,Cardamom,Spices
+134,Cumin,Spices
+135,Coriander,Spices
+136,Ginger,Spices
+137,Cotton,Fibre Crops
+138,Jute,Fibre Crops
+139,Sunhemp,Fibre Crops
+140,Sugarcane,Sugarcane
+141,Berseem,Fodder
+142,Napier Grass,Fodder
+143,Lucerne,Fodder
+144,Tea,Plantation
+145,Coffee,Plantation
+146,Rubber,Plantation
+147,Coconut,Plantation
+148,Tea,Beverage
+149,Coffee,Beverage
+150,Tobacco,Industrial/Other
+151,Medicinal Plants,Industrial/Other
+152,Aloe Vera,Industrial/Other
+153,Rice,Cereals & Millets
+154,Wheat,Cereals & Millets
+155,Maize,Cereals & Millets
+156,Jowar,Cereals & Millets
+157,Bajra,Cereals & Millets
+158,Ragi,Cereals & Millets
+159,Barley,Cereals & Millets
+160,Foxtail Millet,Cereals & Millets
+161,Little Millet,Cereals & Millets
+162,Kodo Millet,Cereals & Millets
+163,Proso Millet,Cereals & Millets
+164,Chickpea,Pulses
+165,Tur/Arhar,Pulses
+166,Moong,Pulses
+167,Urad,Pulses
+168,Masur,Pulses
+169,Cowpea,Pulses
+170,Horse Gram,Pulses
+171,Green Gram,Pulses
+172,Groundnut,Oilseeds
+173,Mustard,Oilseeds
+174,Soybean,Oilseeds
+175,Sesame,Oilseeds
+176,Sunflower,Oilseeds
+177,Castor,Oilseeds
+178,Niger,Oilseeds
+179,Mango,Fruits
+180,Banana,Fruits
+181,Papaya,Fruits
+182,Guava,Fruits
+183,Orange,Fruits
+184,Apple,Fruits
+185,Pineapple,Fruits
+186,Pomegranate,Fruits
+187,Grapes,Fruits
+188,Watermelon,Fruits
+189,Muskmelon,Fruits
+190,Litchi,Fruits
+191,Potato,Vegetables
+192,Tomato,Vegetables
+193,Brinjal,Vegetables
+194,Okra,Vegetables
+195,Cabbage,Vegetables
+196,Cauliflower,Vegetables
+197,Bottle gourd,Vegetables
+198,Snake gourd,Vegetables
+199,Peas,Vegetables
+200,Spinach,Vegetables
+201,Carrot,Vegetables
+202,Beetroot,Vegetables
+203,Radish,Vegetables
+204,Onion,Vegetables
+205,Garlic,Vegetables
+206,Chilli,Vegetables
+207,Turmeric,Spices
+208,Black Pepper,Spices
+209,Cardamom,Spices
+210,Cumin,Spices
+211,Coriander,Spices
+212,Ginger,Spices
+213,Cotton,Fibre Crops
+214,Jute,Fibre Crops
+215,Sunhemp,Fibre Crops
+216,Sugarcane,Sugarcane
+217,Berseem,Fodder
+218,Napier Grass,Fodder
+219,Lucerne,Fodder
+220,Tea,Plantation
+221,Coffee,Plantation
+222,Rubber,Plantation
+223,Coconut,Plantation
+224,Tea,Beverage
+225,Coffee,Beverage
+226,Tobacco,Industrial/Other
+227,Medicinal Plants,Industrial/Other
+228,Aloe Vera,Industrial/Other
+229,Rice,Cereals & Millets
+230,Wheat,Cereals & Millets
+231,Maize,Cereals & Millets
+232,Jowar,Cereals & Millets
+233,Bajra,Cereals & Millets
+234,Ragi,Cereals & Millets
+235,Barley,Cereals & Millets
+236,Foxtail Millet,Cereals & Millets
+237,Little Millet,Cereals & Millets
+238,Kodo Millet,Cereals & Millets
+239,Proso Millet,Cereals & Millets
+240,Chickpea,Pulses
+241,Tur/Arhar,Pulses
+242,Moong,Pulses
+243,Urad,Pulses
+244,Masur,Pulses
+245,Cowpea,Pulses
+246,Horse Gram,Pulses
+247,Green Gram,Pulses
+248,Groundnut,Oilseeds
+249,Mustard,Oilseeds
+250,Soybean,Oilseeds
+251,Sesame,Oilseeds
+252,Sunflower,Oilseeds
+253,Castor,Oilseeds
+254,Niger,Oilseeds
+255,Mango,Fruits
+256,Banana,Fruits
+257,Papaya,Fruits
+258,Guava,Fruits
+259,Orange,Fruits
+260,Apple,Fruits
+261,Pineapple,Fruits
+262,Pomegranate,Fruits
+263,Grapes,Fruits
+264,Watermelon,Fruits
+265,Muskmelon,Fruits
+266,Litchi,Fruits
+267,Potato,Vegetables
+268,Tomato,Vegetables
+269,Brinjal,Vegetables
+270,Okra,Vegetables
+271,Cabbage,Vegetables
+272,Cauliflower,Vegetables
+273,Bottle gourd,Vegetables
+274,Snake gourd,Vegetables
+275,Peas,Vegetables
+276,Spinach,Vegetables
+277,Carrot,Vegetables
+278,Beetroot,Vegetables
+279,Radish,Vegetables
+280,Onion,Vegetables
+281,Garlic,Vegetables
+282,Chilli,Vegetables
+283,Turmeric,Spices
+284,Black Pepper,Spices
+285,Cardamom,Spices
+286,Cumin,Spices
+287,Coriander,Spices
+288,Ginger,Spices
+289,Cotton,Fibre Crops
+290,Jute,Fibre Crops
+291,Sunhemp,Fibre Crops
+292,Sugarcane,Sugarcane
+293,Berseem,Fodder
+294,Napier Grass,Fodder
+295,Lucerne,Fodder
+296,Tea,Plantation
+297,Coffee,Plantation
+298,Rubber,Plantation
+299,Coconut,Plantation
+300,Tea,Beverage
+301,Coffee,Beverage
+302,Tobacco,Industrial/Other
+303,Medicinal Plants,Industrial/Other
+304,Aloe Vera,Industrial/Other
+305,Rice,Cereals & Millets
+306,Wheat,Cereals & Millets
+307,Maize,Cereals & Millets
+308,Jowar,Cereals & Millets
+309,Bajra,Cereals & Millets
+310,Ragi,Cereals & Millets
+311,Barley,Cereals & Millets
+312,Foxtail Millet,Cereals & Millets
+313,Little Millet,Cereals & Millets
+314,Kodo Millet,Cereals & Millets
+315,Proso Millet,Cereals & Millets
+316,Chickpea,Pulses
+317,Tur/Arhar,Pulses
+318,Moong,Pulses
+319,Urad,Pulses
+320,Masur,Pulses
+321,Cowpea,Pulses
+322,Horse Gram,Pulses
+323,Green Gram,Pulses
+324,Groundnut,Oilseeds
+325,Mustard,Oilseeds
+326,Soybean,Oilseeds
+327,Sesame,Oilseeds
+328,Sunflower,Oilseeds
+329,Castor,Oilseeds
+330,Niger,Oilseeds
+331,Mango,Fruits
+332,Banana,Fruits
+333,Papaya,Fruits
+334,Guava,Fruits
+335,Orange,Fruits
+336,Apple,Fruits
+337,Pineapple,Fruits
+338,Pomegranate,Fruits
+339,Grapes,Fruits
+340,Watermelon,Fruits
+341,Muskmelon,Fruits
+342,Litchi,Fruits
+343,Potato,Vegetables
+344,Tomato,Vegetables
+345,Brinjal,Vegetables
+346,Okra,Vegetables
+347,Cabbage,Vegetables
+348,Cauliflower,Vegetables
+349,Bottle gourd,Vegetables
+350,Snake gourd,Vegetables
+351,Peas,Vegetables
+352,Spinach,Vegetables
+353,Carrot,Vegetables
+354,Beetroot,Vegetables
+355,Radish,Vegetables
+356,Onion,Vegetables
+357,Garlic,Vegetables
+358,Chilli,Vegetables
+359,Turmeric,Spices
+360,Black Pepper,Spices
+361,Cardamom,Spices
+362,Cumin,Spices
+363,Coriander,Spices
+364,Ginger,Spices
+365,Cotton,Fibre Crops
+366,Jute,Fibre Crops
+367,Sunhemp,Fibre Crops
+368,Sugarcane,Sugarcane
+369,Berseem,Fodder
+370,Napier Grass,Fodder
+371,Lucerne,Fodder
+372,Tea,Plantation
+373,Coffee,Plantation
+374,Rubber,Plantation
+375,Coconut,Plantation
+376,Tea,Beverage
+377,Coffee,Beverage
+378,Tobacco,Industrial/Other
+379,Medicinal Plants,Industrial/Other
+380,Aloe Vera,Industrial/Other
+381,Rice,Cereals & Millets
+382,Wheat,Cereals & Millets
+383,Maize,Cereals & Millets
+384,Jowar,Cereals & Millets
+385,Bajra,Cereals & Millets
+386,Ragi,Cereals & Millets
+387,Barley,Cereals & Millets
+388,Foxtail Millet,Cereals & Millets
+389,Little Millet,Cereals & Millets
+390,Kodo Millet,Cereals & Millets
+391,Proso Millet,Cereals & Millets
+392,Chickpea,Pulses
+393,Tur/Arhar,Pulses
+394,Moong,Pulses
+395,Urad,Pulses
+396,Masur,Pulses
+397,Cowpea,Pulses
+398,Horse Gram,Pulses
+399,Green Gram,Pulses
+400,Groundnut,Oilseeds
+401,Mustard,Oilseeds
+402,Soybean,Oilseeds
+403,Sesame,Oilseeds
+404,Sunflower,Oilseeds
+405,Castor,Oilseeds
+406,Niger,Oilseeds
+407,Mango,Fruits
+408,Banana,Fruits
+409,Papaya,Fruits
+410,Guava,Fruits
+411,Orange,Fruits
+412,Apple,Fruits
+413,Pineapple,Fruits
+414,Pomegranate,Fruits
+415,Grapes,Fruits
+416,Watermelon,Fruits
+417,Muskmelon,Fruits
+418,Litchi,Fruits
+419,Potato,Vegetables
+420,Tomato,Vegetables
+421,Brinjal,Vegetables
+422,Okra,Vegetables
+423,Cabbage,Vegetables
+424,Cauliflower,Vegetables
+425,Bottle gourd,Vegetables
+426,Snake gourd,Vegetables
+427,Peas,Vegetables
+428,Spinach,Vegetables
+429,Carrot,Vegetables
+430,Beetroot,Vegetables
+431,Radish,Vegetables
+432,Onion,Vegetables
+433,Garlic,Vegetables
+434,Chilli,Vegetables
+435,Turmeric,Spices
+436,Black Pepper,Spices
+437,Cardamom,Spices
+438,Cumin,Spices
+439,Coriander,Spices
+440,Ginger,Spices
+441,Cotton,Fibre Crops
+442,Jute,Fibre Crops
+443,Sunhemp,Fibre Crops
+444,Sugarcane,Sugarcane
+445,Berseem,Fodder
+446,Napier Grass,Fodder
+447,Lucerne,Fodder
+448,Tea,Plantation
+449,Coffee,Plantation
+450,Rubber,Plantation
+451,Coconut,Plantation
+452,Tea,Beverage
+453,Coffee,Beverage
+454,Tobacco,Industrial/Other
+455,Medicinal Plants,Industrial/Other
+456,Aloe Vera,Industrial/Other
+457,Rice,Cereals & Millets
+458,Wheat,Cereals & Millets
+459,Maize,Cereals & Millets
+460,Jowar,Cereals & Millets
+461,Bajra,Cereals & Millets
+462,Ragi,Cereals & Millets
+463,Barley,Cereals & Millets
+464,Foxtail Millet,Cereals & Millets
+465,Little Millet,Cereals & Millets
+466,Kodo Millet,Cereals & Millets
+467,Proso Millet,Cereals & Millets
+468,Chickpea,Pulses
+469,Tur/Arhar,Pulses
+470,Moong,Pulses
+471,Urad,Pulses
+472,Masur,Pulses
+473,Cowpea,Pulses
+474,Horse Gram,Pulses
+475,Green Gram,Pulses
+476,Groundnut,Oilseeds
+477,Mustard,Oilseeds
+478,Soybean,Oilseeds
+479,Sesame,Oilseeds
+480,Sunflower,Oilseeds
+481,Castor,Oilseeds
+482,Niger,Oilseeds
+483,Mango,Fruits
+484,Banana,Fruits
+485,Papaya,Fruits
+486,Guava,Fruits
+487,Orange,Fruits
+488,Apple,Fruits
+489,Pineapple,Fruits
+490,Pomegranate,Fruits
+491,Grapes,Fruits
+492,Watermelon,Fruits
+493,Muskmelon,Fruits
+494,Litchi,Fruits
+495,Potato,Vegetables
+496,Tomato,Vegetables
+497,Brinjal,Vegetables
+498,Okra,Vegetables
+499,Cabbage,Vegetables
+500,Cauliflower,Vegetables
+501,Bottle gourd,Vegetables
+502,Snake gourd,Vegetables
+503,Peas,Vegetables
+504,Spinach,Vegetables
+505,Carrot,Vegetables
+506,Beetroot,Vegetables
+507,Radish,Vegetables
+508,Onion,Vegetables
+509,Garlic,Vegetables
+510,Chilli,Vegetables
+511,Turmeric,Spices
+512,Black Pepper,Spices
+513,Cardamom,Spices
+514,Cumin,Spices
+515,Coriander,Spices
+516,Ginger,Spices
+517,Cotton,Fibre Crops
+518,Jute,Fibre Crops
+519,Sunhemp,Fibre Crops
+520,Sugarcane,Sugarcane
+521,Berseem,Fodder
+522,Napier Grass,Fodder
+523,Lucerne,Fodder
+524,Tea,Plantation
+525,Coffee,Plantation
+526,Rubber,Plantation
+527,Coconut,Plantation
+528,Tea,Beverage
+529,Coffee,Beverage
+530,Tobacco,Industrial/Other
+531,Medicinal Plants,Industrial/Other
+532,Aloe Vera,Industrial/Other
+533,Rice,Cereals & Millets
+534,Wheat,Cereals & Millets
+535,Maize,Cereals & Millets
+536,Jowar,Cereals & Millets
+537,Bajra,Cereals & Millets
+538,Ragi,Cereals & Millets
+539,Barley,Cereals & Millets
+540,Foxtail Millet,Cereals & Millets
+541,Little Millet,Cereals & Millets
+542,Kodo Millet,Cereals & Millets
+543,Proso Millet,Cereals & Millets
+544,Chickpea,Pulses
+545,Tur/Arhar,Pulses
+546,Moong,Pulses
+547,Urad,Pulses
+548,Masur,Pulses
+549,Cowpea,Pulses
+550,Horse Gram,Pulses
+551,Green Gram,Pulses
+552,Groundnut,Oilseeds
+553,Mustard,Oilseeds
+554,Soybean,Oilseeds
+555,Sesame,Oilseeds
+556,Sunflower,Oilseeds
+557,Castor,Oilseeds
+558,Niger,Oilseeds
+559,Mango,Fruits
+560,Banana,Fruits
+561,Papaya,Fruits
+562,Guava,Fruits
+563,Orange,Fruits
+564,Apple,Fruits
+565,Pineapple,Fruits
+566,Pomegranate,Fruits
+567,Grapes,Fruits
+568,Watermelon,Fruits
+569,Muskmelon,Fruits
+570,Litchi,Fruits
+571,Potato,Vegetables
+572,Tomato,Vegetables
+573,Brinjal,Vegetables
+574,Okra,Vegetables
+575,Cabbage,Vegetables
+576,Cauliflower,Vegetables
+577,Bottle gourd,Vegetables
+578,Snake gourd,Vegetables
+579,Peas,Vegetables
+580,Spinach,Vegetables
+581,Carrot,Vegetables
+582,Beetroot,Vegetables
+583,Radish,Vegetables
+584,Onion,Vegetables
+585,Garlic,Vegetables
+586,Chilli,Vegetables
+587,Turmeric,Spices
+588,Black Pepper,Spices
+589,Cardamom,Spices
+590,Cumin,Spices
+591,Coriander,Spices
+592,Ginger,Spices
+593,Cotton,Fibre Crops
+594,Jute,Fibre Crops
+595,Sunhemp,Fibre Crops
+596,Sugarcane,Sugarcane
+597,Berseem,Fodder
+598,Napier Grass,Fodder
+599,Lucerne,Fodder
+600,Tea,Plantation
+601,Coffee,Plantation
+602,Rubber,Plantation
+603,Coconut,Plantation
+604,Tea,Beverage
+605,Coffee,Beverage
+606,Tobacco,Industrial/Other
+607,Medicinal Plants,Industrial/Other
+608,Aloe Vera,Industrial/Other
+609,Rice,Cereals & Millets
+610,Wheat,Cereals & Millets
+611,Maize,Cereals & Millets
+612,Jowar,Cereals & Millets
+613,Bajra,Cereals & Millets
+614,Ragi,Cereals & Millets
+615,Barley,Cereals & Millets
+616,Foxtail Millet,Cereals & Millets
+617,Little Millet,Cereals & Millets
+618,Kodo Millet,Cereals & Millets
+619,Proso Millet,Cereals & Millets
+620,Chickpea,Pulses
+621,Tur/Arhar,Pulses
+622,Moong,Pulses
+623,Urad,Pulses
+624,Masur,Pulses
+625,Cowpea,Pulses
+626,Horse Gram,Pulses
+627,Green Gram,Pulses
+628,Groundnut,Oilseeds
+629,Mustard,Oilseeds
+630,Soybean,Oilseeds
+631,Sesame,Oilseeds
+632,Sunflower,Oilseeds
+633,Castor,Oilseeds
+634,Niger,Oilseeds
+635,Mango,Fruits
+636,Banana,Fruits
+637,Papaya,Fruits
+638,Guava,Fruits
+639,Orange,Fruits
+640,Apple,Fruits
+641,Pineapple,Fruits
+642,Pomegranate,Fruits
+643,Grapes,Fruits
+644,Watermelon,Fruits
+645,Muskmelon,Fruits
+646,Litchi,Fruits
+647,Potato,Vegetables
+648,Tomato,Vegetables
+649,Brinjal,Vegetables
+650,Okra,Vegetables
+651,Cabbage,Vegetables
+652,Cauliflower,Vegetables
+653,Bottle gourd,Vegetables
+654,Snake gourd,Vegetables
+655,Peas,Vegetables
+656,Spinach,Vegetables
+657,Carrot,Vegetables
+658,Beetroot,Vegetables
+659,Radish,Vegetables
+660,Onion,Vegetables
+661,Garlic,Vegetables
+662,Chilli,Vegetables
+663,Turmeric,Spices
+664,Black Pepper,Spices
+665,Cardamom,Spices
+666,Cumin,Spices
+667,Coriander,Spices
+668,Ginger,Spices
+669,Cotton,Fibre Crops
+670,Jute,Fibre Crops
+671,Sunhemp,Fibre Crops
+672,Sugarcane,Sugarcane
+673,Berseem,Fodder
+674,Napier Grass,Fodder
+675,Lucerne,Fodder
+676,Tea,Plantation
+677,Coffee,Plantation
+678,Rubber,Plantation
+679,Coconut,Plantation
+680,Tea,Beverage
+681,Coffee,Beverage
+682,Tobacco,Industrial/Other
+683,Medicinal Plants,Industrial/Other
+684,Aloe Vera,Industrial/Other
+685,Rice,Cereals & Millets
+686,Wheat,Cereals & Millets
+687,Maize,Cereals & Millets
+688,Jowar,Cereals & Millets
+689,Bajra,Cereals & Millets
+690,Ragi,Cereals & Millets
+691,Barley,Cereals & Millets
+692,Foxtail Millet,Cereals & Millets
+693,Little Millet,Cereals & Millets
+694,Kodo Millet,Cereals & Millets
+695,Proso Millet,Cereals & Millets
+696,Chickpea,Pulses
+697,Tur/Arhar,Pulses
+698,Moong,Pulses
+699,Urad,Pulses
+700,Masur,Pulses
+701,Cowpea,Pulses
+702,Horse Gram,Pulses
+703,Green Gram,Pulses
+704,Groundnut,Oilseeds
+705,Mustard,Oilseeds
+706,Soybean,Oilseeds
+707,Sesame,Oilseeds
+708,Sunflower,Oilseeds
+709,Castor,Oilseeds
+710,Niger,Oilseeds
+711,Mango,Fruits
+712,Banana,Fruits
+713,Papaya,Fruits
+714,Guava,Fruits
+715,Orange,Fruits
+716,Apple,Fruits
+717,Pineapple,Fruits
+718,Pomegranate,Fruits
+719,Grapes,Fruits
+720,Watermelon,Fruits
+721,Muskmelon,Fruits
+722,Litchi,Fruits
+723,Potato,Vegetables
+724,Tomato,Vegetables
+725,Brinjal,Vegetables
+726,Okra,Vegetables
+727,Cabbage,Vegetables
+728,Cauliflower,Vegetables
+729,Bottle gourd,Vegetables
+730,Snake gourd,Vegetables
+731,Peas,Vegetables
+732,Spinach,Vegetables
+733,Carrot,Vegetables
+734,Beetroot,Vegetables
+735,Radish,Vegetables
+736,Onion,Vegetables
+737,Garlic,Vegetables
+738,Chilli,Vegetables
+739,Turmeric,Spices
+740,Black Pepper,Spices
+741,Cardamom,Spices
+742,Cumin,Spices
+743,Coriander,Spices
+744,Ginger,Spices
+745,Cotton,Fibre Crops
+746,Jute,Fibre Crops
+747,Sunhemp,Fibre Crops
+748,Sugarcane,Sugarcane
+749,Berseem,Fodder
+750,Napier Grass,Fodder
+751,Lucerne,Fodder
+752,Tea,Plantation
+753,Coffee,Plantation
+754,Rubber,Plantation
+755,Coconut,Plantation
+756,Tea,Beverage
+757,Coffee,Beverage
+758,Tobacco,Industrial/Other
+759,Medicinal Plants,Industrial/Other
+760,Aloe Vera,Industrial/Other
+761,Rice,Cereals & Millets
+762,Wheat,Cereals & Millets
+763,Maize,Cereals & Millets
+764,Jowar,Cereals & Millets
+765,Bajra,Cereals & Millets
+766,Ragi,Cereals & Millets
+767,Barley,Cereals & Millets
+768,Foxtail Millet,Cereals & Millets
+769,Little Millet,Cereals & Millets
+770,Kodo Millet,Cereals & Millets
+771,Proso Millet,Cereals & Millets
+772,Chickpea,Pulses
+773,Tur/Arhar,Pulses
+774,Moong,Pulses
+775,Urad,Pulses
+776,Masur,Pulses
+777,Cowpea,Pulses
+778,Horse Gram,Pulses
+779,Green Gram,Pulses
+780,Groundnut,Oilseeds
+781,Mustard,Oilseeds
+782,Soybean,Oilseeds
+783,Sesame,Oilseeds
+784,Sunflower,Oilseeds
+785,Castor,Oilseeds
+786,Niger,Oilseeds
+787,Mango,Fruits
+788,Banana,Fruits
+789,Papaya,Fruits
+790,Guava,Fruits
+791,Orange,Fruits
+792,Apple,Fruits
+793,Pineapple,Fruits
+794,Pomegranate,Fruits
+795,Grapes,Fruits
+796,Watermelon,Fruits
+797,Muskmelon,Fruits
+798,Litchi,Fruits
+799,Potato,Vegetables
+800,Tomato,Vegetables
+801,Brinjal,Vegetables
+802,Okra,Vegetables
+803,Cabbage,Vegetables
+804,Cauliflower,Vegetables
+805,Bottle gourd,Vegetables
+806,Snake gourd,Vegetables
+807,Peas,Vegetables
+808,Spinach,Vegetables
+809,Carrot,Vegetables
+810,Beetroot,Vegetables
+811,Radish,Vegetables
+812,Onion,Vegetables
+813,Garlic,Vegetables
+814,Chilli,Vegetables
+815,Turmeric,Spices
+816,Black Pepper,Spices
+817,Cardamom,Spices
+818,Cumin,Spices
+819,Coriander,Spices
+820,Ginger,Spices
+821,Cotton,Fibre Crops
+822,Jute,Fibre Crops
+823,Sunhemp,Fibre Crops
+824,Sugarcane,Sugarcane
+825,Berseem,Fodder
+826,Napier Grass,Fodder
+827,Lucerne,Fodder
+828,Tea,Plantation
+829,Coffee,Plantation
+830,Rubber,Plantation
+831,Coconut,Plantation
+832,Tea,Beverage
+833,Coffee,Beverage
+834,Tobacco,Industrial/Other
+835,Medicinal Plants,Industrial/Other
+836,Aloe Vera,Industrial/Other
+837,Rice,Cereals & Millets
+838,Wheat,Cereals & Millets
+839,Maize,Cereals & Millets
+840,Jowar,Cereals & Millets
+841,Bajra,Cereals & Millets
+842,Ragi,Cereals & Millets
+843,Barley,Cereals & Millets
+844,Foxtail Millet,Cereals & Millets
+845,Little Millet,Cereals & Millets
+846,Kodo Millet,Cereals & Millets
+847,Proso Millet,Cereals & Millets
+848,Chickpea,Pulses
+849,Tur/Arhar,Pulses
+850,Moong,Pulses
+851,Urad,Pulses
+852,Masur,Pulses
+853,Cowpea,Pulses
+854,Horse Gram,Pulses
+855,Green Gram,Pulses
+856,Groundnut,Oilseeds
+857,Mustard,Oilseeds
+858,Soybean,Oilseeds
+859,Sesame,Oilseeds
+860,Sunflower,Oilseeds
+861,Castor,Oilseeds
+862,Niger,Oilseeds
+863,Mango,Fruits
+864,Banana,Fruits
+865,Papaya,Fruits
+866,Guava,Fruits
+867,Orange,Fruits
+868,Apple,Fruits
+869,Pineapple,Fruits
+870,Pomegranate,Fruits
+871,Grapes,Fruits
+872,Watermelon,Fruits
+873,Muskmelon,Fruits
+874,Litchi,Fruits
+875,Potato,Vegetables
+876,Tomato,Vegetables
+877,Brinjal,Vegetables
+878,Okra,Vegetables
+879,Cabbage,Vegetables
+880,Cauliflower,Vegetables
+881,Bottle gourd,Vegetables
+882,Snake gourd,Vegetables
+883,Peas,Vegetables
+884,Spinach,Vegetables
+885,Carrot,Vegetables
+886,Beetroot,Vegetables
+887,Radish,Vegetables
+888,Onion,Vegetables
+889,Garlic,Vegetables
+890,Chilli,Vegetables
+891,Turmeric,Spices
+892,Black Pepper,Spices
+893,Cardamom,Spices
+894,Cumin,Spices
+895,Coriander,Spices
+896,Ginger,Spices
+897,Cotton,Fibre Crops
+898,Jute,Fibre Crops
+899,Sunhemp,Fibre Crops
+900,Sugarcane,Sugarcane
+901,Berseem,Fodder
+902,Napier Grass,Fodder
+903,Lucerne,Fodder
+904,Tea,Plantation
+905,Coffee,Plantation
+906,Rubber,Plantation
+907,Coconut,Plantation
+908,Tea,Beverage
+909,Coffee,Beverage
+910,Tobacco,Industrial/Other
+911,Medicinal Plants,Industrial/Other
+912,Aloe Vera,Industrial/Other
+913,Rice,Cereals & Millets
+914,Wheat,Cereals & Millets
+915,Maize,Cereals & Millets
+916,Jowar,Cereals & Millets
+917,Bajra,Cereals & Millets
+918,Ragi,Cereals & Millets
+919,Barley,Cereals & Millets
+920,Foxtail Millet,Cereals & Millets
+921,Little Millet,Cereals & Millets
+922,Kodo Millet,Cereals & Millets
+923,Proso Millet,Cereals & Millets
+924,Chickpea,Pulses
+925,Tur/Arhar,Pulses
+926,Moong,Pulses
+927,Urad,Pulses
+928,Masur,Pulses
+929,Cowpea,Pulses
+930,Horse Gram,Pulses
+931,Green Gram,Pulses
+932,Groundnut,Oilseeds
+933,Mustard,Oilseeds
+934,Soybean,Oilseeds
+935,Sesame,Oilseeds
+936,Sunflower,Oilseeds
+937,Castor,Oilseeds
+938,Niger,Oilseeds
+939,Mango,Fruits
+940,Banana,Fruits
+941,Papaya,Fruits
+942,Guava,Fruits
+943,Orange,Fruits
+944,Apple,Fruits
+945,Pineapple,Fruits
+946,Pomegranate,Fruits
+947,Grapes,Fruits
+948,Watermelon,Fruits
+949,Muskmelon,Fruits
+950,Litchi,Fruits
+951,Potato,Vegetables
+952,Tomato,Vegetables
+953,Brinjal,Vegetables
+954,Okra,Vegetables
+955,Cabbage,Vegetables
+956,Cauliflower,Vegetables
+957,Bottle gourd,Vegetables
+958,Snake gourd,Vegetables
+959,Peas,Vegetables
+960,Spinach,Vegetables
+961,Carrot,Vegetables
+962,Beetroot,Vegetables
+963,Radish,Vegetables
+964,Onion,Vegetables
+965,Garlic,Vegetables
+966,Chilli,Vegetables
+967,Turmeric,Spices
+968,Black Pepper,Spices
+969,Cardamom,Spices
+970,Cumin,Spices
+971,Coriander,Spices
+972,Ginger,Spices
+973,Cotton,Fibre Crops
+974,Jute,Fibre Crops
+975,Sunhemp,Fibre Crops
+976,Sugarcane,Sugarcane
+977,Berseem,Fodder
+978,Napier Grass,Fodder
+979,Lucerne,Fodder
+980,Tea,Plantation
+981,Coffee,Plantation
+982,Rubber,Plantation
+983,Coconut,Plantation
+984,Tea,Beverage
+985,Coffee,Beverage
+986,Tobacco,Industrial/Other
+987,Medicinal Plants,Industrial/Other
+988,Aloe Vera,Industrial/Other
+989,Rice,Cereals & Millets
+990,Wheat,Cereals & Millets
+991,Maize,Cereals & Millets
+992,Jowar,Cereals & Millets
+993,Bajra,Cereals & Millets
+994,Ragi,Cereals & Millets
+995,Barley,Cereals & Millets
+996,Foxtail Millet,Cereals & Millets
+997,Little Millet,Cereals & Millets
+998,Kodo Millet,Cereals & Millets
+999,Proso Millet,Cereals & Millets
+1000,Chickpea,Pulses
+1001,Tur/Arhar,Pulses
+1002,Moong,Pulses
+1003,Urad,Pulses
+1004,Masur,Pulses
+1005,Cowpea,Pulses
+1006,Horse Gram,Pulses
+1007,Green Gram,Pulses
+1008,Groundnut,Oilseeds
+1009,Mustard,Oilseeds
+1010,Soybean,Oilseeds
+1011,Sesame,Oilseeds
+1012,Sunflower,Oilseeds
+1013,Castor,Oilseeds
+1014,Niger,Oilseeds
+1015,Mango,Fruits
+1016,Banana,Fruits
+1017,Papaya,Fruits
+1018,Guava,Fruits
+1019,Orange,Fruits
+1020,Apple,Fruits
+1021,Pineapple,Fruits
+1022,Pomegranate,Fruits
+1023,Grapes,Fruits
+1024,Watermelon,Fruits
+1025,Muskmelon,Fruits
+1026,Litchi,Fruits
+1027,Potato,Vegetables
+1028,Tomato,Vegetables
+1029,Brinjal,Vegetables
+1030,Okra,Vegetables
+1031,Cabbage,Vegetables
+1032,Cauliflower,Vegetables
+1033,Bottle gourd,Vegetables
+1034,Snake gourd,Vegetables
+1035,Peas,Vegetables
+1036,Spinach,Vegetables
+1037,Carrot,Vegetables
+1038,Beetroot,Vegetables
+1039,Radish,Vegetables
+1040,Onion,Vegetables
+1041,Garlic,Vegetables
+1042,Chilli,Vegetables
+1043,Turmeric,Spices
+1044,Black Pepper,Spices
+1045,Cardamom,Spices
+1046,Cumin,Spices
+1047,Coriander,Spices
+1048,Ginger,Spices
+1049,Cotton,Fibre Crops
+1050,Jute,Fibre Crops
+1051,Sunhemp,Fibre Crops
+1052,Sugarcane,Sugarcane
+1053,Berseem,Fodder
+1054,Napier Grass,Fodder
+1055,Lucerne,Fodder
+1056,Tea,Plantation
+1057,Coffee,Plantation
+1058,Rubber,Plantation
+1059,Coconut,Plantation
+1060,Tea,Beverage
+1061,Coffee,Beverage
+1062,Tobacco,Industrial/Other
+1063,Medicinal Plants,Industrial/Other
+1064,Aloe Vera,Industrial/Other
+1065,Rice,Cereals & Millets
+1066,Wheat,Cereals & Millets
+1067,Maize,Cereals & Millets
+1068,Jowar,Cereals & Millets
+1069,Bajra,Cereals & Millets
+1070,Ragi,Cereals & Millets
+1071,Barley,Cereals & Millets
+1072,Foxtail Millet,Cereals & Millets
+1073,Little Millet,Cereals & Millets
+1074,Kodo Millet,Cereals & Millets
+1075,Proso Millet,Cereals & Millets
+1076,Chickpea,Pulses
+1077,Tur/Arhar,Pulses
+1078,Moong,Pulses
+1079,Urad,Pulses
+1080,Masur,Pulses
+1081,Cowpea,Pulses
+1082,Horse Gram,Pulses
+1083,Green Gram,Pulses
+1084,Groundnut,Oilseeds
+1085,Mustard,Oilseeds
+1086,Soybean,Oilseeds
+1087,Sesame,Oilseeds
+1088,Sunflower,Oilseeds
+1089,Castor,Oilseeds
+1090,Niger,Oilseeds
+1091,Mango,Fruits
+1092,Banana,Fruits
+1093,Papaya,Fruits
+1094,Guava,Fruits
+1095,Orange,Fruits
+1096,Apple,Fruits
+1097,Pineapple,Fruits
+1098,Pomegranate,Fruits
+1099,Grapes,Fruits
+1100,Watermelon,Fruits
+1101,Muskmelon,Fruits
+1102,Litchi,Fruits
+1103,Potato,Vegetables
+1104,Tomato,Vegetables
+1105,Brinjal,Vegetables
+1106,Okra,Vegetables
+1107,Cabbage,Vegetables
+1108,Cauliflower,Vegetables
+1109,Bottle gourd,Vegetables
+1110,Snake gourd,Vegetables
+1111,Peas,Vegetables
+1112,Spinach,Vegetables
+1113,Carrot,Vegetables
+1114,Beetroot,Vegetables
+1115,Radish,Vegetables
+1116,Onion,Vegetables
+1117,Garlic,Vegetables
+1118,Chilli,Vegetables
+1119,Turmeric,Spices
+1120,Black Pepper,Spices
+1121,Cardamom,Spices
+1122,Cumin,Spices
+1123,Coriander,Spices
+1124,Ginger,Spices
+1125,Cotton,Fibre Crops
+1126,Jute,Fibre Crops
+1127,Sunhemp,Fibre Crops
+1128,Sugarcane,Sugarcane
+1129,Berseem,Fodder
+1130,Napier Grass,Fodder
+1131,Lucerne,Fodder
+1132,Tea,Plantation
+1133,Coffee,Plantation
+1134,Rubber,Plantation
+1135,Coconut,Plantation
+1136,Tea,Beverage
+1137,Coffee,Beverage
+1138,Tobacco,Industrial/Other
+1139,Medicinal Plants,Industrial/Other
+1140,Aloe Vera,Industrial/Other
+1141,Rice,Cereals & Millets
+1142,Wheat,Cereals & Millets
+1143,Maize,Cereals & Millets
+1144,Jowar,Cereals & Millets
+1145,Bajra,Cereals & Millets
+1146,Ragi,Cereals & Millets
+1147,Barley,Cereals & Millets
+1148,Foxtail Millet,Cereals & Millets
+1149,Little Millet,Cereals & Millets
+1150,Kodo Millet,Cereals & Millets
+1151,Proso Millet,Cereals & Millets
+1152,Chickpea,Pulses
+1153,Tur/Arhar,Pulses
+1154,Moong,Pulses
+1155,Urad,Pulses
+1156,Masur,Pulses
+1157,Cowpea,Pulses
+1158,Horse Gram,Pulses
+1159,Green Gram,Pulses
+1160,Groundnut,Oilseeds
+1161,Mustard,Oilseeds
+1162,Soybean,Oilseeds
+1163,Sesame,Oilseeds
+1164,Sunflower,Oilseeds
+1165,Castor,Oilseeds
+1166,Niger,Oilseeds
+1167,Mango,Fruits
+1168,Banana,Fruits
+1169,Papaya,Fruits
+1170,Guava,Fruits
+1171,Orange,Fruits
+1172,Apple,Fruits
+1173,Pineapple,Fruits
+1174,Pomegranate,Fruits
+1175,Grapes,Fruits
+1176,Watermelon,Fruits
+1177,Muskmelon,Fruits
+1178,Litchi,Fruits
+1179,Potato,Vegetables
+1180,Tomato,Vegetables
+1181,Brinjal,Vegetables
+1182,Okra,Vegetables
+1183,Cabbage,Vegetables
+1184,Cauliflower,Vegetables
+1185,Bottle gourd,Vegetables
+1186,Snake gourd,Vegetables
+1187,Peas,Vegetables
+1188,Spinach,Vegetables
+1189,Carrot,Vegetables
+1190,Beetroot,Vegetables
+1191,Radish,Vegetables
+1192,Onion,Vegetables
+1193,Garlic,Vegetables
+1194,Chilli,Vegetables
+1195,Turmeric,Spices
+1196,Black Pepper,Spices
+1197,Cardamom,Spices
+1198,Cumin,Spices
+1199,Coriander,Spices
+1200,Ginger,Spices
+1201,Cotton,Fibre Crops
+1202,Jute,Fibre Crops
+1203,Sunhemp,Fibre Crops
+1204,Sugarcane,Sugarcane
+1205,Berseem,Fodder
+1206,Napier Grass,Fodder
+1207,Lucerne,Fodder
+1208,Tea,Plantation
+1209,Coffee,Plantation
+1210,Rubber,Plantation
+1211,Coconut,Plantation
+1212,Tea,Beverage
+1213,Coffee,Beverage
+1214,Tobacco,Industrial/Other
+1215,Medicinal Plants,Industrial/Other
+1216,Aloe Vera,Industrial/Other
+1217,Rice,Cereals & Millets
+1218,Wheat,Cereals & Millets
+1219,Maize,Cereals & Millets
+1220,Jowar,Cereals & Millets
+1221,Bajra,Cereals & Millets
+1222,Ragi,Cereals & Millets
+1223,Barley,Cereals & Millets
+1224,Foxtail Millet,Cereals & Millets
+1225,Little Millet,Cereals & Millets
+1226,Kodo Millet,Cereals & Millets
+1227,Proso Millet,Cereals & Millets
+1228,Chickpea,Pulses
+1229,Tur/Arhar,Pulses
+1230,Moong,Pulses
+1231,Urad,Pulses
+1232,Masur,Pulses
+1233,Cowpea,Pulses
+1234,Horse Gram,Pulses
+1235,Green Gram,Pulses
+1236,Groundnut,Oilseeds
+1237,Mustard,Oilseeds
+1238,Soybean,Oilseeds
+1239,Sesame,Oilseeds
+1240,Sunflower,Oilseeds
+1241,Castor,Oilseeds
+1242,Niger,Oilseeds
+1243,Mango,Fruits
+1244,Banana,Fruits
+1245,Papaya,Fruits
+1246,Guava,Fruits
+1247,Orange,Fruits
+1248,Apple,Fruits
+1249,Pineapple,Fruits
+1250,Pomegranate,Fruits
+1251,Grapes,Fruits
+1252,Watermelon,Fruits
+1253,Muskmelon,Fruits
+1254,Litchi,Fruits
+1255,Potato,Vegetables
+1256,Tomato,Vegetables
+1257,Brinjal,Vegetables
+1258,Okra,Vegetables
+1259,Cabbage,Vegetables
+1260,Cauliflower,Vegetables
+1261,Bottle gourd,Vegetables
+1262,Snake gourd,Vegetables
+1263,Peas,Vegetables
+1264,Spinach,Vegetables
+1265,Carrot,Vegetables
+1266,Beetroot,Vegetables
+1267,Radish,Vegetables
+1268,Onion,Vegetables
+1269,Garlic,Vegetables
+1270,Chilli,Vegetables
+1271,Turmeric,Spices
+1272,Black Pepper,Spices
+1273,Cardamom,Spices
+1274,Cumin,Spices
+1275,Coriander,Spices
+1276,Ginger,Spices
+1277,Cotton,Fibre Crops
+1278,Jute,Fibre Crops
+1279,Sunhemp,Fibre Crops
+1280,Sugarcane,Sugarcane
+1281,Berseem,Fodder
+1282,Napier Grass,Fodder
+1283,Lucerne,Fodder
+1284,Tea,Plantation
+1285,Coffee,Plantation
+1286,Rubber,Plantation
+1287,Coconut,Plantation
+1288,Tea,Beverage
+1289,Coffee,Beverage
+1290,Tobacco,Industrial/Other
+1291,Medicinal Plants,Industrial/Other
+1292,Aloe Vera,Industrial/Other
+1293,Rice,Cereals & Millets
+1294,Wheat,Cereals & Millets
+1295,Maize,Cereals & Millets
+1296,Jowar,Cereals & Millets
+1297,Bajra,Cereals & Millets
+1298,Ragi,Cereals & Millets
+1299,Barley,Cereals & Millets
+1300,Foxtail Millet,Cereals & Millets
+1301,Little Millet,Cereals & Millets
+1302,Kodo Millet,Cereals & Millets
+1303,Proso Millet,Cereals & Millets
+1304,Chickpea,Pulses
+1305,Tur/Arhar,Pulses
+1306,Moong,Pulses
+1307,Urad,Pulses
+1308,Masur,Pulses
+1309,Cowpea,Pulses
+1310,Horse Gram,Pulses
+1311,Green Gram,Pulses
+1312,Groundnut,Oilseeds
+1313,Mustard,Oilseeds
+1314,Soybean,Oilseeds
+1315,Sesame,Oilseeds
+1316,Sunflower,Oilseeds
+1317,Castor,Oilseeds
+1318,Niger,Oilseeds
+1319,Mango,Fruits
+1320,Banana,Fruits
+1321,Papaya,Fruits
+1322,Guava,Fruits
+1323,Orange,Fruits
+1324,Apple,Fruits
+1325,Pineapple,Fruits
+1326,Pomegranate,Fruits
+1327,Grapes,Fruits
+1328,Watermelon,Fruits
+1329,Muskmelon,Fruits
+1330,Litchi,Fruits
+1331,Potato,Vegetables
+1332,Tomato,Vegetables
+1333,Brinjal,Vegetables
+1334,Okra,Vegetables
+1335,Cabbage,Vegetables
+1336,Cauliflower,Vegetables
+1337,Bottle gourd,Vegetables
+1338,Snake gourd,Vegetables
+1339,Peas,Vegetables
+1340,Spinach,Vegetables
+1341,Carrot,Vegetables
+1342,Beetroot,Vegetables
+1343,Radish,Vegetables
+1344,Onion,Vegetables
+1345,Garlic,Vegetables
+1346,Chilli,Vegetables
+1347,Turmeric,Spices
+1348,Black Pepper,Spices
+1349,Cardamom,Spices
+1350,Cumin,Spices
+1351,Coriander,Spices
+1352,Ginger,Spices
+1353,Cotton,Fibre Crops
+1354,Jute,Fibre Crops
+1355,Sunhemp,Fibre Crops
+1356,Sugarcane,Sugarcane
+1357,Berseem,Fodder
+1358,Napier Grass,Fodder
+1359,Lucerne,Fodder
+1360,Tea,Plantation
+1361,Coffee,Plantation
+1362,Rubber,Plantation
+1363,Coconut,Plantation
+1364,Tea,Beverage
+1365,Coffee,Beverage
+1366,Tobacco,Industrial/Other
+1367,Medicinal Plants,Industrial/Other
+1368,Aloe Vera,Industrial/Other
+1369,Rice,Cereals & Millets
+1370,Wheat,Cereals & Millets
+1371,Maize,Cereals & Millets
+1372,Jowar,Cereals & Millets
+1373,Bajra,Cereals & Millets
+1374,Ragi,Cereals & Millets
+1375,Barley,Cereals & Millets
+1376,Foxtail Millet,Cereals & Millets
+1377,Little Millet,Cereals & Millets
+1378,Kodo Millet,Cereals & Millets
+1379,Proso Millet,Cereals & Millets
+1380,Chickpea,Pulses
+1381,Tur/Arhar,Pulses
+1382,Moong,Pulses
+1383,Urad,Pulses
+1384,Masur,Pulses
+1385,Cowpea,Pulses
+1386,Horse Gram,Pulses
+1387,Green Gram,Pulses
+1388,Groundnut,Oilseeds
+1389,Mustard,Oilseeds
+1390,Soybean,Oilseeds
+1391,Sesame,Oilseeds
+1392,Sunflower,Oilseeds
+1393,Castor,Oilseeds
+1394,Niger,Oilseeds
+1395,Mango,Fruits
+1396,Banana,Fruits
+1397,Papaya,Fruits
+1398,Guava,Fruits
+1399,Orange,Fruits
+1400,Apple,Fruits
+1401,Pineapple,Fruits
+1402,Pomegranate,Fruits
+1403,Grapes,Fruits
+1404,Watermelon,Fruits
+1405,Muskmelon,Fruits
+1406,Litchi,Fruits
+1407,Potato,Vegetables
+1408,Tomato,Vegetables
+1409,Brinjal,Vegetables
+1410,Okra,Vegetables
+1411,Cabbage,Vegetables
+1412,Cauliflower,Vegetables
+1413,Bottle gourd,Vegetables
+1414,Snake gourd,Vegetables
+1415,Peas,Vegetables
+1416,Spinach,Vegetables
+1417,Carrot,Vegetables
+1418,Beetroot,Vegetables
+1419,Radish,Vegetables
+1420,Onion,Vegetables
+1421,Garlic,Vegetables
+1422,Chilli,Vegetables
+1423,Turmeric,Spices
+1424,Black Pepper,Spices
+1425,Cardamom,Spices
+1426,Cumin,Spices
+1427,Coriander,Spices
+1428,Ginger,Spices
+1429,Cotton,Fibre Crops
+1430,Jute,Fibre Crops
+1431,Sunhemp,Fibre Crops
+1432,Sugarcane,Sugarcane
+1433,Berseem,Fodder
+1434,Napier Grass,Fodder
+1435,Lucerne,Fodder
+1436,Tea,Plantation
+1437,Coffee,Plantation
+1438,Rubber,Plantation
+1439,Coconut,Plantation
+1440,Tea,Beverage
+1441,Coffee,Beverage
+1442,Tobacco,Industrial/Other
+1443,Medicinal Plants,Industrial/Other
+1444,Aloe Vera,Industrial/Other
+1445,Rice,Cereals & Millets
+1446,Wheat,Cereals & Millets
+1447,Maize,Cereals & Millets
+1448,Jowar,Cereals & Millets
+1449,Bajra,Cereals & Millets
+1450,Ragi,Cereals & Millets
+1451,Barley,Cereals & Millets
+1452,Foxtail Millet,Cereals & Millets
+1453,Little Millet,Cereals & Millets
+1454,Kodo Millet,Cereals & Millets
+1455,Proso Millet,Cereals & Millets
+1456,Chickpea,Pulses
+1457,Tur/Arhar,Pulses
+1458,Moong,Pulses
+1459,Urad,Pulses
+1460,Masur,Pulses
+1461,Cowpea,Pulses
+1462,Horse Gram,Pulses
+1463,Green Gram,Pulses
+1464,Groundnut,Oilseeds
+1465,Mustard,Oilseeds
+1466,Soybean,Oilseeds
+1467,Sesame,Oilseeds
+1468,Sunflower,Oilseeds
+1469,Castor,Oilseeds
+1470,Niger,Oilseeds
+1471,Mango,Fruits
+1472,Banana,Fruits
+1473,Papaya,Fruits
+1474,Guava,Fruits
+1475,Orange,Fruits
+1476,Apple,Fruits
+1477,Pineapple,Fruits
+1478,Pomegranate,Fruits
+1479,Grapes,Fruits
+1480,Watermelon,Fruits
+1481,Muskmelon,Fruits
+1482,Litchi,Fruits
+1483,Potato,Vegetables
+1484,Tomato,Vegetables
+1485,Brinjal,Vegetables
+1486,Okra,Vegetables
+1487,Cabbage,Vegetables
+1488,Cauliflower,Vegetables
+1489,Bottle gourd,Vegetables
+1490,Snake gourd,Vegetables
+1491,Peas,Vegetables
+1492,Spinach,Vegetables
+1493,Carrot,Vegetables
+1494,Beetroot,Vegetables
+1495,Radish,Vegetables
+1496,Onion,Vegetables
+1497,Garlic,Vegetables
+1498,Chilli,Vegetables
+1499,Turmeric,Spices
+1500,Black Pepper,Spices
+1501,Cardamom,Spices
+1502,Cumin,Spices
+1503,Coriander,Spices
+1504,Ginger,Spices
+1505,Cotton,Fibre Crops
+1506,Jute,Fibre Crops
+1507,Sunhemp,Fibre Crops
+1508,Sugarcane,Sugarcane
+1509,Berseem,Fodder
+1510,Napier Grass,Fodder
+1511,Lucerne,Fodder
+1512,Tea,Plantation
+1513,Coffee,Plantation
+1514,Rubber,Plantation
+1515,Coconut,Plantation
+1516,Tea,Beverage
+1517,Coffee,Beverage
+1518,Tobacco,Industrial/Other
+1519,Medicinal Plants,Industrial/Other
+1520,Aloe Vera,Industrial/Other
+1521,Rice,Cereals & Millets
+1522,Wheat,Cereals & Millets
+1523,Maize,Cereals & Millets
+1524,Jowar,Cereals & Millets
+1525,Bajra,Cereals & Millets
+1526,Ragi,Cereals & Millets
+1527,Barley,Cereals & Millets
+1528,Foxtail Millet,Cereals & Millets
+1529,Little Millet,Cereals & Millets
+1530,Kodo Millet,Cereals & Millets
+1531,Proso Millet,Cereals & Millets
+1532,Chickpea,Pulses
+1533,Tur/Arhar,Pulses
+1534,Moong,Pulses
+1535,Urad,Pulses
+1536,Masur,Pulses
+1537,Cowpea,Pulses
+1538,Horse Gram,Pulses
+1539,Green Gram,Pulses
+1540,Groundnut,Oilseeds
+1541,Mustard,Oilseeds
+1542,Soybean,Oilseeds
+1543,Sesame,Oilseeds
+1544,Sunflower,Oilseeds
+1545,Castor,Oilseeds
+1546,Niger,Oilseeds
+1547,Mango,Fruits
+1548,Banana,Fruits
+1549,Papaya,Fruits
+1550,Guava,Fruits
+1551,Orange,Fruits
+1552,Apple,Fruits
+1553,Pineapple,Fruits
+1554,Pomegranate,Fruits
+1555,Grapes,Fruits
+1556,Watermelon,Fruits
+1557,Muskmelon,Fruits
+1558,Litchi,Fruits
+1559,Potato,Vegetables
+1560,Tomato,Vegetables
+1561,Brinjal,Vegetables
+1562,Okra,Vegetables
+1563,Cabbage,Vegetables
+1564,Cauliflower,Vegetables
+1565,Bottle gourd,Vegetables
+1566,Snake gourd,Vegetables
+1567,Peas,Vegetables
+1568,Spinach,Vegetables
+1569,Carrot,Vegetables
+1570,Beetroot,Vegetables
+1571,Radish,Vegetables
+1572,Onion,Vegetables
+1573,Garlic,Vegetables
+1574,Chilli,Vegetables
+1575,Turmeric,Spices
+1576,Black Pepper,Spices
+1577,Cardamom,Spices
+1578,Cumin,Spices
+1579,Coriander,Spices
+1580,Ginger,Spices
+1581,Cotton,Fibre Crops
+1582,Jute,Fibre Crops
+1583,Sunhemp,Fibre Crops
+1584,Sugarcane,Sugarcane
+1585,Berseem,Fodder
+1586,Napier Grass,Fodder
+1587,Lucerne,Fodder
+1588,Tea,Plantation
+1589,Coffee,Plantation
+1590,Rubber,Plantation
+1591,Coconut,Plantation
+1592,Tea,Beverage
+1593,Coffee,Beverage
+1594,Tobacco,Industrial/Other
+1595,Medicinal Plants,Industrial/Other
+1596,Aloe Vera,Industrial/Other
+1597,Rice,Cereals & Millets
+1598,Wheat,Cereals & Millets
+1599,Maize,Cereals & Millets
+1600,Jowar,Cereals & Millets
+1601,Bajra,Cereals & Millets
+1602,Ragi,Cereals & Millets
+1603,Barley,Cereals & Millets
+1604,Foxtail Millet,Cereals & Millets
+1605,Little Millet,Cereals & Millets
+1606,Kodo Millet,Cereals & Millets
+1607,Proso Millet,Cereals & Millets
+1608,Chickpea,Pulses
+1609,Tur/Arhar,Pulses
+1610,Moong,Pulses
+1611,Urad,Pulses
+1612,Masur,Pulses
+1613,Cowpea,Pulses
+1614,Horse Gram,Pulses
+1615,Green Gram,Pulses
+1616,Groundnut,Oilseeds
+1617,Mustard,Oilseeds
+1618,Soybean,Oilseeds
+1619,Sesame,Oilseeds
+1620,Sunflower,Oilseeds
+1621,Castor,Oilseeds
+1622,Niger,Oilseeds
+1623,Mango,Fruits
+1624,Banana,Fruits
+1625,Papaya,Fruits
+1626,Guava,Fruits
+1627,Orange,Fruits
+1628,Apple,Fruits
+1629,Pineapple,Fruits
+1630,Pomegranate,Fruits
+1631,Grapes,Fruits
+1632,Watermelon,Fruits
+1633,Muskmelon,Fruits
+1634,Litchi,Fruits
+1635,Potato,Vegetables
+1636,Tomato,Vegetables
+1637,Brinjal,Vegetables
+1638,Okra,Vegetables
+1639,Cabbage,Vegetables
+1640,Cauliflower,Vegetables
+1641,Bottle gourd,Vegetables
+1642,Snake gourd,Vegetables
+1643,Peas,Vegetables
+1644,Spinach,Vegetables
+1645,Carrot,Vegetables
+1646,Beetroot,Vegetables
+1647,Radish,Vegetables
+1648,Onion,Vegetables
+1649,Garlic,Vegetables
+1650,Chilli,Vegetables
+1651,Turmeric,Spices
+1652,Black Pepper,Spices
+1653,Cardamom,Spices
+1654,Cumin,Spices
+1655,Coriander,Spices
+1656,Ginger,Spices
+1657,Cotton,Fibre Crops
+1658,Jute,Fibre Crops
+1659,Sunhemp,Fibre Crops
+1660,Sugarcane,Sugarcane
+1661,Berseem,Fodder
+1662,Napier Grass,Fodder
+1663,Lucerne,Fodder
+1664,Tea,Plantation
+1665,Coffee,Plantation
+1666,Rubber,Plantation
+1667,Coconut,Plantation
+1668,Tea,Beverage
+1669,Coffee,Beverage
+1670,Tobacco,Industrial/Other
+1671,Medicinal Plants,Industrial/Other
+1672,Aloe Vera,Industrial/Other
+1673,Rice,Cereals & Millets
+1674,Wheat,Cereals & Millets
+1675,Maize,Cereals & Millets
+1676,Jowar,Cereals & Millets
+1677,Bajra,Cereals & Millets
+1678,Ragi,Cereals & Millets
+1679,Barley,Cereals & Millets
+1680,Foxtail Millet,Cereals & Millets
+1681,Little Millet,Cereals & Millets
+1682,Kodo Millet,Cereals & Millets
+1683,Proso Millet,Cereals & Millets
+1684,Chickpea,Pulses
+1685,Tur/Arhar,Pulses
+1686,Moong,Pulses
+1687,Urad,Pulses
+1688,Masur,Pulses
+1689,Cowpea,Pulses
+1690,Horse Gram,Pulses
+1691,Green Gram,Pulses
+1692,Groundnut,Oilseeds
+1693,Mustard,Oilseeds
+1694,Soybean,Oilseeds
+1695,Sesame,Oilseeds
+1696,Sunflower,Oilseeds
+1697,Castor,Oilseeds
+1698,Niger,Oilseeds
+1699,Mango,Fruits
+1700,Banana,Fruits
+1701,Papaya,Fruits
+1702,Guava,Fruits
+1703,Orange,Fruits
+1704,Apple,Fruits
+1705,Pineapple,Fruits
+1706,Pomegranate,Fruits
+1707,Grapes,Fruits
+1708,Watermelon,Fruits
+1709,Muskmelon,Fruits
+1710,Litchi,Fruits
+1711,Potato,Vegetables
+1712,Tomato,Vegetables
+1713,Brinjal,Vegetables
+1714,Okra,Vegetables
+1715,Cabbage,Vegetables
+1716,Cauliflower,Vegetables
+1717,Bottle gourd,Vegetables
+1718,Snake gourd,Vegetables
+1719,Peas,Vegetables
+1720,Spinach,Vegetables
+1721,Carrot,Vegetables
+1722,Beetroot,Vegetables
+1723,Radish,Vegetables
+1724,Onion,Vegetables
+1725,Garlic,Vegetables
+1726,Chilli,Vegetables
+1727,Turmeric,Spices
+1728,Black Pepper,Spices
+1729,Cardamom,Spices
+1730,Cumin,Spices
+1731,Coriander,Spices
+1732,Ginger,Spices
+1733,Cotton,Fibre Crops
+1734,Jute,Fibre Crops
+1735,Sunhemp,Fibre Crops
+1736,Sugarcane,Sugarcane
+1737,Berseem,Fodder
+1738,Napier Grass,Fodder
+1739,Lucerne,Fodder
+1740,Tea,Plantation
+1741,Coffee,Plantation
+1742,Rubber,Plantation
+1743,Coconut,Plantation
+1744,Tea,Beverage
+1745,Coffee,Beverage
+1746,Tobacco,Industrial/Other
+1747,Medicinal Plants,Industrial/Other
+1748,Aloe Vera,Industrial/Other
+1749,Rice,Cereals & Millets
+1750,Wheat,Cereals & Millets
+1751,Maize,Cereals & Millets
+1752,Jowar,Cereals & Millets
+1753,Bajra,Cereals & Millets
+1754,Ragi,Cereals & Millets
+1755,Barley,Cereals & Millets
+1756,Foxtail Millet,Cereals & Millets
+1757,Little Millet,Cereals & Millets
+1758,Kodo Millet,Cereals & Millets
+1759,Proso Millet,Cereals & Millets
+1760,Chickpea,Pulses
+1761,Tur/Arhar,Pulses
+1762,Moong,Pulses
+1763,Urad,Pulses
+1764,Masur,Pulses
+1765,Cowpea,Pulses
+1766,Horse Gram,Pulses
+1767,Green Gram,Pulses
+1768,Groundnut,Oilseeds
+1769,Mustard,Oilseeds
+1770,Soybean,Oilseeds
+1771,Sesame,Oilseeds
+1772,Sunflower,Oilseeds
+1773,Castor,Oilseeds
+1774,Niger,Oilseeds
+1775,Mango,Fruits
+1776,Banana,Fruits
+1777,Papaya,Fruits
+1778,Guava,Fruits
+1779,Orange,Fruits
+1780,Apple,Fruits
+1781,Pineapple,Fruits
+1782,Pomegranate,Fruits
+1783,Grapes,Fruits
+1784,Watermelon,Fruits
+1785,Muskmelon,Fruits
+1786,Litchi,Fruits
+1787,Potato,Vegetables
+1788,Tomato,Vegetables
+1789,Brinjal,Vegetables
+1790,Okra,Vegetables
+1791,Cabbage,Vegetables
+1792,Cauliflower,Vegetables
+1793,Bottle gourd,Vegetables
+1794,Snake gourd,Vegetables
+1795,Peas,Vegetables
+1796,Spinach,Vegetables
+1797,Carrot,Vegetables
+1798,Beetroot,Vegetables
+1799,Radish,Vegetables
+1800,Onion,Vegetables
+1801,Garlic,Vegetables
+1802,Chilli,Vegetables
+1803,Turmeric,Spices
+1804,Black Pepper,Spices
+1805,Cardamom,Spices
+1806,Cumin,Spices
+1807,Coriander,Spices
+1808,Ginger,Spices
+1809,Cotton,Fibre Crops
+1810,Jute,Fibre Crops
+1811,Sunhemp,Fibre Crops
+1812,Sugarcane,Sugarcane
+1813,Berseem,Fodder
+1814,Napier Grass,Fodder
+1815,Lucerne,Fodder
+1816,Tea,Plantation
+1817,Coffee,Plantation
+1818,Rubber,Plantation
+1819,Coconut,Plantation
+1820,Tea,Beverage
+1821,Coffee,Beverage
+1822,Tobacco,Industrial/Other
+1823,Medicinal Plants,Industrial/Other
+1824,Aloe Vera,Industrial/Other
+1825,Rice,Cereals & Millets
+1826,Wheat,Cereals & Millets
+1827,Maize,Cereals & Millets
+1828,Jowar,Cereals & Millets
+1829,Bajra,Cereals & Millets
+1830,Ragi,Cereals & Millets
+1831,Barley,Cereals & Millets
+1832,Foxtail Millet,Cereals & Millets
+1833,Little Millet,Cereals & Millets
+1834,Kodo Millet,Cereals & Millets
+1835,Proso Millet,Cereals & Millets
+1836,Chickpea,Pulses
+1837,Tur/Arhar,Pulses
+1838,Moong,Pulses
+1839,Urad,Pulses
+1840,Masur,Pulses
+1841,Cowpea,Pulses
+1842,Horse Gram,Pulses
+1843,Green Gram,Pulses
+1844,Groundnut,Oilseeds
+1845,Mustard,Oilseeds
+1846,Soybean,Oilseeds
+1847,Sesame,Oilseeds
+1848,Sunflower,Oilseeds
+1849,Castor,Oilseeds
+1850,Niger,Oilseeds
+1851,Mango,Fruits
+1852,Banana,Fruits
+1853,Papaya,Fruits
+1854,Guava,Fruits
+1855,Orange,Fruits
+1856,Apple,Fruits
+1857,Pineapple,Fruits
+1858,Pomegranate,Fruits
+1859,Grapes,Fruits
+1860,Watermelon,Fruits
+1861,Muskmelon,Fruits
+1862,Litchi,Fruits
+1863,Potato,Vegetables
+1864,Tomato,Vegetables
+1865,Brinjal,Vegetables
+1866,Okra,Vegetables
+1867,Cabbage,Vegetables
+1868,Cauliflower,Vegetables
+1869,Bottle gourd,Vegetables
+1870,Snake gourd,Vegetables
+1871,Peas,Vegetables
+1872,Spinach,Vegetables
+1873,Carrot,Vegetables
+1874,Beetroot,Vegetables
+1875,Radish,Vegetables
+1876,Onion,Vegetables
+1877,Garlic,Vegetables
+1878,Chilli,Vegetables
+1879,Turmeric,Spices
+1880,Black Pepper,Spices
+1881,Cardamom,Spices
+1882,Cumin,Spices
+1883,Coriander,Spices
+1884,Ginger,Spices
+1885,Cotton,Fibre Crops
+1886,Jute,Fibre Crops
+1887,Sunhemp,Fibre Crops
+1888,Sugarcane,Sugarcane
+1889,Berseem,Fodder
+1890,Napier Grass,Fodder
+1891,Lucerne,Fodder
+1892,Tea,Plantation
+1893,Coffee,Plantation
+1894,Rubber,Plantation
+1895,Coconut,Plantation
+1896,Tea,Beverage
+1897,Coffee,Beverage
+1898,Tobacco,Industrial/Other
+1899,Medicinal Plants,Industrial/Other
+1900,Aloe Vera,Industrial/Other
+1901,Rice,Cereals & Millets
+1902,Wheat,Cereals & Millets
+1903,Maize,Cereals & Millets
+1904,Jowar,Cereals & Millets
+1905,Bajra,Cereals & Millets
+1906,Ragi,Cereals & Millets
+1907,Barley,Cereals & Millets
+1908,Foxtail Millet,Cereals & Millets
+1909,Little Millet,Cereals & Millets
+1910,Kodo Millet,Cereals & Millets
+1911,Proso Millet,Cereals & Millets
+1912,Chickpea,Pulses
+1913,Tur/Arhar,Pulses
+1914,Moong,Pulses
+1915,Urad,Pulses
+1916,Masur,Pulses
+1917,Cowpea,Pulses
+1918,Horse Gram,Pulses
+1919,Green Gram,Pulses
+1920,Groundnut,Oilseeds
+1921,Mustard,Oilseeds
+1922,Soybean,Oilseeds
+1923,Sesame,Oilseeds
+1924,Sunflower,Oilseeds
+1925,Castor,Oilseeds
+1926,Niger,Oilseeds
+1927,Mango,Fruits
+1928,Banana,Fruits
+1929,Papaya,Fruits
+1930,Guava,Fruits
+1931,Orange,Fruits
+1932,Apple,Fruits
+1933,Pineapple,Fruits
+1934,Pomegranate,Fruits
+1935,Grapes,Fruits
+1936,Watermelon,Fruits
+1937,Muskmelon,Fruits
+1938,Litchi,Fruits
+1939,Potato,Vegetables
+1940,Tomato,Vegetables
+1941,Brinjal,Vegetables
+1942,Okra,Vegetables
+1943,Cabbage,Vegetables
+1944,Cauliflower,Vegetables
+1945,Bottle gourd,Vegetables
+1946,Snake gourd,Vegetables
+1947,Peas,Vegetables
+1948,Spinach,Vegetables
+1949,Carrot,Vegetables
+1950,Beetroot,Vegetables
+1951,Radish,Vegetables
+1952,Onion,Vegetables
+1953,Garlic,Vegetables
+1954,Chilli,Vegetables
+1955,Turmeric,Spices
+1956,Black Pepper,Spices
+1957,Cardamom,Spices
+1958,Cumin,Spices
+1959,Coriander,Spices
+1960,Ginger,Spices
+1961,Cotton,Fibre Crops
+1962,Jute,Fibre Crops
+1963,Sunhemp,Fibre Crops
+1964,Sugarcane,Sugarcane
+1965,Berseem,Fodder
+1966,Napier Grass,Fodder
+1967,Lucerne,Fodder
+1968,Tea,Plantation
+1969,Coffee,Plantation
+1970,Rubber,Plantation
+1971,Coconut,Plantation
+1972,Tea,Beverage
+1973,Coffee,Beverage
+1974,Tobacco,Industrial/Other
+1975,Medicinal Plants,Industrial/Other
+1976,Aloe Vera,Industrial/Other
+1977,Rice,Cereals & Millets
+1978,Wheat,Cereals & Millets
+1979,Maize,Cereals & Millets
+1980,Jowar,Cereals & Millets
+1981,Bajra,Cereals & Millets
+1982,Ragi,Cereals & Millets
+1983,Barley,Cereals & Millets
+1984,Foxtail Millet,Cereals & Millets
+1985,Little Millet,Cereals & Millets
+1986,Kodo Millet,Cereals & Millets
+1987,Proso Millet,Cereals & Millets
+1988,Chickpea,Pulses
+1989,Tur/Arhar,Pulses
+1990,Moong,Pulses
+1991,Urad,Pulses
+1992,Masur,Pulses
+1993,Cowpea,Pulses
+1994,Horse Gram,Pulses
+1995,Green Gram,Pulses
+1996,Groundnut,Oilseeds
+1997,Mustard,Oilseeds
+1998,Soybean,Oilseeds
+1999,Sesame,Oilseeds
+2000,Sunflower,Oilseeds
+2001,Castor,Oilseeds
+2002,Niger,Oilseeds
+2003,Mango,Fruits
+2004,Banana,Fruits
+2005,Papaya,Fruits
+2006,Guava,Fruits
+2007,Orange,Fruits
+2008,Apple,Fruits
+2009,Pineapple,Fruits
+2010,Pomegranate,Fruits
+2011,Grapes,Fruits
+2012,Watermelon,Fruits
+2013,Muskmelon,Fruits
+2014,Litchi,Fruits
+2015,Potato,Vegetables
+2016,Tomato,Vegetables
+2017,Brinjal,Vegetables
+2018,Okra,Vegetables
+2019,Cabbage,Vegetables
+2020,Cauliflower,Vegetables
+2021,Bottle gourd,Vegetables
+2022,Snake gourd,Vegetables
+2023,Peas,Vegetables
+2024,Spinach,Vegetables
+2025,Carrot,Vegetables
+2026,Beetroot,Vegetables
+2027,Radish,Vegetables
+2028,Onion,Vegetables
+2029,Garlic,Vegetables
+2030,Chilli,Vegetables
+2031,Turmeric,Spices
+2032,Black Pepper,Spices
+2033,Cardamom,Spices
+2034,Cumin,Spices
+2035,Coriander,Spices
+2036,Ginger,Spices
+2037,Cotton,Fibre Crops
+2038,Jute,Fibre Crops
+2039,Sunhemp,Fibre Crops
+2040,Sugarcane,Sugarcane
+2041,Berseem,Fodder
+2042,Napier Grass,Fodder
+2043,Lucerne,Fodder
+2044,Tea,Plantation
+2045,Coffee,Plantation
+2046,Rubber,Plantation
+2047,Coconut,Plantation
+2048,Tea,Beverage
+2049,Coffee,Beverage
+2050,Tobacco,Industrial/Other
+2051,Medicinal Plants,Industrial/Other
+2052,Aloe Vera,Industrial/Other
+2053,Rice,Cereals & Millets
+2054,Wheat,Cereals & Millets
+2055,Maize,Cereals & Millets
+2056,Jowar,Cereals & Millets
+2057,Bajra,Cereals & Millets
+2058,Ragi,Cereals & Millets
+2059,Barley,Cereals & Millets
+2060,Foxtail Millet,Cereals & Millets
+2061,Little Millet,Cereals & Millets
+2062,Kodo Millet,Cereals & Millets
+2063,Proso Millet,Cereals & Millets
+2064,Chickpea,Pulses
+2065,Tur/Arhar,Pulses
+2066,Moong,Pulses
+2067,Urad,Pulses
+2068,Masur,Pulses
+2069,Cowpea,Pulses
+2070,Horse Gram,Pulses
+2071,Green Gram,Pulses
+2072,Groundnut,Oilseeds
+2073,Mustard,Oilseeds
+2074,Soybean,Oilseeds
+2075,Sesame,Oilseeds
+2076,Sunflower,Oilseeds
+2077,Castor,Oilseeds
+2078,Niger,Oilseeds
+2079,Mango,Fruits
+2080,Banana,Fruits
+2081,Papaya,Fruits
+2082,Guava,Fruits
+2083,Orange,Fruits
+2084,Apple,Fruits
+2085,Pineapple,Fruits
+2086,Pomegranate,Fruits
+2087,Grapes,Fruits
+2088,Watermelon,Fruits
+2089,Muskmelon,Fruits
+2090,Litchi,Fruits
+2091,Potato,Vegetables
+2092,Tomato,Vegetables
+2093,Brinjal,Vegetables
+2094,Okra,Vegetables
+2095,Cabbage,Vegetables
+2096,Cauliflower,Vegetables
+2097,Bottle gourd,Vegetables
+2098,Snake gourd,Vegetables
+2099,Peas,Vegetables
+2100,Spinach,Vegetables
+2101,Carrot,Vegetables
+2102,Beetroot,Vegetables
+2103,Radish,Vegetables
+2104,Onion,Vegetables
+2105,Garlic,Vegetables
+2106,Chilli,Vegetables
+2107,Turmeric,Spices
+2108,Black Pepper,Spices
+2109,Cardamom,Spices
+2110,Cumin,Spices
+2111,Coriander,Spices
+2112,Ginger,Spices
+2113,Cotton,Fibre Crops
+2114,Jute,Fibre Crops
+2115,Sunhemp,Fibre Crops
+2116,Sugarcane,Sugarcane
+2117,Berseem,Fodder
+2118,Napier Grass,Fodder
+2119,Lucerne,Fodder
+2120,Tea,Plantation
+2121,Coffee,Plantation
+2122,Rubber,Plantation
+2123,Coconut,Plantation
+2124,Tea,Beverage
+2125,Coffee,Beverage
+2126,Tobacco,Industrial/Other
+2127,Medicinal Plants,Industrial/Other
+2128,Aloe Vera,Industrial/Other
+2129,Rice,Cereals & Millets
+2130,Wheat,Cereals & Millets
+2131,Maize,Cereals & Millets
+2132,Jowar,Cereals & Millets
+2133,Bajra,Cereals & Millets
+2134,Ragi,Cereals & Millets
+2135,Barley,Cereals & Millets
+2136,Foxtail Millet,Cereals & Millets
+2137,Little Millet,Cereals & Millets
+2138,Kodo Millet,Cereals & Millets
+2139,Proso Millet,Cereals & Millets
+2140,Chickpea,Pulses
+2141,Tur/Arhar,Pulses
+2142,Moong,Pulses
+2143,Urad,Pulses
+2144,Masur,Pulses
+2145,Cowpea,Pulses
+2146,Horse Gram,Pulses
+2147,Green Gram,Pulses
+2148,Groundnut,Oilseeds
+2149,Mustard,Oilseeds
+2150,Soybean,Oilseeds
+2151,Sesame,Oilseeds
+2152,Sunflower,Oilseeds
+2153,Castor,Oilseeds
+2154,Niger,Oilseeds
+2155,Mango,Fruits
+2156,Banana,Fruits
+2157,Papaya,Fruits
+2158,Guava,Fruits
+2159,Orange,Fruits
+2160,Apple,Fruits
+2161,Pineapple,Fruits
+2162,Pomegranate,Fruits
+2163,Grapes,Fruits
+2164,Watermelon,Fruits
+2165,Muskmelon,Fruits
+2166,Litchi,Fruits
+2167,Potato,Vegetables
+2168,Tomato,Vegetables
+2169,Brinjal,Vegetables
+2170,Okra,Vegetables
+2171,Cabbage,Vegetables
+2172,Cauliflower,Vegetables
+2173,Bottle gourd,Vegetables
+2174,Snake gourd,Vegetables
+2175,Peas,Vegetables
+2176,Spinach,Vegetables
+2177,Carrot,Vegetables
+2178,Beetroot,Vegetables
+2179,Radish,Vegetables
+2180,Onion,Vegetables
+2181,Garlic,Vegetables
+2182,Chilli,Vegetables
+2183,Turmeric,Spices
+2184,Black Pepper,Spices
+2185,Cardamom,Spices
+2186,Cumin,Spices
+2187,Coriander,Spices
+2188,Ginger,Spices
+2189,Cotton,Fibre Crops
+2190,Jute,Fibre Crops
+2191,Sunhemp,Fibre Crops
+2192,Sugarcane,Sugarcane
+2193,Berseem,Fodder
+2194,Napier Grass,Fodder
+2195,Lucerne,Fodder
+2196,Tea,Plantation
+2197,Coffee,Plantation
+2198,Rubber,Plantation
+2199,Coconut,Plantation
+2200,Tea,Beverage
+2201,Coffee,Beverage
+2202,Tobacco,Industrial/Other
+2203,Medicinal Plants,Industrial/Other
+2204,Aloe Vera,Industrial/Other
+2205,Rice,Cereals & Millets
+2206,Wheat,Cereals & Millets
+2207,Maize,Cereals & Millets
+2208,Jowar,Cereals & Millets
+2209,Bajra,Cereals & Millets
+2210,Ragi,Cereals & Millets
+2211,Barley,Cereals & Millets
+2212,Foxtail Millet,Cereals & Millets
+2213,Little Millet,Cereals & Millets
+2214,Kodo Millet,Cereals & Millets
+2215,Proso Millet,Cereals & Millets
+2216,Chickpea,Pulses
+2217,Tur/Arhar,Pulses
+2218,Moong,Pulses
+2219,Urad,Pulses
+2220,Masur,Pulses
+2221,Cowpea,Pulses
+2222,Horse Gram,Pulses
+2223,Green Gram,Pulses
+2224,Groundnut,Oilseeds
+2225,Mustard,Oilseeds
+2226,Soybean,Oilseeds
+2227,Sesame,Oilseeds
+2228,Sunflower,Oilseeds
+2229,Castor,Oilseeds
+2230,Niger,Oilseeds
+2231,Mango,Fruits
+2232,Banana,Fruits
+2233,Papaya,Fruits
+2234,Guava,Fruits
+2235,Orange,Fruits
+2236,Apple,Fruits
+2237,Pineapple,Fruits
+2238,Pomegranate,Fruits
+2239,Grapes,Fruits
+2240,Watermelon,Fruits
+2241,Muskmelon,Fruits
+2242,Litchi,Fruits
+2243,Potato,Vegetables
+2244,Tomato,Vegetables
+2245,Brinjal,Vegetables
+2246,Okra,Vegetables
+2247,Cabbage,Vegetables
+2248,Cauliflower,Vegetables
+2249,Bottle gourd,Vegetables
+2250,Snake gourd,Vegetables
+2251,Peas,Vegetables
+2252,Spinach,Vegetables
+2253,Carrot,Vegetables
+2254,Beetroot,Vegetables
+2255,Radish,Vegetables
+2256,Onion,Vegetables
+2257,Garlic,Vegetables
+2258,Chilli,Vegetables
+2259,Turmeric,Spices
+2260,Black Pepper,Spices
+2261,Cardamom,Spices
+2262,Cumin,Spices
+2263,Coriander,Spices
+2264,Ginger,Spices
+2265,Cotton,Fibre Crops
+2266,Jute,Fibre Crops
+2267,Sunhemp,Fibre Crops
+2268,Sugarcane,Sugarcane
+2269,Berseem,Fodder
+2270,Napier Grass,Fodder
+2271,Lucerne,Fodder
+2272,Tea,Plantation
+2273,Coffee,Plantation
+2274,Rubber,Plantation
+2275,Coconut,Plantation
+2276,Tea,Beverage
+2277,Coffee,Beverage
+2278,Tobacco,Industrial/Other
+2279,Medicinal Plants,Industrial/Other
+2280,Aloe Vera,Industrial/Other
+2281,Rice,Cereals & Millets
+2282,Wheat,Cereals & Millets
+2283,Maize,Cereals & Millets
+2284,Jowar,Cereals & Millets
+2285,Bajra,Cereals & Millets
+2286,Ragi,Cereals & Millets
+2287,Barley,Cereals & Millets
+2288,Foxtail Millet,Cereals & Millets
+2289,Little Millet,Cereals & Millets
+2290,Kodo Millet,Cereals & Millets
+2291,Proso Millet,Cereals & Millets
+2292,Chickpea,Pulses
+2293,Tur/Arhar,Pulses
+2294,Moong,Pulses
+2295,Urad,Pulses
+2296,Masur,Pulses
+2297,Cowpea,Pulses
+2298,Horse Gram,Pulses
+2299,Green Gram,Pulses
+2300,Groundnut,Oilseeds
+2301,Mustard,Oilseeds
+2302,Soybean,Oilseeds
+2303,Sesame,Oilseeds
+2304,Sunflower,Oilseeds
+2305,Castor,Oilseeds
+2306,Niger,Oilseeds
+2307,Mango,Fruits
+2308,Banana,Fruits
+2309,Papaya,Fruits
+2310,Guava,Fruits
+2311,Orange,Fruits
+2312,Apple,Fruits
+2313,Pineapple,Fruits
+2314,Pomegranate,Fruits
+2315,Grapes,Fruits
+2316,Watermelon,Fruits
+2317,Muskmelon,Fruits
+2318,Litchi,Fruits
+2319,Potato,Vegetables
+2320,Tomato,Vegetables
+2321,Brinjal,Vegetables
+2322,Okra,Vegetables
+2323,Cabbage,Vegetables
+2324,Cauliflower,Vegetables
+2325,Bottle gourd,Vegetables
+2326,Snake gourd,Vegetables
+2327,Peas,Vegetables
+2328,Spinach,Vegetables
+2329,Carrot,Vegetables
+2330,Beetroot,Vegetables
+2331,Radish,Vegetables
+2332,Onion,Vegetables
+2333,Garlic,Vegetables
+2334,Chilli,Vegetables
+2335,Turmeric,Spices
+2336,Black Pepper,Spices
+2337,Cardamom,Spices
+2338,Cumin,Spices
+2339,Coriander,Spices
+2340,Ginger,Spices
+2341,Cotton,Fibre Crops
+2342,Jute,Fibre Crops
+2343,Sunhemp,Fibre Crops
+2344,Sugarcane,Sugarcane
+2345,Berseem,Fodder
+2346,Napier Grass,Fodder
+2347,Lucerne,Fodder
+2348,Tea,Plantation
+2349,Coffee,Plantation
+2350,Rubber,Plantation
+2351,Coconut,Plantation
+2352,Tea,Beverage
+2353,Coffee,Beverage
+2354,Tobacco,Industrial/Other
+2355,Medicinal Plants,Industrial/Other
+2356,Aloe Vera,Industrial/Other
+2357,Rice,Cereals & Millets
+2358,Wheat,Cereals & Millets
+2359,Maize,Cereals & Millets
+2360,Jowar,Cereals & Millets
+2361,Bajra,Cereals & Millets
+2362,Ragi,Cereals & Millets
+2363,Barley,Cereals & Millets
+2364,Foxtail Millet,Cereals & Millets
+2365,Little Millet,Cereals & Millets
+2366,Kodo Millet,Cereals & Millets
+2367,Proso Millet,Cereals & Millets
+2368,Chickpea,Pulses
+2369,Tur/Arhar,Pulses
+2370,Moong,Pulses
+2371,Urad,Pulses
+2372,Masur,Pulses
+2373,Cowpea,Pulses
+2374,Horse Gram,Pulses
+2375,Green Gram,Pulses
+2376,Groundnut,Oilseeds
+2377,Mustard,Oilseeds
+2378,Soybean,Oilseeds
+2379,Sesame,Oilseeds
+2380,Sunflower,Oilseeds
+2381,Castor,Oilseeds
+2382,Niger,Oilseeds
+2383,Mango,Fruits
+2384,Banana,Fruits
+2385,Papaya,Fruits
+2386,Guava,Fruits
+2387,Orange,Fruits
+2388,Apple,Fruits
+2389,Pineapple,Fruits
+2390,Pomegranate,Fruits
+2391,Grapes,Fruits
+2392,Watermelon,Fruits
+2393,Muskmelon,Fruits
+2394,Litchi,Fruits
+2395,Potato,Vegetables
+2396,Tomato,Vegetables
+2397,Brinjal,Vegetables
+2398,Okra,Vegetables
+2399,Cabbage,Vegetables
+2400,Cauliflower,Vegetables
+2401,Bottle gourd,Vegetables
+2402,Snake gourd,Vegetables
+2403,Peas,Vegetables
+2404,Spinach,Vegetables
+2405,Carrot,Vegetables
+2406,Beetroot,Vegetables
+2407,Radish,Vegetables
+2408,Onion,Vegetables
+2409,Garlic,Vegetables
+2410,Chilli,Vegetables
+2411,Turmeric,Spices
+2412,Black Pepper,Spices
+2413,Cardamom,Spices
+2414,Cumin,Spices
+2415,Coriander,Spices
+2416,Ginger,Spices
+2417,Cotton,Fibre Crops
+2418,Jute,Fibre Crops
+2419,Sunhemp,Fibre Crops
+2420,Sugarcane,Sugarcane
+2421,Berseem,Fodder
+2422,Napier Grass,Fodder
+2423,Lucerne,Fodder
+2424,Tea,Plantation
+2425,Coffee,Plantation
+2426,Rubber,Plantation
+2427,Coconut,Plantation
+2428,Tea,Beverage
+2429,Coffee,Beverage
+2430,Tobacco,Industrial/Other
+2431,Medicinal Plants,Industrial/Other
+2432,Aloe Vera,Industrial/Other
+2433,Rice,Cereals & Millets
+2434,Wheat,Cereals & Millets
+2435,Maize,Cereals & Millets
+2436,Jowar,Cereals & Millets
+2437,Bajra,Cereals & Millets
+2438,Ragi,Cereals & Millets
+2439,Barley,Cereals & Millets
+2440,Foxtail Millet,Cereals & Millets
+2441,Little Millet,Cereals & Millets
+2442,Kodo Millet,Cereals & Millets
+2443,Proso Millet,Cereals & Millets
+2444,Chickpea,Pulses
+2445,Tur/Arhar,Pulses
+2446,Moong,Pulses
+2447,Urad,Pulses
+2448,Masur,Pulses
+2449,Cowpea,Pulses
+2450,Horse Gram,Pulses
+2451,Green Gram,Pulses
+2452,Groundnut,Oilseeds
+2453,Mustard,Oilseeds
+2454,Soybean,Oilseeds
+2455,Sesame,Oilseeds
+2456,Sunflower,Oilseeds
+2457,Castor,Oilseeds
+2458,Niger,Oilseeds
+2459,Mango,Fruits
+2460,Banana,Fruits
+2461,Papaya,Fruits
+2462,Guava,Fruits
+2463,Orange,Fruits
+2464,Apple,Fruits
+2465,Pineapple,Fruits
+2466,Pomegranate,Fruits
+2467,Grapes,Fruits
+2468,Watermelon,Fruits
+2469,Muskmelon,Fruits
+2470,Litchi,Fruits
+2471,Potato,Vegetables
+2472,Tomato,Vegetables
+2473,Brinjal,Vegetables
+2474,Okra,Vegetables
+2475,Cabbage,Vegetables
+2476,Cauliflower,Vegetables
+2477,Bottle gourd,Vegetables
+2478,Snake gourd,Vegetables
+2479,Peas,Vegetables
+2480,Spinach,Vegetables
+2481,Carrot,Vegetables
+2482,Beetroot,Vegetables
+2483,Radish,Vegetables
+2484,Onion,Vegetables
+2485,Garlic,Vegetables
+2486,Chilli,Vegetables
+2487,Turmeric,Spices
+2488,Black Pepper,Spices
+2489,Cardamom,Spices
+2490,Cumin,Spices
+2491,Coriander,Spices
+2492,Ginger,Spices
+2493,Cotton,Fibre Crops
+2494,Jute,Fibre Crops
+2495,Sunhemp,Fibre Crops
+2496,Sugarcane,Sugarcane
+2497,Berseem,Fodder
+2498,Napier Grass,Fodder
+2499,Lucerne,Fodder
+2500,Tea,Plantation
+2501,Coffee,Plantation
+2502,Rubber,Plantation
+2503,Coconut,Plantation
+2504,Tea,Beverage
+2505,Coffee,Beverage
+2506,Tobacco,Industrial/Other
+2507,Medicinal Plants,Industrial/Other
+2508,Aloe Vera,Industrial/Other
+2509,Rice,Cereals & Millets
+2510,Wheat,Cereals & Millets
+2511,Maize,Cereals & Millets
+2512,Jowar,Cereals & Millets
+2513,Bajra,Cereals & Millets
+2514,Ragi,Cereals & Millets
+2515,Barley,Cereals & Millets
+2516,Foxtail Millet,Cereals & Millets
+2517,Little Millet,Cereals & Millets
+2518,Kodo Millet,Cereals & Millets
+2519,Proso Millet,Cereals & Millets
+2520,Chickpea,Pulses
+2521,Tur/Arhar,Pulses
+2522,Moong,Pulses
+2523,Urad,Pulses
+2524,Masur,Pulses
+2525,Cowpea,Pulses
+2526,Horse Gram,Pulses
+2527,Green Gram,Pulses
+2528,Groundnut,Oilseeds
+2529,Mustard,Oilseeds
+2530,Soybean,Oilseeds
+2531,Sesame,Oilseeds
+2532,Sunflower,Oilseeds
+2533,Castor,Oilseeds
+2534,Niger,Oilseeds
+2535,Mango,Fruits
+2536,Banana,Fruits
+2537,Papaya,Fruits
+2538,Guava,Fruits
+2539,Orange,Fruits
+2540,Apple,Fruits
+2541,Pineapple,Fruits
+2542,Pomegranate,Fruits
+2543,Grapes,Fruits
+2544,Watermelon,Fruits
+2545,Muskmelon,Fruits
+2546,Litchi,Fruits
+2547,Potato,Vegetables
+2548,Tomato,Vegetables
+2549,Brinjal,Vegetables
+2550,Okra,Vegetables
+2551,Cabbage,Vegetables
+2552,Cauliflower,Vegetables
+2553,Bottle gourd,Vegetables
+2554,Snake gourd,Vegetables
+2555,Peas,Vegetables
+2556,Spinach,Vegetables
+2557,Carrot,Vegetables
+2558,Beetroot,Vegetables
+2559,Radish,Vegetables
+2560,Onion,Vegetables
+2561,Garlic,Vegetables
+2562,Chilli,Vegetables
+2563,Turmeric,Spices
+2564,Black Pepper,Spices
+2565,Cardamom,Spices
+2566,Cumin,Spices
+2567,Coriander,Spices
+2568,Ginger,Spices
+2569,Cotton,Fibre Crops
+2570,Jute,Fibre Crops
+2571,Sunhemp,Fibre Crops
+2572,Sugarcane,Sugarcane
+2573,Berseem,Fodder
+2574,Napier Grass,Fodder
+2575,Lucerne,Fodder
+2576,Tea,Plantation
+2577,Coffee,Plantation
+2578,Rubber,Plantation
+2579,Coconut,Plantation
+2580,Tea,Beverage
+2581,Coffee,Beverage
+2582,Tobacco,Industrial/Other
+2583,Medicinal Plants,Industrial/Other
+2584,Aloe Vera,Industrial/Other
+2585,Rice,Cereals & Millets
+2586,Wheat,Cereals & Millets
+2587,Maize,Cereals & Millets
+2588,Jowar,Cereals & Millets
+2589,Bajra,Cereals & Millets
+2590,Ragi,Cereals & Millets
+2591,Barley,Cereals & Millets
+2592,Foxtail Millet,Cereals & Millets
+2593,Little Millet,Cereals & Millets
+2594,Kodo Millet,Cereals & Millets
+2595,Proso Millet,Cereals & Millets
+2596,Chickpea,Pulses
+2597,Tur/Arhar,Pulses
+2598,Moong,Pulses
+2599,Urad,Pulses
+2600,Masur,Pulses
+2601,Cowpea,Pulses
+2602,Horse Gram,Pulses
+2603,Green Gram,Pulses
+2604,Groundnut,Oilseeds
+2605,Mustard,Oilseeds
+2606,Soybean,Oilseeds
+2607,Sesame,Oilseeds
+2608,Sunflower,Oilseeds
+2609,Castor,Oilseeds
+2610,Niger,Oilseeds
+2611,Mango,Fruits
+2612,Banana,Fruits
+2613,Papaya,Fruits
+2614,Guava,Fruits
+2615,Orange,Fruits
+2616,Apple,Fruits
+2617,Pineapple,Fruits
+2618,Pomegranate,Fruits
+2619,Grapes,Fruits
+2620,Watermelon,Fruits
+2621,Muskmelon,Fruits
+2622,Litchi,Fruits
+2623,Potato,Vegetables
+2624,Tomato,Vegetables
+2625,Brinjal,Vegetables
+2626,Okra,Vegetables
+2627,Cabbage,Vegetables
+2628,Cauliflower,Vegetables
+2629,Bottle gourd,Vegetables
+2630,Snake gourd,Vegetables
+2631,Peas,Vegetables
+2632,Spinach,Vegetables
+2633,Carrot,Vegetables
+2634,Beetroot,Vegetables
+2635,Radish,Vegetables
+2636,Onion,Vegetables
+2637,Garlic,Vegetables
+2638,Chilli,Vegetables
+2639,Turmeric,Spices
+2640,Black Pepper,Spices
+2641,Cardamom,Spices
+2642,Cumin,Spices
+2643,Coriander,Spices
+2644,Ginger,Spices
+2645,Cotton,Fibre Crops
+2646,Jute,Fibre Crops
+2647,Sunhemp,Fibre Crops
+2648,Sugarcane,Sugarcane
+2649,Berseem,Fodder
+2650,Napier Grass,Fodder
+2651,Lucerne,Fodder
+2652,Tea,Plantation
+2653,Coffee,Plantation
+2654,Rubber,Plantation
+2655,Coconut,Plantation
+2656,Tea,Beverage
+2657,Coffee,Beverage
+2658,Tobacco,Industrial/Other
+2659,Medicinal Plants,Industrial/Other
+2660,Aloe Vera,Industrial/Other
+2661,Rice,Cereals & Millets
+2662,Wheat,Cereals & Millets
+2663,Maize,Cereals & Millets
+2664,Jowar,Cereals & Millets
+2665,Bajra,Cereals & Millets
+2666,Ragi,Cereals & Millets
+2667,Barley,Cereals & Millets
+2668,Foxtail Millet,Cereals & Millets
+2669,Little Millet,Cereals & Millets
+2670,Kodo Millet,Cereals & Millets
+2671,Proso Millet,Cereals & Millets
+2672,Chickpea,Pulses
+2673,Tur/Arhar,Pulses
+2674,Moong,Pulses
+2675,Urad,Pulses
+2676,Masur,Pulses
+2677,Cowpea,Pulses
+2678,Horse Gram,Pulses
+2679,Green Gram,Pulses
+2680,Groundnut,Oilseeds
+2681,Mustard,Oilseeds
+2682,Soybean,Oilseeds
+2683,Sesame,Oilseeds
+2684,Sunflower,Oilseeds
+2685,Castor,Oilseeds
+2686,Niger,Oilseeds
+2687,Mango,Fruits
+2688,Banana,Fruits
+2689,Papaya,Fruits
+2690,Guava,Fruits
+2691,Orange,Fruits
+2692,Apple,Fruits
+2693,Pineapple,Fruits
+2694,Pomegranate,Fruits
+2695,Grapes,Fruits
+2696,Watermelon,Fruits
+2697,Muskmelon,Fruits
+2698,Litchi,Fruits
+2699,Potato,Vegetables
+2700,Tomato,Vegetables
+2701,Brinjal,Vegetables
+2702,Okra,Vegetables
+2703,Cabbage,Vegetables
+2704,Cauliflower,Vegetables
+2705,Bottle gourd,Vegetables
+2706,Snake gourd,Vegetables
+2707,Peas,Vegetables
+2708,Spinach,Vegetables
+2709,Carrot,Vegetables
+2710,Beetroot,Vegetables
+2711,Radish,Vegetables
+2712,Onion,Vegetables
+2713,Garlic,Vegetables
+2714,Chilli,Vegetables
+2715,Turmeric,Spices
+2716,Black Pepper,Spices
+2717,Cardamom,Spices
+2718,Cumin,Spices
+2719,Coriander,Spices
+2720,Ginger,Spices
+2721,Cotton,Fibre Crops
+2722,Jute,Fibre Crops
+2723,Sunhemp,Fibre Crops
+2724,Sugarcane,Sugarcane
+2725,Berseem,Fodder
+2726,Napier Grass,Fodder
+2727,Lucerne,Fodder
+2728,Tea,Plantation
+2729,Coffee,Plantation
+2730,Rubber,Plantation
+2731,Coconut,Plantation
+2732,Tea,Beverage
+2733,Coffee,Beverage
+2734,Tobacco,Industrial/Other
+2735,Medicinal Plants,Industrial/Other
+2736,Aloe Vera,Industrial/Other
+2737,Rice,Cereals & Millets
+2738,Wheat,Cereals & Millets
+2739,Maize,Cereals & Millets
+2740,Jowar,Cereals & Millets
+2741,Bajra,Cereals & Millets
+2742,Ragi,Cereals & Millets
+2743,Barley,Cereals & Millets
+2744,Foxtail Millet,Cereals & Millets
+2745,Little Millet,Cereals & Millets
+2746,Kodo Millet,Cereals & Millets
+2747,Proso Millet,Cereals & Millets
+2748,Chickpea,Pulses
+2749,Tur/Arhar,Pulses
+2750,Moong,Pulses
+2751,Urad,Pulses
+2752,Masur,Pulses
+2753,Cowpea,Pulses
+2754,Horse Gram,Pulses
+2755,Green Gram,Pulses
+2756,Groundnut,Oilseeds
+2757,Mustard,Oilseeds
+2758,Soybean,Oilseeds
+2759,Sesame,Oilseeds
+2760,Sunflower,Oilseeds
+2761,Castor,Oilseeds
+2762,Niger,Oilseeds
+2763,Mango,Fruits
+2764,Banana,Fruits
+2765,Papaya,Fruits
+2766,Guava,Fruits
+2767,Orange,Fruits
+2768,Apple,Fruits
+2769,Pineapple,Fruits
+2770,Pomegranate,Fruits
+2771,Grapes,Fruits
+2772,Watermelon,Fruits
+2773,Muskmelon,Fruits
+2774,Litchi,Fruits
+2775,Potato,Vegetables
+2776,Tomato,Vegetables
+2777,Brinjal,Vegetables
+2778,Okra,Vegetables
+2779,Cabbage,Vegetables
+2780,Cauliflower,Vegetables
+2781,Bottle gourd,Vegetables
+2782,Snake gourd,Vegetables
+2783,Peas,Vegetables
+2784,Spinach,Vegetables
+2785,Carrot,Vegetables
+2786,Beetroot,Vegetables
+2787,Radish,Vegetables
+2788,Onion,Vegetables
+2789,Garlic,Vegetables
+2790,Chilli,Vegetables
+2791,Turmeric,Spices
+2792,Black Pepper,Spices
+2793,Cardamom,Spices
+2794,Cumin,Spices
+2795,Coriander,Spices
+2796,Ginger,Spices
+2797,Cotton,Fibre Crops
+2798,Jute,Fibre Crops
+2799,Sunhemp,Fibre Crops
+2800,Sugarcane,Sugarcane
+2801,Berseem,Fodder
+2802,Napier Grass,Fodder
+2803,Lucerne,Fodder
+2804,Tea,Plantation
+2805,Coffee,Plantation
+2806,Rubber,Plantation
+2807,Coconut,Plantation
+2808,Tea,Beverage
+2809,Coffee,Beverage
+2810,Tobacco,Industrial/Other
+2811,Medicinal Plants,Industrial/Other
+2812,Aloe Vera,Industrial/Other
+2813,Rice,Cereals & Millets
+2814,Wheat,Cereals & Millets
+2815,Maize,Cereals & Millets
+2816,Jowar,Cereals & Millets
+2817,Bajra,Cereals & Millets
+2818,Ragi,Cereals & Millets
+2819,Barley,Cereals & Millets
+2820,Foxtail Millet,Cereals & Millets
+2821,Little Millet,Cereals & Millets
+2822,Kodo Millet,Cereals & Millets
+2823,Proso Millet,Cereals & Millets
+2824,Chickpea,Pulses
+2825,Tur/Arhar,Pulses
+2826,Moong,Pulses
+2827,Urad,Pulses
+2828,Masur,Pulses
+2829,Cowpea,Pulses
+2830,Horse Gram,Pulses
+2831,Green Gram,Pulses
+2832,Groundnut,Oilseeds
+2833,Mustard,Oilseeds
+2834,Soybean,Oilseeds
+2835,Sesame,Oilseeds
+2836,Sunflower,Oilseeds
+2837,Castor,Oilseeds
+2838,Niger,Oilseeds
+2839,Mango,Fruits
+2840,Banana,Fruits
+2841,Papaya,Fruits
+2842,Guava,Fruits
+2843,Orange,Fruits
+2844,Apple,Fruits
+2845,Pineapple,Fruits
+2846,Pomegranate,Fruits
+2847,Grapes,Fruits
+2848,Watermelon,Fruits
+2849,Muskmelon,Fruits
+2850,Litchi,Fruits
+2851,Potato,Vegetables
+2852,Tomato,Vegetables
+2853,Brinjal,Vegetables
+2854,Okra,Vegetables
+2855,Cabbage,Vegetables
+2856,Cauliflower,Vegetables
+2857,Bottle gourd,Vegetables
+2858,Snake gourd,Vegetables
+2859,Peas,Vegetables
+2860,Spinach,Vegetables
+2861,Carrot,Vegetables
+2862,Beetroot,Vegetables
+2863,Radish,Vegetables
+2864,Onion,Vegetables
+2865,Garlic,Vegetables
+2866,Chilli,Vegetables
+2867,Turmeric,Spices
+2868,Black Pepper,Spices
+2869,Cardamom,Spices
+2870,Cumin,Spices
+2871,Coriander,Spices
+2872,Ginger,Spices
+2873,Cotton,Fibre Crops
+2874,Jute,Fibre Crops
+2875,Sunhemp,Fibre Crops
+2876,Sugarcane,Sugarcane
+2877,Berseem,Fodder
+2878,Napier Grass,Fodder
+2879,Lucerne,Fodder
+2880,Tea,Plantation
+2881,Coffee,Plantation
+2882,Rubber,Plantation
+2883,Coconut,Plantation
+2884,Tea,Beverage
+2885,Coffee,Beverage
+2886,Tobacco,Industrial/Other
+2887,Medicinal Plants,Industrial/Other
+2888,Aloe Vera,Industrial/Other
+2889,Rice,Cereals & Millets
+2890,Wheat,Cereals & Millets
+2891,Maize,Cereals & Millets
+2892,Jowar,Cereals & Millets
+2893,Bajra,Cereals & Millets
+2894,Ragi,Cereals & Millets
+2895,Barley,Cereals & Millets
+2896,Foxtail Millet,Cereals & Millets
+2897,Little Millet,Cereals & Millets
+2898,Kodo Millet,Cereals & Millets
+2899,Proso Millet,Cereals & Millets
+2900,Chickpea,Pulses
+2901,Tur/Arhar,Pulses
+2902,Moong,Pulses
+2903,Urad,Pulses
+2904,Masur,Pulses
+2905,Cowpea,Pulses
+2906,Horse Gram,Pulses
+2907,Green Gram,Pulses
+2908,Groundnut,Oilseeds
+2909,Mustard,Oilseeds
+2910,Soybean,Oilseeds
+2911,Sesame,Oilseeds
+2912,Sunflower,Oilseeds
+2913,Castor,Oilseeds
+2914,Niger,Oilseeds
+2915,Mango,Fruits
+2916,Banana,Fruits
+2917,Papaya,Fruits
+2918,Guava,Fruits
+2919,Orange,Fruits
+2920,Apple,Fruits
+2921,Pineapple,Fruits
+2922,Pomegranate,Fruits
+2923,Grapes,Fruits
+2924,Watermelon,Fruits
+2925,Muskmelon,Fruits
+2926,Litchi,Fruits
+2927,Potato,Vegetables
+2928,Tomato,Vegetables
+2929,Brinjal,Vegetables
+2930,Okra,Vegetables
+2931,Cabbage,Vegetables
+2932,Cauliflower,Vegetables
+2933,Bottle gourd,Vegetables
+2934,Snake gourd,Vegetables
+2935,Peas,Vegetables
+2936,Spinach,Vegetables
+2937,Carrot,Vegetables
+2938,Beetroot,Vegetables
+2939,Radish,Vegetables
+2940,Onion,Vegetables
+2941,Garlic,Vegetables
+2942,Chilli,Vegetables
+2943,Turmeric,Spices
+2944,Black Pepper,Spices
+2945,Cardamom,Spices
+2946,Cumin,Spices
+2947,Coriander,Spices
+2948,Ginger,Spices
+2949,Cotton,Fibre Crops
+2950,Jute,Fibre Crops
+2951,Sunhemp,Fibre Crops
+2952,Sugarcane,Sugarcane
+2953,Berseem,Fodder
+2954,Napier Grass,Fodder
+2955,Lucerne,Fodder
+2956,Tea,Plantation
+2957,Coffee,Plantation
+2958,Rubber,Plantation
+2959,Coconut,Plantation
+2960,Tea,Beverage
+2961,Coffee,Beverage
+2962,Tobacco,Industrial/Other
+2963,Medicinal Plants,Industrial/Other
+2964,Aloe Vera,Industrial/Other
+2965,Rice,Cereals & Millets
+2966,Wheat,Cereals & Millets
+2967,Maize,Cereals & Millets
+2968,Jowar,Cereals & Millets
+2969,Bajra,Cereals & Millets
+2970,Ragi,Cereals & Millets
+2971,Barley,Cereals & Millets
+2972,Foxtail Millet,Cereals & Millets
+2973,Little Millet,Cereals & Millets
+2974,Kodo Millet,Cereals & Millets
+2975,Proso Millet,Cereals & Millets
+2976,Chickpea,Pulses
+2977,Tur/Arhar,Pulses
+2978,Moong,Pulses
+2979,Urad,Pulses
+2980,Masur,Pulses
+2981,Cowpea,Pulses
+2982,Horse Gram,Pulses
+2983,Green Gram,Pulses
+2984,Groundnut,Oilseeds
+2985,Mustard,Oilseeds
+2986,Soybean,Oilseeds
+2987,Sesame,Oilseeds
+2988,Sunflower,Oilseeds
+2989,Castor,Oilseeds
+2990,Niger,Oilseeds
+2991,Mango,Fruits
+2992,Banana,Fruits
+2993,Papaya,Fruits
+2994,Guava,Fruits
+2995,Orange,Fruits
+2996,Apple,Fruits
+2997,Pineapple,Fruits
+2998,Pomegranate,Fruits
+2999,Grapes,Fruits
+3000,Watermelon,Fruits
+3001,Muskmelon,Fruits
+3002,Litchi,Fruits
+3003,Potato,Vegetables
+3004,Tomato,Vegetables
+3005,Brinjal,Vegetables
+3006,Okra,Vegetables
+3007,Cabbage,Vegetables
+3008,Cauliflower,Vegetables
+3009,Bottle gourd,Vegetables
+3010,Snake gourd,Vegetables
+3011,Peas,Vegetables
+3012,Spinach,Vegetables
+3013,Carrot,Vegetables
+3014,Beetroot,Vegetables
+3015,Radish,Vegetables
+3016,Onion,Vegetables
+3017,Garlic,Vegetables
+3018,Chilli,Vegetables
+3019,Turmeric,Spices
+3020,Black Pepper,Spices
+3021,Cardamom,Spices
+3022,Cumin,Spices
+3023,Coriander,Spices
+3024,Ginger,Spices
+3025,Cotton,Fibre Crops
+3026,Jute,Fibre Crops
+3027,Sunhemp,Fibre Crops
+3028,Sugarcane,Sugarcane
+3029,Berseem,Fodder
+3030,Napier Grass,Fodder
+3031,Lucerne,Fodder
+3032,Tea,Plantation
+3033,Coffee,Plantation
+3034,Rubber,Plantation
+3035,Coconut,Plantation
+3036,Tea,Beverage
+3037,Coffee,Beverage
+3038,Tobacco,Industrial/Other
+3039,Medicinal Plants,Industrial/Other
+3040,Aloe Vera,Industrial/Other
+3041,Rice,Cereals & Millets
+3042,Wheat,Cereals & Millets
+3043,Maize,Cereals & Millets
+3044,Jowar,Cereals & Millets
+3045,Bajra,Cereals & Millets
+3046,Ragi,Cereals & Millets
+3047,Barley,Cereals & Millets
+3048,Foxtail Millet,Cereals & Millets
+3049,Little Millet,Cereals & Millets
+3050,Kodo Millet,Cereals & Millets
+3051,Proso Millet,Cereals & Millets
+3052,Chickpea,Pulses
+3053,Tur/Arhar,Pulses
+3054,Moong,Pulses
+3055,Urad,Pulses
+3056,Masur,Pulses
+3057,Cowpea,Pulses
+3058,Horse Gram,Pulses
+3059,Green Gram,Pulses
+3060,Groundnut,Oilseeds
+3061,Mustard,Oilseeds
+3062,Soybean,Oilseeds
+3063,Sesame,Oilseeds
+3064,Sunflower,Oilseeds
+3065,Castor,Oilseeds
+3066,Niger,Oilseeds
+3067,Mango,Fruits
+3068,Banana,Fruits
+3069,Papaya,Fruits
+3070,Guava,Fruits
+3071,Orange,Fruits
+3072,Apple,Fruits
+3073,Pineapple,Fruits
+3074,Pomegranate,Fruits
+3075,Grapes,Fruits
+3076,Watermelon,Fruits
+3077,Muskmelon,Fruits
+3078,Litchi,Fruits
+3079,Potato,Vegetables
+3080,Tomato,Vegetables
+3081,Brinjal,Vegetables
+3082,Okra,Vegetables
+3083,Cabbage,Vegetables
+3084,Cauliflower,Vegetables
+3085,Bottle gourd,Vegetables
+3086,Snake gourd,Vegetables
+3087,Peas,Vegetables
+3088,Spinach,Vegetables
+3089,Carrot,Vegetables
+3090,Beetroot,Vegetables
+3091,Radish,Vegetables
+3092,Onion,Vegetables
+3093,Garlic,Vegetables
+3094,Chilli,Vegetables
+3095,Turmeric,Spices
+3096,Black Pepper,Spices
+3097,Cardamom,Spices
+3098,Cumin,Spices
+3099,Coriander,Spices
+3100,Ginger,Spices
+3101,Cotton,Fibre Crops
+3102,Jute,Fibre Crops
+3103,Sunhemp,Fibre Crops
+3104,Sugarcane,Sugarcane
+3105,Berseem,Fodder
+3106,Napier Grass,Fodder
+3107,Lucerne,Fodder
+3108,Tea,Plantation
+3109,Coffee,Plantation
+3110,Rubber,Plantation
+3111,Coconut,Plantation
+3112,Tea,Beverage
+3113,Coffee,Beverage
+3114,Tobacco,Industrial/Other
+3115,Medicinal Plants,Industrial/Other
+3116,Aloe Vera,Industrial/Other
+3117,Rice,Cereals & Millets
+3118,Wheat,Cereals & Millets
+3119,Maize,Cereals & Millets
+3120,Jowar,Cereals & Millets
+3121,Bajra,Cereals & Millets
+3122,Ragi,Cereals & Millets
+3123,Barley,Cereals & Millets
+3124,Foxtail Millet,Cereals & Millets
+3125,Little Millet,Cereals & Millets
+3126,Kodo Millet,Cereals & Millets
+3127,Proso Millet,Cereals & Millets
+3128,Chickpea,Pulses
+3129,Tur/Arhar,Pulses
+3130,Moong,Pulses
+3131,Urad,Pulses
+3132,Masur,Pulses
+3133,Cowpea,Pulses
+3134,Horse Gram,Pulses
+3135,Green Gram,Pulses
+3136,Groundnut,Oilseeds
+3137,Mustard,Oilseeds
+3138,Soybean,Oilseeds
+3139,Sesame,Oilseeds
+3140,Sunflower,Oilseeds
+3141,Castor,Oilseeds
+3142,Niger,Oilseeds
+3143,Mango,Fruits
+3144,Banana,Fruits
+3145,Papaya,Fruits
+3146,Guava,Fruits
+3147,Orange,Fruits
+3148,Apple,Fruits
+3149,Pineapple,Fruits
+3150,Pomegranate,Fruits
+3151,Grapes,Fruits
+3152,Watermelon,Fruits
+3153,Muskmelon,Fruits
+3154,Litchi,Fruits
+3155,Potato,Vegetables
+3156,Tomato,Vegetables
+3157,Brinjal,Vegetables
+3158,Okra,Vegetables
+3159,Cabbage,Vegetables
+3160,Cauliflower,Vegetables
+3161,Bottle gourd,Vegetables
+3162,Snake gourd,Vegetables
+3163,Peas,Vegetables
+3164,Spinach,Vegetables
+3165,Carrot,Vegetables
+3166,Beetroot,Vegetables
+3167,Radish,Vegetables
+3168,Onion,Vegetables
+3169,Garlic,Vegetables
+3170,Chilli,Vegetables
+3171,Turmeric,Spices
+3172,Black Pepper,Spices
+3173,Cardamom,Spices
+3174,Cumin,Spices
+3175,Coriander,Spices
+3176,Ginger,Spices
+3177,Cotton,Fibre Crops
+3178,Jute,Fibre Crops
+3179,Sunhemp,Fibre Crops
+3180,Sugarcane,Sugarcane
+3181,Berseem,Fodder
+3182,Napier Grass,Fodder
+3183,Lucerne,Fodder
+3184,Tea,Plantation
+3185,Coffee,Plantation
+3186,Rubber,Plantation
+3187,Coconut,Plantation
+3188,Tea,Beverage
+3189,Coffee,Beverage
+3190,Tobacco,Industrial/Other
+3191,Medicinal Plants,Industrial/Other
+3192,Aloe Vera,Industrial/Other
+3193,Rice,Cereals & Millets
+3194,Wheat,Cereals & Millets
+3195,Maize,Cereals & Millets
+3196,Jowar,Cereals & Millets
+3197,Bajra,Cereals & Millets
+3198,Ragi,Cereals & Millets
+3199,Barley,Cereals & Millets
+3200,Foxtail Millet,Cereals & Millets
+3201,Little Millet,Cereals & Millets
+3202,Kodo Millet,Cereals & Millets
+3203,Proso Millet,Cereals & Millets
+3204,Chickpea,Pulses
+3205,Tur/Arhar,Pulses
+3206,Moong,Pulses
+3207,Urad,Pulses
+3208,Masur,Pulses
+3209,Cowpea,Pulses
+3210,Horse Gram,Pulses
+3211,Green Gram,Pulses
+3212,Groundnut,Oilseeds
+3213,Mustard,Oilseeds
+3214,Soybean,Oilseeds
+3215,Sesame,Oilseeds
+3216,Sunflower,Oilseeds
+3217,Castor,Oilseeds
+3218,Niger,Oilseeds
+3219,Mango,Fruits
+3220,Banana,Fruits
+3221,Papaya,Fruits
+3222,Guava,Fruits
+3223,Orange,Fruits
+3224,Apple,Fruits
+3225,Pineapple,Fruits
+3226,Pomegranate,Fruits
+3227,Grapes,Fruits
+3228,Watermelon,Fruits
+3229,Muskmelon,Fruits
+3230,Litchi,Fruits
+3231,Potato,Vegetables
+3232,Tomato,Vegetables
+3233,Brinjal,Vegetables
+3234,Okra,Vegetables
+3235,Cabbage,Vegetables
+3236,Cauliflower,Vegetables
+3237,Bottle gourd,Vegetables
+3238,Snake gourd,Vegetables
+3239,Peas,Vegetables
+3240,Spinach,Vegetables
+3241,Carrot,Vegetables
+3242,Beetroot,Vegetables
+3243,Radish,Vegetables
+3244,Onion,Vegetables
+3245,Garlic,Vegetables
+3246,Chilli,Vegetables
+3247,Turmeric,Spices
+3248,Black Pepper,Spices
+3249,Cardamom,Spices
+3250,Cumin,Spices
+3251,Coriander,Spices
+3252,Ginger,Spices
+3253,Cotton,Fibre Crops
+3254,Jute,Fibre Crops
+3255,Sunhemp,Fibre Crops
+3256,Sugarcane,Sugarcane
+3257,Berseem,Fodder
+3258,Napier Grass,Fodder
+3259,Lucerne,Fodder
+3260,Tea,Plantation
+3261,Coffee,Plantation
+3262,Rubber,Plantation
+3263,Coconut,Plantation
+3264,Tea,Beverage
+3265,Coffee,Beverage
+3266,Tobacco,Industrial/Other
+3267,Medicinal Plants,Industrial/Other
+3268,Aloe Vera,Industrial/Other
+3269,Rice,Cereals & Millets
+3270,Wheat,Cereals & Millets
+3271,Maize,Cereals & Millets
+3272,Jowar,Cereals & Millets
+3273,Bajra,Cereals & Millets
+3274,Ragi,Cereals & Millets
+3275,Barley,Cereals & Millets
+3276,Foxtail Millet,Cereals & Millets
+3277,Little Millet,Cereals & Millets
+3278,Kodo Millet,Cereals & Millets
+3279,Proso Millet,Cereals & Millets
+3280,Chickpea,Pulses
+3281,Tur/Arhar,Pulses
+3282,Moong,Pulses
+3283,Urad,Pulses
+3284,Masur,Pulses
+3285,Cowpea,Pulses
+3286,Horse Gram,Pulses
+3287,Green Gram,Pulses
+3288,Groundnut,Oilseeds
+3289,Mustard,Oilseeds
+3290,Soybean,Oilseeds
+3291,Sesame,Oilseeds
+3292,Sunflower,Oilseeds
+3293,Castor,Oilseeds
+3294,Niger,Oilseeds
+3295,Mango,Fruits
+3296,Banana,Fruits
+3297,Papaya,Fruits
+3298,Guava,Fruits
+3299,Orange,Fruits
+3300,Apple,Fruits
+3301,Pineapple,Fruits
+3302,Pomegranate,Fruits
+3303,Grapes,Fruits
+3304,Watermelon,Fruits
+3305,Muskmelon,Fruits
+3306,Litchi,Fruits
+3307,Potato,Vegetables
+3308,Tomato,Vegetables
+3309,Brinjal,Vegetables
+3310,Okra,Vegetables
+3311,Cabbage,Vegetables
+3312,Cauliflower,Vegetables
+3313,Bottle gourd,Vegetables
+3314,Snake gourd,Vegetables
+3315,Peas,Vegetables
+3316,Spinach,Vegetables
+3317,Carrot,Vegetables
+3318,Beetroot,Vegetables
+3319,Radish,Vegetables
+3320,Onion,Vegetables
+3321,Garlic,Vegetables
+3322,Chilli,Vegetables
+3323,Turmeric,Spices
+3324,Black Pepper,Spices
+3325,Cardamom,Spices
+3326,Cumin,Spices
+3327,Coriander,Spices
+3328,Ginger,Spices
+3329,Cotton,Fibre Crops
+3330,Jute,Fibre Crops
+3331,Sunhemp,Fibre Crops
+3332,Sugarcane,Sugarcane
+3333,Berseem,Fodder
+3334,Napier Grass,Fodder
+3335,Lucerne,Fodder
+3336,Tea,Plantation
+3337,Coffee,Plantation
+3338,Rubber,Plantation
+3339,Coconut,Plantation
+3340,Tea,Beverage
+3341,Coffee,Beverage
+3342,Tobacco,Industrial/Other
+3343,Medicinal Plants,Industrial/Other
+3344,Aloe Vera,Industrial/Other
+3345,Rice,Cereals & Millets
+3346,Wheat,Cereals & Millets
+3347,Maize,Cereals & Millets
+3348,Jowar,Cereals & Millets
+3349,Bajra,Cereals & Millets
+3350,Ragi,Cereals & Millets
+3351,Barley,Cereals & Millets
+3352,Foxtail Millet,Cereals & Millets
+3353,Little Millet,Cereals & Millets
+3354,Kodo Millet,Cereals & Millets
+3355,Proso Millet,Cereals & Millets
+3356,Chickpea,Pulses
+3357,Tur/Arhar,Pulses
+3358,Moong,Pulses
+3359,Urad,Pulses
+3360,Masur,Pulses
+3361,Cowpea,Pulses
+3362,Horse Gram,Pulses
+3363,Green Gram,Pulses
+3364,Groundnut,Oilseeds
+3365,Mustard,Oilseeds
+3366,Soybean,Oilseeds
+3367,Sesame,Oilseeds
+3368,Sunflower,Oilseeds
+3369,Castor,Oilseeds
+3370,Niger,Oilseeds
+3371,Mango,Fruits
+3372,Banana,Fruits
+3373,Papaya,Fruits
+3374,Guava,Fruits
+3375,Orange,Fruits
+3376,Apple,Fruits
+3377,Pineapple,Fruits
+3378,Pomegranate,Fruits
+3379,Grapes,Fruits
+3380,Watermelon,Fruits
+3381,Muskmelon,Fruits
+3382,Litchi,Fruits
+3383,Potato,Vegetables
+3384,Tomato,Vegetables
+3385,Brinjal,Vegetables
+3386,Okra,Vegetables
+3387,Cabbage,Vegetables
+3388,Cauliflower,Vegetables
+3389,Bottle gourd,Vegetables
+3390,Snake gourd,Vegetables
+3391,Peas,Vegetables
+3392,Spinach,Vegetables
+3393,Carrot,Vegetables
+3394,Beetroot,Vegetables
+3395,Radish,Vegetables
+3396,Onion,Vegetables
+3397,Garlic,Vegetables
+3398,Chilli,Vegetables
+3399,Turmeric,Spices
+3400,Black Pepper,Spices
+3401,Cardamom,Spices
+3402,Cumin,Spices
+3403,Coriander,Spices
+3404,Ginger,Spices
+3405,Cotton,Fibre Crops
+3406,Jute,Fibre Crops
+3407,Sunhemp,Fibre Crops
+3408,Sugarcane,Sugarcane
+3409,Berseem,Fodder
+3410,Napier Grass,Fodder
+3411,Lucerne,Fodder
+3412,Tea,Plantation
+3413,Coffee,Plantation
+3414,Rubber,Plantation
+3415,Coconut,Plantation
+3416,Tea,Beverage
+3417,Coffee,Beverage
+3418,Tobacco,Industrial/Other
+3419,Medicinal Plants,Industrial/Other
+3420,Aloe Vera,Industrial/Other
+3421,Rice,Cereals & Millets
+3422,Wheat,Cereals & Millets
+3423,Maize,Cereals & Millets
+3424,Jowar,Cereals & Millets
+3425,Bajra,Cereals & Millets
+3426,Ragi,Cereals & Millets
+3427,Barley,Cereals & Millets
+3428,Foxtail Millet,Cereals & Millets
+3429,Little Millet,Cereals & Millets
+3430,Kodo Millet,Cereals & Millets
+3431,Proso Millet,Cereals & Millets
+3432,Chickpea,Pulses
+3433,Tur/Arhar,Pulses
+3434,Moong,Pulses
+3435,Urad,Pulses
+3436,Masur,Pulses
+3437,Cowpea,Pulses
+3438,Horse Gram,Pulses
+3439,Green Gram,Pulses
+3440,Groundnut,Oilseeds
+3441,Mustard,Oilseeds
