@@ -1,0 +1,422 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>SQLite Agriculture — All-in-one</title>
+
+  <!-- sql.js (SQLite compiled to WASM) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.2/sql-wasm.js"></script>
+
+  <style>
+    :root{
+      --blue:#0b6cff; --muted:#666; --bg:#f4f7fb; --card:#fff; --mono: "Segoe UI", Arial, sans-serif;
+    }
+    body{font-family:var(--mono); background:var(--bg); margin:0; padding:18px}
+    .wrap{max-width:1150px; margin:0 auto}
+    .card{background:var(--card); border-radius:10px; padding:16px; box-shadow:0 8px 24px rgba(10,30,60,0.06); margin-bottom:14px}
+    h1{margin:0 0 6px; color:var(--blue)}
+    .row{display:flex; gap:12px; align-items:center}
+    .col{flex:1}
+    label{display:block; font-size:13px; color:var(--muted); margin-bottom:6px}
+    input[type="file"]{padding:8px}
+    select, textarea, input[type="text"]{width:100%; padding:8px; border-radius:8px; border:1px solid #dbe7fb; box-sizing:border-box}
+    textarea{min-height:100px; font-family:monospace}
+    button{background:var(--blue); color:#fff; border:none; padding:10px 14px; border-radius:8px; cursor:pointer}
+    button.ghost{background:#eee;color:#111}
+    .small{font-size:13px;color:var(--muted)}
+    table{width:100%; border-collapse:collapse; margin-top:12px; font-size:13px}
+    th,td{border:1px solid #e6eef8; padding:8px; text-align:left}
+    th{background:var(--blue); color:#fff; font-weight:600}
+    .controls{display:flex; gap:8px; flex-wrap:wrap}
+    .pill{display:inline-block;padding:6px 8px;background:#f1f7ff;border-radius:999px;margin:4px 4px 0 0;color:var(--muted);font-size:12px}
+    .right{margin-left:auto}
+    .split{display:grid; grid-template-columns: 1fr 420px; gap:14px}
+    @media(max-width:980px){ .split{grid-template-columns:1fr} }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>🍃 Agriculture DB — Instant</h1>
+      <div class="small">Single file. No server. Load a SQLite DB, run predefined or custom queries, build queries visually, export CSV.</div>
+    </div>
+
+    <div class="card">
+      <label>Load your SQLite database (.db / .sqlite)</label>
+      <input id="dbfile" type="file" accept=".db,.sqlite" />
+      <div id="dbinfo" class="small" style="margin-top:8px"></div>
+    </div>
+
+    <div class="split">
+      <!-- LEFT: quick + custom -->
+      <div>
+        <div class="card">
+          <label>Quick / Predefined Queries</label>
+          <div style="display:flex; gap:8px">
+            <select id="quickSelect" class="col"></select>
+            <button id="runQuick">Run</button>
+          </div>
+          <div style="margin-top:8px" class="small">You can also choose a query and then edit the SQL in the Custom SQL box.</div>
+
+          <div style="height:12px"></div>
+
+          <label style="margin-top:10px">Custom SQL</label>
+          <textarea id="customSQL" placeholder="Type SQL here, e.g. SELECT * FROM crops LIMIT 50;"></textarea>
+          <div style="display:flex; gap:8px; margin-top:8px">
+            <button id="runCustom">Execute SQL</button>
+            <button id="formatSQL" class="ghost">Format (basic)</button>
+            <button id="exportCSV" class="ghost right">Export CSV</button>
+          </div>
+          <div id="queryMsg" class="small" style="margin-top:8px"></div>
+        </div>
+
+        <div class="card" style="margin-top:12px">
+          <label>Query Builder (visual)</label>
+          <div class="row">
+            <div class="col">
+              <label>Table</label>
+              <select id="tableList"></select>
+            </div>
+            <div style="width:120px">
+              <label>Limit</label>
+              <input id="builderLimit" type="text" placeholder="e.g. 100" />
+            </div>
+          </div>
+
+          <div style="display:flex; gap:10px; margin-top:10px">
+            <div style="flex:1">
+              <label>Columns (click to toggle)</label>
+              <div id="colList" style="max-height:160px; overflow:auto; padding:6px; border-radius:8px; border:1px solid #eef6ff; background:#fbfeff"></div>
+            </div>
+            <div style="width:220px">
+              <label>Simple WHERE (e.g. crop_name LIKE '%Rice%')</label>
+              <input id="builderWhere" type="text" placeholder="column = value or SQL snippet" />
+              <label style="margin-top:8px">GROUP BY (comma)</label>
+              <input id="builderGroup" type="text" placeholder="table.column, ..." />
+              <label style="margin-top:8px">ORDER BY (e.g. col DESC)</label>
+              <input id="builderOrder" type="text" placeholder="col ASC, col2 DESC" />
+            </div>
+          </div>
+
+          <div style="display:flex; gap:8px; margin-top:10px">
+            <button id="buildAndRun">Build & Run</button>
+            <button id="buildSQL" class="ghost">Build (copy to editor)</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- RIGHT: schema + results -->
+      <div>
+        <div class="card">
+          <label>Database Schema</label>
+          <div id="schemaArea" style="max-height:260px; overflow:auto; padding:8px; border-radius:8px; border:1px solid #eef6ff; background:#fbfeff"></div>
+        </div>
+
+        <div id="resultsCard" class="card" style="display:none; margin-top:12px">
+          <div style="display:flex; align-items:center">
+            <strong>Results</strong>
+            <div id="rowCount" class="pill right"></div>
+          </div>
+          <div id="tableWrap" style="margin-top:10px; overflow:auto; max-height:420px"></div>
+        </div>
+      </div>
+    </div>
+
+    <div style="height:24px"></div>
+    <div class="small">Tip: If a predefined query expects a crop name or state, edit it in the Custom SQL box before running.</div>
+  </div>
+
+<script>
+/* ----------------------------------------------------------
+   Embedded PREDEFINED_QUERIES (copied from your queries.py)
+   ---------------------------------------------------------- */
+const PREDEFINED_QUERIES = {
+  "List all crops": "SELECT * FROM crops;",
+  "List all districts": "SELECT district_id, district_name, state_name FROM districts;",
+  "Markets with district info": "\n    SELECT m.market_name, d.district_name, d.state_name\n    FROM markets m\n    JOIN districts d ON m.district_id = d.district_id;\n    ",
+  "High yield crops": "\n    SELECT c.crop_name, cd.avg_yield\n    FROM crop_district cd\n    JOIN crops c ON cd.crop_id = c.crop_id\n    WHERE cd.avg_yield > 2000;\n    ",
+  "Average yield per crop": "\n    SELECT c.crop_name, ROUND(AVG(cd.avg_yield), 2) AS avg_yield\n    FROM crop_district cd\n    JOIN crops c ON cd.crop_id = c.crop_id\n    GROUP BY c.crop_name\n    ORDER BY avg_yield DESC;\n    ",
+  "Total production per district": "\n    SELECT d.district_name, SUM(cps.production) AS total_production\n    FROM crop_production_statistic cps\n    JOIN districts d ON cps.district_id = d.district_id\n    GROUP BY d.district_name\n    ORDER BY total_production DESC;\n    ",
+  "Pesticide count per crop": "\n    SELECT c.crop_name, COUNT(cp.pesticide_id) AS pesticide_count\n    FROM crop_pesticide cp\n    JOIN crops c ON cp.crop_id = c.crop_id\n    GROUP BY c.crop_name\n    ORDER BY pesticide_count DESC;\n    ",
+  "Sustainability score per district": "\n    SELECT d.district_name, ROUND(AVG(s.sustainability_score), 2) AS avg_sustainability\n    FROM sustainability_data s\n    JOIN districts d ON s.district_id = d.district_id\n    GROUP BY d.district_name\n    ORDER BY avg_sustainability DESC;\n    ",
+  "Rainfall vs Yield": "\n    SELECT c.crop_name, cd.avg_yield, cr.rainfall\n    FROM crop_district cd\n    JOIN crops c ON cd.crop_id = c.crop_id\n    JOIN crop_requirements cr ON c.crop_id = cr.crop_id\n    WHERE cr.rainfall IS NOT NULL\n    ORDER BY cr.rainfall DESC;\n    ",
+  "Crop yield with weather": "\n    SELECT c.crop_name, d.district_name, cd.avg_yield, fw.maxT, fw.minT, fw.precipitation\n    FROM crop_district cd\n    JOIN crops c ON cd.crop_id = c.crop_id\n    JOIN districts d ON cd.district_id = d.district_id\n    JOIN farm_weather fw ON d.district_id = fw.district_id\n    ORDER BY cd.avg_yield DESC;\n    ",
+  "Crop price with market": "\n    SELECT c.crop_name, d.district_name, m.market_name, cap.arrival_date, cap.modal_price_rs_per_quintal\n    FROM crop_arrival_price cap\n    JOIN crops c ON cap.crop_id = c.crop_id\n    JOIN districts d ON cap.district_id = d.district_id\n    JOIN markets m ON cap.market_id = m.market_id\n    WHERE c.crop_name = 'Rice'\n    ORDER BY cap.arrival_date ASC;\n    ",
+  "Sustainability with pesticide": "\n    SELECT s.record_id, c.crop_name, d.district_name, s.sustainability_score, p.compound, p.high_estimate\n    FROM sustainability_data s\n    JOIN crops c ON s.crop_id = c.crop_id\n    JOIN districts d ON s.district_id = d.district_id\n    LEFT JOIN pesticide_use p ON d.district_id = p.district_id\n    ORDER BY s.sustainability_score DESC;\n    ",
+  "Productivity drivers": "\n    SELECT c.crop_name, d.district_name,\n           cr.N, cr.P, cr.K, cr.temperature, cr.humidity, cr.rainfall,\n           cd.avg_yield\n    FROM crop_requirements cr\n    JOIN crops c ON cr.crop_id = c.crop_id\n    JOIN crop_district cd ON c.crop_id = cd.crop_id\n    JOIN districts d ON cd.district_id = d.district_id\n    ORDER BY cd.avg_yield DESC;\n    ",
+  "Production stats by season": "\n    SELECT c.crop_name, d.district_name, cps.season, cps.area, cps.production, cps.yield\n    FROM crop_production_statistic cps\n    JOIN crops c ON cps.crop_id = c.crop_id\n    JOIN districts d ON cps.district_id = d.district_id\n    WHERE c.crop_name = 'Rice'\n    ORDER BY cps.season, cps.production DESC;\n    ",
+  "Arrivals with pesticides": "\n    SELECT c.crop_name, d.district_name, m.market_name, cap.arrival_date,\n           cap.modal_price_rs_per_quintal, p.compound\n    FROM crop_arrival_price cap\n    JOIN crops c ON cap.crop_id = c.crop_id\n    JOIN districts d ON cap.district_id = d.district_id\n    JOIN markets m ON cap.market_id = m.market_id\n    LEFT JOIN crop_pesticide cp ON c.crop_id = cp.crop_id\n    LEFT JOIN pesticide_use p ON cp.pesticide_id = p.pesticide_id\n    WHERE c.crop_name = 'Rice'\n    ORDER BY cap.arrival_date ASC;\n    ",
+  "Avg yield & sustainability": "\n    SELECT c.crop_name, d.district_name,\n           ROUND(AVG(cd.avg_yield),2) AS avg_yield,\n           ROUND(AVG(s.sustainability_score),2) AS avg_sustainability\n    FROM crop_district cd\n    JOIN crops c ON cd.crop_id = c.crop_id\n    JOIN districts d ON cd.district_id = d.district_id\n    LEFT JOIN sustainability_data s ON cd.crop_id = s.crop_id AND cd.district_id = s.district_id\n    GROUP BY c.crop_name, d.district_name\n    ORDER BY avg_yield DESC, avg_sustainability DESC;\n    ",
+  "Crops with markets and districts": "\n    SELECT c.crop_name, d.district_name, m.market_name\n    FROM crop_arrival_price cap\n    JOIN crops c ON cap.crop_id = c.crop_id\n    JOIN districts d ON cap.district_id = d.district_id\n    JOIN markets m ON cap.market_id = m.market_id\n    GROUP BY c.crop_name, d.district_name, m.market_name\n    ORDER BY c.crop_name;\n    ",
+  "Pesticide per crop & district": "\n    SELECT c.crop_name, d.district_name, p.compound, p.low_estimate, p.high_estimate\n    FROM crop_pesticide cp\n    JOIN crops c ON cp.crop_id = c.crop_id\n    JOIN pesticide_use p ON cp.pesticide_id = p.pesticide_id\n    JOIN districts d ON p.district_id = d.district_id\n    ORDER BY c.crop_name, d.district_name;\n    ",
+  "Insert crop": "\n    INSERT INTO crops(crop_id, crop_name, crop_group)\n    VALUES (1, 'Wheat', 'Cereal');\n    ",
+  "Insert district": "\n    INSERT INTO districts(district_id, state_name, district_name)\n    VALUES (1, 'Karnataka', 'Bangalore');\n    ",
+  "Insert crop district": "\n    INSERT INTO crop_district(crop_id, district_id, avg_yield, total_area, best_season)\n    VALUES (1, 1, 2500, 100, 'Rabi');\n    ",
+  "Update crop yield": "\n    UPDATE crop_district\n    SET avg_yield = 3000\n    WHERE crop_id = 1 AND district_id = 1;\n    ",
+  "Update pesticide high estimate": "\n    UPDATE pesticide_use\n    SET high_estimate = 500\n    WHERE pesticide_id = 1;\n    ",
+  "Delete crop": "\n    DELETE FROM crops WHERE crop_id = 1;\n    ",
+  "Delete crop district": "\n    DELETE FROM crop_district\n    WHERE crop_id = 1 AND district_id = 1;\n    "
+};
+
+/* ----------------------------------------------------------
+   App state
+   ---------------------------------------------------------- */
+let SQL;              // sql.js module
+let db = null;        // loaded DB
+let lastResults = { rows: [], columns: [] };
+
+/* ----------------------------------------------------------
+   Helpers: init sql.js
+   ---------------------------------------------------------- */
+async function initSqlJsAndStart() {
+  SQL = await initSqlJs({ locateFile: file => "https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.2/sql-wasm.wasm" });
+  // populate quickSelect names
+  const quick = document.getElementById('quickSelect');
+  Object.keys(PREDEFINED_QUERIES).forEach(k=>{
+    const o = document.createElement('option'); o.value = k; o.textContent = k; quick.appendChild(o);
+  });
+}
+initSqlJsAndStart();
+
+/* ----------------------------------------------------------
+   Load DB file
+   ---------------------------------------------------------- */
+document.getElementById('dbfile').addEventListener('change', async (ev) => {
+  const f = ev.target.files[0];
+  if(!f) return;
+  const buf = await f.arrayBuffer();
+  db = new SQL.Database(new Uint8Array(buf));
+  document.getElementById('dbinfo').textContent = `Loaded: ${f.name} — You can now run queries.`;
+  // update schema and table list
+  refreshSchema();
+});
+
+/* ----------------------------------------------------------
+   Schema explorer + table list
+   ---------------------------------------------------------- */
+function refreshSchema(){
+  if(!db) return;
+  const res = db.exec("SELECT name, type, sql FROM sqlite_master WHERE type IN ('table','view') ORDER BY name;");
+  const area = document.getElementById('schemaArea');
+  area.innerHTML = '';
+  const tableList = document.getElementById('tableList');
+  tableList.innerHTML = '';
+  if(!res || res.length===0){ area.textContent = 'No tables found.'; return; }
+  // gather tables
+  const rows = res[0].values || [];
+  rows.forEach(r=>{
+    const name = r[0];
+    const typ = r[1];
+    const sql = r[2];
+    const div = document.createElement('div');
+    div.style.marginBottom = '10px';
+    const h = document.createElement('div'); h.textContent = `${name} (${typ})`; h.style.fontWeight='600';
+    const p = document.createElement('div'); p.textContent = sql; p.style.fontSize='12px'; p.style.color='#555';
+    div.appendChild(h); div.appendChild(p);
+    area.appendChild(div);
+    // add to tableList
+    const opt = document.createElement('option'); opt.value = name; opt.textContent = name; tableList.appendChild(opt);
+  });
+  // Auto-populate columns for first table
+  populateColumns();
+}
+
+function populateColumns(){
+  const table = document.getElementById('tableList').value;
+  const colDiv = document.getElementById('colList');
+  colDiv.innerHTML = '';
+  if(!db || !table) return;
+  try {
+    const res = db.exec(`PRAGMA table_info(${table});`);
+    if(!res || res.length===0) return;
+    const cols = res[0].values.map(r => r[1]); // name is index 1
+    cols.forEach(c=>{
+      const btn = document.createElement('button');
+      btn.textContent = c;
+      btn.style.margin = '4px';
+      btn.style.padding = '6px 8px';
+      btn.style.borderRadius = '6px';
+      btn.style.border = '1px solid #ddeeff';
+      btn.style.background = '#fff';
+      btn.style.cursor = 'pointer';
+      btn.onclick = () => {
+        btn.classList.toggle('active');
+        if(btn.classList.contains('active')) { btn.style.background = '#eef6ff'; } else { btn.style.background = '#fff'; }
+      };
+      colDiv.appendChild(btn);
+    });
+  } catch(e){
+    console.error(e);
+  }
+}
+document.getElementById('tableList').addEventListener('change', populateColumns);
+
+/* ----------------------------------------------------------
+   Run Quick Query
+   ---------------------------------------------------------- */
+document.getElementById('runQuick').addEventListener('click', async ()=>{
+  const key = document.getElementById('quickSelect').value;
+  if(!key) return alert('Choose a predefined query first');
+  const sql = PREDEFINED_QUERIES[key];
+  document.getElementById('customSQL').value = sql.trim();
+  await runSQL(sql);
+});
+
+/* ----------------------------------------------------------
+   Run Custom SQL
+   ---------------------------------------------------------- */
+document.getElementById('runCustom').addEventListener('click', async ()=>{
+  const sql = document.getElementById('customSQL').value.trim();
+  if(!sql) return alert('Type or paste SQL first');
+  await runSQL(sql);
+});
+
+document.getElementById('formatSQL').addEventListener('click', ()=>{
+  // very basic prettify: add newlines after SELECT, FROM, WHERE, GROUP BY, ORDER BY
+  let s = document.getElementById('customSQL').value;
+  s = s.replace(/\s+FROM\s+/ig, '\nFROM ');
+  s = s.replace(/\s+WHERE\s+/ig, '\nWHERE ');
+  s = s.replace(/\s+GROUP BY\s+/ig, '\nGROUP BY ');
+  s = s.replace(/\s+ORDER BY\s+/ig, '\nORDER BY ');
+  s = s.replace(/\s+LIMIT\s+/ig, '\nLIMIT ');
+  document.getElementById('customSQL').value = s;
+});
+
+/* ----------------------------------------------------------
+   Build & Run (from builder)
+   ---------------------------------------------------------- */
+document.getElementById('buildAndRun').addEventListener('click', ()=>{
+  const tbl = document.getElementById('tableList').value;
+  if(!tbl) return alert('Pick a table first');
+  // columns selected:
+  const btns = Array.from(document.getElementById('colList').children);
+  const chosen = btns.filter(b=>b.classList.contains('active')).map(b=>b.textContent);
+  const cols = chosen.length? chosen.join(', ') : '*';
+  let sql = `SELECT ${cols} FROM ${tbl}`;
+  const where = document.getElementById('builderWhere').value.trim();
+  if(where) sql += ` WHERE ${where}`;
+  const group = document.getElementById('builderGroup').value.trim();
+  if(group) sql += ` GROUP BY ${group}`;
+  const order = document.getElementById('builderOrder').value.trim();
+  if(order) sql += ` ORDER BY ${order}`;
+  const lim = document.getElementById('builderLimit').value.trim();
+  if(lim && /^\d+$/.test(lim)) sql += ` LIMIT ${lim}`;
+  document.getElementById('customSQL').value = sql + ';';
+  runSQL(sql);
+});
+
+document.getElementById('buildSQL').addEventListener('click', ()=>{
+  // same as build but copy to editor only
+  const tbl = document.getElementById('tableList').value;
+  if(!tbl) return alert('Pick a table first');
+  const btns = Array.from(document.getElementById('colList').children);
+  const chosen = btns.filter(b=>b.classList.contains('active')).map(b=>b.textContent);
+  const cols = chosen.length? chosen.join(', ') : '*';
+  let sql = `SELECT ${cols} FROM ${tbl}`;
+  const where = document.getElementById('builderWhere').value.trim();
+  if(where) sql += ` WHERE ${where}`;
+  const group = document.getElementById('builderGroup').value.trim();
+  if(group) sql += ` GROUP BY ${group}`;
+  const order = document.getElementById('builderOrder').value.trim();
+  if(order) sql += ` ORDER BY ${order}`;
+  const lim = document.getElementById('builderLimit').value.trim();
+  if(lim && /^\d+$/.test(lim)) sql += ` LIMIT ${lim}`;
+  document.getElementById('customSQL').value = sql + ';';
+});
+
+/* ----------------------------------------------------------
+   runSQL - executes using sql.js and renders table
+   ---------------------------------------------------------- */
+async function runSQL(sql) {
+  const msg = document.getElementById('queryMsg');
+  if(!db) { alert('Load a database file first'); return; }
+  msg.textContent = 'Running...';
+  try {
+    // Allow multiple statements - run each; show last SELECT's result if any
+    const statements = sql.split(';').map(s=>s.trim()).filter(s=>s.length>0);
+    let lastRes = null;
+    for(const st of statements){
+      const low = st.trim().toLowerCase();
+      if(low.startsWith('select') || low.startsWith('with')) {
+        const res = db.exec(st);
+        lastRes = res && res.length? res[0] : {columns:[], values:[]};
+      } else {
+        // run non-select
+        db.run(st);
+        lastRes = null;
+      }
+    }
+    if(lastRes && lastRes.columns.length>0){
+      renderResults(lastRes.columns, lastRes.values);
+      msg.textContent = `OK — returned ${lastRes.values.length} rows`;
+      lastResults = { rows: lastRes.values, columns: lastRes.columns };
+    } else {
+      // no select result returned
+      renderResults([], []);
+      msg.textContent = 'OK — statement executed (no result set to show)';
+      lastResults = { rows: [], columns: [] };
+    }
+  } catch(e) {
+    msg.textContent = 'ERROR: ' + e;
+    renderResults([], []);
+    console.error(e);
+  }
+}
+
+/* ----------------------------------------------------------
+   Render results table and enable CSV export
+   ---------------------------------------------------------- */
+function renderResults(columns, rows){
+  const wrap = document.getElementById('tableWrap');
+  const rc = document.getElementById('rowCount');
+  const card = document.getElementById('resultsCard');
+  wrap.innerHTML = '';
+  if(!columns || columns.length===0){ card.style.display='none'; rc.textContent=''; return; }
+  card.style.display='block';
+  rc.textContent = rows.length + ' rows';
+  const table = document.createElement('table');
+  const thead = document.createElement('thead');
+  const headRow = document.createElement('tr');
+  columns.forEach(c=>{ const th=document.createElement('th'); th.textContent=c; headRow.appendChild(th); });
+  thead.appendChild(headRow);
+  table.appendChild(thead);
+  const tbody = document.createElement('tbody');
+  rows.forEach(r=>{
+    const tr = document.createElement('tr');
+    r.forEach(cell=> { const td=document.createElement('td'); td.textContent = (cell===null?'':cell); tr.appendChild(td); });
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  wrap.appendChild(table);
+}
+
+/* ----------------------------------------------------------
+   Export to CSV (uses lastResults)
+   ---------------------------------------------------------- */
+document.getElementById('exportCSV').addEventListener('click', ()=>{
+  const cols = lastResults.columns || [];
+  const rows = lastResults.rows || [];
+  if(!cols.length) return alert('No results to export');
+  let csv = cols.map(c=>`"${String(c).replace(/"/g,'""')}"`).join(',') + '\n';
+  rows.forEach(r=>{
+    csv += r.map(v=>`"${String(v===null?'':v).replace(/"/g,'""')}"`).join(',') + '\n';
+  });
+  const blob = new Blob([csv], {type:'text/csv'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'results.csv';
+  document.body.appendChild(a); a.click(); a.remove();
+});
+
+/* ----------------------------------------------------------
+   Keyboard shortcuts
+   ---------------------------------------------------------- */
+document.addEventListener('keydown', (e)=>{
+  if(e.ctrlKey && e.key==='Enter'){ // Ctrl+Enter run custom SQL
+    e.preventDefault(); document.getElementById('runCustom').click();
+  }
+});
+</script>
+</body>
+</html>
